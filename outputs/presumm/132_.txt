@@ -1,0 +1,40 @@
+index: 97
+
+
+hash: 498070832a087fad8d248d3eb7d5514fcddb7747
+
+
+#article: 
+hsbc has apologised after a link on its official website directed visitors to a pornographic page .
+anyone trying to access the bank 's page for the young entrepreneur awards - which has since been shut down - was greeted by images of women posing naked or having sex .
+the porn site took over the address after the awards were scrapped in 2011 and the organisers allowed its registration on hsbc.com.hk to retire .
+blunder : hsbc has apologised after a link on its official website directed visitors to a pornographic page ( pictured )
+for that reason , the website 's url address which would usually connect to a third-party website transferred visitors to the porn business instead , a banking source told the south china morning post .
+hsbc yesterday removed the hyperlink from its main website after realising its embarrassing mistake .
+a spokesman denied the bank had any associations with the external site and offered its apology to the public .
+in a public statement dated april 20 , hsbc said ` a link to an external third-party website has been removed ' from its community projects webpage .
+it added : ` hsbc is not in any way associated with the external third-party website .
+hsbc would like to apologise to the public for any inconvenience caused . '
+the banking giant insisted its website remained secure .
+hsbc 's internet banking service allows customers to check their account balances , transfer funds , and apply for loans and insurance , among others .
+embarrassing : the porn site took over the young entrepreneurs wards page after they were scrapped in 2011 and the organisers allowed its registration to retire ( hong kong branch pictured )
+
+#reference: 
+graphic images appeared on defunct young entrepreneurs awards sites
+pornographic site took over address after the page was shut down in 2011
+hsbc has since apologised for error and denied association with the page
+
+
+
+#extractive: 
+the porn site took over the address after the awards were scrapped in 2011 and the organisers allowed its registration on hsbc.com.hk to retire .
+anyone trying to access the bank 's page for the young entrepreneur awards - which has since been shut down - was greeted by images of women posing naked or having sex .
+hsbc has apologised after a link on its official website directed visitors to a pornographic page .
+
+
+
+#extractive+abstractive: 
+anyone trying to access the bank 's page for the young entrepreneur awards was greeted by images of women posing naked or having sex
+the porn site took over the address after the awards were scrapped in 2011 and the organisers allowed its registration to retire
+hsbc yesterday removed the hyperlink from its main website after realising its embarrassing mistake
+

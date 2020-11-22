@@ -1,0 +1,47 @@
+index: 283
+
+
+hash: 19682b6c3e094113c6ed0f51a77cede399c79d95
+
+
+#article: 
+horrific cctv footage has emerged of a husband smashing his dancer wife 's head into concrete paving 11 times then shooting her in the face five times .
+he later confessed that he 'd carried out the brutal act ` because he was jealous of men looking at her ' .
+sickening video captured on security cameras shows crazed milton vieira severiano , 32 , dragging the limp body of dancer cicera alves de sena , 29 , into the garden of their apartment in the city of rio de janeiro in eastern brazil .
+horrific cctv footage has emerged of a husband smashing his dancer wife 's head into concrete paving 11 times then shooting her in the face five times
+milton vieira severiano confessed that he battered and shot his wife because he was jealous of men looking at her
+dancer cicera alves de sena ( pictured ) was killed by her husband after he 'd yelled at her that she was ` a slut '
+cicera alves de sena belonged to a dance troop called jaula das gostozuedas
+he then dumps her on the ground before grabbing her by the hair and savagely slamming the back of her head into the concrete 11 times before viciously punching her in the face another 10 times .
+leaving the battered and unconscious dancer on the ground he goes into the house and returns with a handgun , shooting her in the face five times at pointblank range .
+horrified neighbour lelio maya puga , 33 , said : ` they had only been married four days when i heard a terrible argument coming from their apartment .
+` she belonged to a dance group called jaula das gostozuedas which i have been to see and am a big fan of .
+` he was yelling and accusing her of being a slut and a whore and screaming that she would be better off dead .
+` i knew something terrible was happening and then things went silent until i heard the gunshots . '
+after shooting his wife , who went by the stage name of amanda bueno , severiano stole a neighbour 's car but was picked up by police after crashing it during his getaway .
+a police spokesman said : ` in his car we found four handguns , a shotgun and a bullet proof vest .
+` he confessed to murdering his wife and said he had been jealous of men looking at her . '
+he now faces life in jail .
+crime scene : people gather outside the couple 's house after the shocking incident took place
+police found four handguns , a shotgun and a bullet proof vest in severiano 's getaway car
+
+#reference: 
+milton vieira severiano was filmed killing his wife , cicera alves de sen
+the savage act took place in the garden of their rio de janeiro house
+he later confessed the crime to police who found guns in his getaway car
+
+
+
+#extractive: 
+milton vieira severiano confessed that he battered and shot his wife because he was jealous of men looking at her
+dancer cicera alves de sena ( pictured ) was killed by her husband after he 'd yelled at her that she was ' a slut '
+horrific cctv footage has emerged of a husband smashing his dancer wife 's head into concrete paving 11 times then shooting her in the face five times .
+
+
+
+#extractive+abstractive: 
+milton vieira severiano , 32 , battered and shot wife cicera alves de sena , 29
+she was killed after he 'd yelled at her that she was ' a slut '
+he then dumped her on the ground and savagely slammed the back of her head into the concrete 11 times before viciously punching her in the face another 10 times
+he now faces life in jail after admitting he 'd carried out the brutal act ` because he was jealous of men looking at her '
+

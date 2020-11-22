@@ -1,0 +1,27 @@
+index: 1444
+
+
+hash: edd03985da66593982269e9e0216b4a5d88158da
+
+
+#article: 
+a pit crew member was hit by a car on sunday during the inaugural indycar grand prix of louisiana .
+todd phillips , a front-outside tire changer for dayle coyne racing , was injuried when he was struck by the car of francesco dracone , who had come in on lap 25 for tires and fuel .
+dracone spun while exiting his put box , clipping phillips ' leg .
+tire changer todd phillips , a front-outside tire changer for dayle coyne racing , was injuried when he was struck by the car of francesco dracone , who had come in on lap 25 for tires and fuel
+phillips was taken to the infield care center for treatment where he has received stitches for a cut on his leg and has been released .
+many cars struggled with traction during the race after rain had fallen for hours leading up to the green flag .
+dracone did not finish the race and wound up 23rd .
+francesco dracone ( 19 ) , of italy , spins out on turn one during the indycar grand prix of louisiana auto race in avondale on sunday
+
+#reference: 
+pit crew member todd phillips was hit by a car on sunday during the inaugural indycar grand prix of louisiana . 
+ he was injuried when he was struck by the car of francesco dracone , who had come in on lap 25 for tires and fuel . 
+ phillips received stitches for a cut on his leg and has been released . 
+ dracone did not finish the race and wound up 23rd . 
+
+
+#decode: 
+todd phillips , a front-outside tire changer for dayle coyne racing , was injuried when he was struck by the car of francesco dracone , who had come in on lap 25 for tires and fuel . 
+ dracone spun while exiting his put box , clipping phillips ' leg . 
+ phillips was taken to the care center for treatment where he has received stitches for a cut on his leg and has been released . 

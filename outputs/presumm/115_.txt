@@ -1,0 +1,34 @@
+index: 6011
+
+
+hash: 9abbd3d508d4620e6c1f54d9c5521729c3d7c886
+
+
+#article: 
+kabul , afghanistan ( cnn ) a suicide bomber detonated his explosives near a group of protesters in eastern afghanistan on thursday , killing 17 people and wounding dozens more , police said .
+an afghan lawmaker taking part in the protests in the city of khost was among the 64 people wounded , said faizullah ghairat , the provincial police chief .
+taliban spokesman zabiullah mujahid denied his group was responsible for the attack .
+no other organization has so far claimed responsibility .
+humayoon humayoon , an afghan member of parliament for khost province , and the other protesters were on their way to join a larger rally against the provincial governor , according to zahir jan , an eyewitness .
+the suicide attack hit the group around 10 a.m. local time , police said .
+cnn 's masoud popalzai reported from kabul , and jethro mullen wrote from hong kong .
+cnn 's elizabeth joseph contributed to this report .
+
+#reference: 
+an afghan lawmaker is among 64 people wounded in the attack , police say
+taliban spokesman denies his group was responsible for the attack
+
+
+
+#extractive: 
+an afghan lawmaker taking part in the protests in the city of khost was among the 64 people wounded , said faizullah ghairat , the provincial police chief .
+kabul , afghanistan ( cnn ) a suicide bomber detonated his explosives near a group of protesters in eastern afghanistan on thursday , killing 17 people and wounding dozens more , police said .
+taliban spokesman zabiullah mujahid denied his group was responsible for the attack .
+
+
+
+#extractive+abstractive: 
+a suicide bomber detonated his explosives near a group of protesters in eastern afghanistan
+an afghan lawmaker taking part in the protests in the city of khost was among the 64 people wounded
+taliban spokesman zabiullah mujahid denies his group was responsible for the attack
+

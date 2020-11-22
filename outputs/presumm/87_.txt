@@ -1,0 +1,49 @@
+index: 7316
+
+
+hash: bc0d2521881c2d501779b18b87a31a559c22fa64
+
+
+#article: 
+every woman surveyed in paris claimed to have been a victim of some kind of sexual harassment on the city 's public transport .
+half of them were assaulted before they were 18 years old .
+the poll led to calls for a campaign to stem sexist or threatening behaviour on buses and trains .
+the survey found that " every female user of mass transit has been a victim " of " gender harassment or sexual assault " -- even though some are " unaware " of this because they have been conditioned to accept low-level abuse .
+every woman surveyed in paris claimed to have been a victim of some kind of sexual harassment on the city 's public transport
+the poll of 600 women from the area around paris found that half of those interviewed said they had first suffered harassment under the age of 18 .
+harassment can range from " insults to other intimidating behaviour ( insistent flirting , whistling , comments on appearance ) , to sex attacks or rape , " it said .
+the problem meant that six out of ten women were afraid of being attacked on public transport compared to three out of ten men .
+often " invisible " because unreported , these physical and verbal attacks limit " the freedom of women , because they are often obligated to alter their daily lives : changing their routes , modes of transportation , schedules , attitudes and clothing in order to avoid confrontation , " the report handed to the french women 's rights ministry this week , claimed .
+the result was to " exclude women from the public arena " , it said .
+pascale boisard , president of the high council for gender equality , which compiled the report , told le parisien she had not realised that " the problem was quite this widespread " .
+the poll led to calls for a campaign to stem sexist or threatening behaviour on buses and trains .
+pictured : the haussmann-saint-lazare railway station in paris
+" women must be able to move about and occupy the public space without being placed in danger or threatened .
+it 's a fundamental freedom , " she said .
+ernestine ronai , also on the council , said : " attackers are the impression they can act with total impunity , notably by making use of a crowd to hide and flee .
+" women do n't necessarily know how to put words on what they go through in public transport .
+it should be reiterated that putting your hand on someone 's backside is sexual assault punishable by a five-year prison term and a € 75,000 fine . "
+she said women needed to be better " educated that what they 're going through is not normal " , and that the message must reach " aggressors and witnesses " .
+
+#reference: 
+the poll surveyed 600 women from the area in and around paris
+all claimed to have been victim of harassment on transport system
+found half of those interviewed had been assaulted before they were 18
+led to calls for campaign to stem sexist and threatening behaviour
+
+every woman surveyed in paris claimed to have been a victim of some kind of sexual harassment on the city 's public transport .
+half of them were assaulted before they were 18 years old .
+the poll led to calls for a campaign to stem sexist or threatening behaviour on buses and trains .
+
+#extractive: 
+half of them were assaulted before they were 18 years old .
+the poll led to calls for a campaign to stem sexist or threatening behaviour on buses and trains .
+the poll of 600 women from the area around paris found that half of those interviewed said they had first suffered harassment under the age of 18 .
+
+
+
+#extractive+abstractive: 
+poll of 600 women in paris found half of those surveyed said they had suffered harassment
+six out of ten women were afraid of being attacked on public transport compared to three out of 10 men
+french women 's rights ministry said the problem was to " exclude women from the public arena "
+

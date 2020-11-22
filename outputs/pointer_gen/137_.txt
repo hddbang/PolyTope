@@ -1,0 +1,30 @@
+index: 3141
+
+
+hash: 964a202a699359e8cfc4bb68027ea4f5f7965f88
+
+
+#article: 
+bolton-born boxer amir khan spent his friday alongside some fellow natural born fighters as he enjoyed a family trip to a safari park in northern california . khan posed alongside , and also fed , a rare but dangerous white tiger as well posing with stunning giraffes and sea lions at six flags discovery kingdom . the 28-year-old was joined by his wife faryal makhdoom khan as well as his daughter lamysa as they all enjoyed some time off . bolton-born boxer amir khan enjoyed a day a safari park with his family in northern california . khan and his wife and daughter pose with a giraffe as they enjoy a family day at the adventure park . khan feeds a rare white tiger during his time at the american adventure park in california . earlier this week khan ended speculation over his next opponent by announcing he will fight former light-welterweight world champion chris algieri on may 30 . khan had come under increasing pressure to take on british rival and ibf welterweight champion kell brook in june . however , khan , who was also linked with bouts against adrien broner and keith thurman , said he was already deep in negotiations to fight somebody else . khan ( left ) has announced his next fight will be against chris algieri at welterweight on may 30 .
+
+#reference: 
+amir khan took his family to an adventure park in northern california .
+khan posed alongside a rare white tiger as well as a giraffe and sea lion .
+earlier this week the bolton-born fighter announced his return to the ring .
+khan will take on former light-welterweight world champion chris algieri .
+
+#baseline: 
+amir khan and his wife UNK khan pictured in a safari park in northern california .
+khan was joined by his wife UNK UNK khan as well as their daughter UNK as they all enjoyed time off .
+khan was joined by his wife UNK UNK khan as well as their daughter UNK as they all enjoyed time off .
+khan has announced his next fight will be against chris algieri at welterweight on may 30 .
+
+#pointer-generator: 
+bolton-born boxer amir khan enjoyed a family trip to a safari park in northern california .
+khan enjoyed a day a safari park with his family in northern california .
+khan had come under increasing pressure to take on british rival and ibf welterweight champion kell brook in june .
+
+#pointer-gen-coverage: 
+amir khan spent his friday alongside some fellow natural born fighters as he enjoyed a family trip to a safari park in northern california .
+khan posed alongside , and also fed , a rare but dangerous white tiger as well posing with stunning giraffes and sea lions at six flags discovery kingdom .
+khan had come under increasing pressure to take on british rival and ibf welterweight champion chris algieri on may 30 .

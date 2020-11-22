@@ -1,0 +1,57 @@
+index: 4376
+
+
+hash: 3dcd704a5081d123cd746b35f1460dd9315b9695
+
+
+#article: 
+four royal navy sailors charged with the gang rape of a young woman at an alcohol-fuelled party at a canadian barracks must stay in nova scotia until they have been tried .
+the four men appeared in turn in a courtroom in dartmouth , near halifax , where they were given identical but unusual bail conditions that could see them having to live on a canadian naval base for the next few years .
+bail was set at over £ 2,000 for each of them but they also agreed to surrender their passports and live at the nearby stadacona naval base in halifax .
+accused : joshua finbow , 23 , a submarine engineer from stockbridge , hampshire , arrives at court today
+two of the accused , simon radford , 31 , of gosport , hampshire and craig stoner , 24 , from stonehouse , gloucestershire hid their faces as they were led to a provincial court in dartmouth , nova scotia
+darren smalley , 35 , of gosport , hampshire , and his co-accused were ordered to surrender their passports as part of their bail conditions
+in a deal agreed with the british government , they will also continue to work for the royal navy and draw their current pay .
+it was not clear last night how they will keep themselves occupied thousands of miles from their shipmates and a representative from the british high commission who was in court refused to elaborate .
+the four -- joshua finbow , 23 , a submarine engineer , craig stoner , 24 , simon radford , 31 , and darren smalley , 35 -- had been playing for the royal navy ice hockey team in a tournament at the shearwater naval base just east of halifax .
+the alleged sexual assault , in which police sources say all four men had sexual intercourse with their victim , took place on april 10 after the sailors had returned to the barracks from a hockey game .
+sources say their victim , who is aged in her early 20s and lives in halifax , had accompanied a friend who had been invited to attend the party by local canadian servicemen .
+yesterday , all four men -- three of them wearing black royal navy ice hockey team hoodies -- looked relieved to be getting out of custody as they respectfully answered judge john macdougall 's questions .
+charged : royal navy sailors joshua finbow , 23 , ( left ) and simon radford , 31 , ( right ) appeared in court
+held : craig stoner , 24 , ( left ) and darren smalley , 35 , ( right ) are being held by military police in canada
+they all said they understood their bail conditions and crown prosecutor eric taylor said outside court that the accused had not asked to be returned to the uk .
+they were ordered to return to court on may 27 and given the names of seven people -- the victim and six witnesses -- who they were forbidden to contact .
+they must not leave the province of nova scotia and can not apply for new passports .
+they must remain employed by the navy and must not resign without the court 's permission .
+the four , no longer trying to hide their faces , later filed out of the court building and were driven away together in a large white suv to their new home on the close stadacona base .
+they ignored a question over how they might plead in the case .
+commander michael o'sullivan , the air and naval advisor at the british high commission , has spoken to the four and described the alleged offences as ` serious ' but stressed they were as yet only allegations .
+naval base : the east coast navy base at halifax , nova scotia , near to where the alleged incident occurred
+military base : an aerial view of the shearwater military base where four british sailors are accused of assaulting a civilian
+the commander , who drove the car the men left the court in , added : ` we 're assisting the canadian authorities with their investigation . '
+the four are charged with sexual assault causing bodily harm and group sexual assault -- offences that are punishable by up to 14 years in prison .
+crown prosecutor eric taylor said the investigation was still at an early stage and the results of forensic tests could result in additional charges .
+` it will be up to the royal navy to decide now how to employ them while their charges are working their way through the court , ' he said .
+canadian military investigators have described the alleged offences as ` a disturbing accusation of sexual assault ' .
+sorry we are not currently accepting comments on this article .
+
+#reference: 
+four royal navy sailors are bailed following hearing nova scotia , canada
+three sailors are from hampshire , one is from gloucestershire
+they are charged with raping a 21-year-old woman at military base party
+men were in canada playing a hockey tournament with canadian forces
+
+
+
+#extractive: 
+four royal navy sailors charged with the gang rape of a young woman at an alcohol-fuelled party at a canadian barracks must stay in nova scotia until they have been tried .
+bail was set at over # 2,000 for each of them but they also agreed to surrender their passports and live at the nearby stadacona naval base in halifax .
+the four men appeared in turn in a courtroom in dartmouth , near halifax , where they were given identical but unusual bail conditions that could see them having to live on a canadian naval base for the next few years .
+
+
+
+#extractive+abstractive: 
+joshua finbow , 23 , a submarine engineer , craig stoner , 24 , simon radford , 31 , and darren smalley , 35 , appeared in court in dartmouth , nova scotia
+they were given identical but unusual bail conditions that could see them having to live on a canadian naval base for the next few years
+they also agreed to surrender their passports and live at nearby stadacona naval base in halifax
+

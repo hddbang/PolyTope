@@ -1,0 +1,60 @@
+index: 898
+
+
+hash: 47ebf6233d9af85783700a1d611930317258619e
+
+
+#article: 
+the mother of a girl who was murdered 40 years ago has spoke of the horror of recently seeing crime scene photos of her daughter 's body .
+virginia trimble ritter 's daughter , marcia , was raped and choked to death by jerome sydney barrett in 1975 .
+marcia 's body was found 33 days after she disappeared and ritter 's then-husband advised her against seeing the body and the crime scene photos .
+the mother of a girl who was murdered 40 years ago finally asked to see the crime scene photos of her daughter 's body and now says she wants revenge .
+virginia trimble ritter 's daughter , marcia , was raped and choked to death by jerome sydney barrett in 1975
+marcia 's body was found 33 days after she disappeared and ritter 's then-husband advised her against seeing the body and the crime scene photos
+charlie , who died in 1989 , wanted their last memory to be of her running in and out of the house , ` the real marcia . '
+but ritter told the tennessean , last year it was a decision she now regrets .
+` i have never seen a close-up photo and i want to .
+i 'm going to . '
+she had declined to see the photos for several decades , and not even after barrett was convicted 33 years later .
+but last year she asked mickey miller , metro police lead investigator who worked on the case if she could see them .
+she says he tried to convince her not to see them , but she persisted and she viewed them on his laptop .
+jerome sidney barrett , 68 , was found guilty of second-degree murder six years ago and a davidson county criminal court jury imposed a sentence of 44 years ( pictured in 2009 )
+` her mouth was black , ' ritter said .
+` and her face , her head was swollen .
+it did n't look like marcia .
+but to see her other parts of her body looked like marcia .
+she said her daughter had vomit across her , her hair was pulled out in parts and there was blood on her scalp .
+ritter said she shouted , ` if i had a gun i 'd kill him ! '
+marcia 's body was found 150 yards from her home amid the clutter of a rarely used , windowless garage , under a shower curtain and a child 's wading pool .
+she had been strangled and sexually assaulted , and her cookie money was missing .
+cookies were scattered around the clothed body .
+a neck bone was fractured .
+the case was nashville 's most notorious unsolved murder for 33 years .
+in 1979 police charged a trimble neighbor with the slaying , but prosecutors dropped the charges about a year later because of lack of evidence .
+he was 15 at the time of the crime .
+barrett , 68 , was living in memphis when he was arrested in 2006 .
+he was brought in after police matched the dna on the murdered child 's clothing to that of his .
+the match happened after he was arrested for the 1975 murder of vanderbilt university student sarah vannatta des prez .
+barrett had been in prison on sex charges between 1974 and 2002 except for about a year when marcia disappeared .
+in 2009 he was found guilty of second-degree murder of marcia and a davidson county criminal court jury imposed a sentence of 44 years .
+
+#reference: 
+virginia trimble ritter 's daughter , marcia , was raped and choked to death by jerome sydney barrett in 1975
+the case was nashville 's most notorious unsolved murder for 33 years
+ritter , who did not see her daughter 's body at the time , recently asked to see the photos investigators took at the scene
+after seeing the photos , ritter said she shouted , ` if i had a gun i 'd kill him ! '
+
+
+
+#extractive: 
+virginia trimble ritter 's daughter , marcia , was raped and choked to death by jerome sydney barrett in 1975 .
+marcia 's body was found 33 days after she disappeared and ritter 's then-husband advised her against seeing the body and the crime scene photos .
+charlie , who died in 1989 , wanted their last memory to be of her running in and out of the house , ` the real marcia . '
+
+
+
+#extractive+abstractive: 
+virginia trimble ritter 's daughter , marcia , was raped and choked to death by jerome sydney barrett in 1975
+her body was found 33 days after she disappeared and ritter 's then-husband advised her against seeing the body and the crime scene photos
+she had declined to see the photos for several decades , and not even after barrett was convicted 33 years later
+

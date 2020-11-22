@@ -1,0 +1,27 @@
+index: 4804
+
+
+hash: 3e4c0c1aa4fdf0b711c34a2ec3aa9f5a4140d2e0
+
+
+#article: 
+more than 25 women have been airlifted from royal navy ships because of pregnancy . one ship - hms ocean – even had five pregnant sailors removed in emergency ' medevacs ' during the last nine years , a freedom of information request revealed . and at least one woman was airlifted from hms illustrious , which was nicknamed ' hms lusty ' by the crew before it was decommissioned last year . more than 25 women have been airlifted from royal navy ships because of pregnancy , including at least one woman from hms illustrious ( above ) , which was nicknamed ' hms lusty ' by the crew before it was decommissioned last year . eighteen other ships - including hms dragon , hms enterprise and hms richmond - had emergency evacuations , data obtained by the sun showed . a ministry of defence spokesman confirmed there was a strict ' no touching ' rule in place at sea , which suggests the women conceived before boarding the ships or during leave . the data comes nine months after commander sarah west , the first woman to captain a royal navy warship , was flown back to the uk following claims she had a sexual relationship with a member of her crew . an unnamed captain was appointed in her place and a military investigation was launched into the 42-year-old 's conduct . a ministry of defence spokesman confirmed there was a strict ' no touching ' rule in place at sea , which suggests the women conceived before boarding the ships or during leave ( stock image above ) . navy sources said ms west left hms portland for ‘ personal reasons’ . the ministry of defence would not confirm what these reasons were or what action she would face . women have been serving on royal navy ships since 1990 and in 2014 around 9 per cent of personnel were female . last may three women made history by becoming the first female submariners to serve in the royal navy . nearly 100 female british soldiers were sent home from afghanistan after finding out they were pregnant . ninety-nine servicewomen on operations were flown back to the uk between january 2006 and december 2013 , a freedom of information request revealed . sixteen women were removed from afghanistan in 2013 due to pregnancy while 18 were sent home in 2011 , the data showed . a further 102 women were evacuated from iraq . strict military rules ban mothers-to-be from serving in war zones . the women were flown back on flights usually reserved for injured troops and the true figure could be higher if others travelled via routine flights . troops are reminded by senior officers to check they are not pregnant before they fly to the front line - but are not made to do pregnancy tests . most of the babies would have been conceived before the mother left the uk but a small number of women may have become pregnant on tour . a ministry of defence spokesman said at the time : ' the small numbers of personnel who discover that they are pregnant on operations are returned at the first convenient opportunity . '
+
+#reference: 
+hms ocean had five women removed in nine years , according to new data .
+at least one sailor airlifted from hms illustrious , nicknamed ' hms lusty ' .
+mod spokesman confirmed there was a strict ' no touching ' rule in place .
+
+#baseline: 
+more than 25 women have been airlifted from royal navy ships because of pregnancy .
+more than 25 women have been airlifted from royal navy ships because of pregnancy , including at least one woman from hms illustrious .
+
+#pointer-generator: 
+more than 25 women have been airlifted from royal navy ships because of pregnancy .
+at least one woman was airlifted from hms illustrious , which was nicknamed ' hms lusty ' by the crew before it was decommissioned last year .
+more than 25 women have been airlifted from royal navy ships because of pregnancy .
+
+#pointer-gen-coverage: 
+more than 25 women have been airlifted from royal navy ships because of pregnancy .
+at least one woman was airlifted from hms illustrious , which was nicknamed ' hms lusty ' by the crew before it was decommissioned last year .
+eighteen other ships - including hms enterprise and hms richmond - had emergency evacuations .

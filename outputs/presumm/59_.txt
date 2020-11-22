@@ -1,0 +1,75 @@
+index: 9542
+
+
+hash: 31cd7a6a48a3e625311a9c1f3a5a007fea500488
+
+
+#article: 
+just 13 and in the grip of a terrifying obsession surviving on just one piece of fruit a day , anorexic schoolgirl laura scurr 's body started to shut down .
+the 15-year-old , from whitley bay , was left on a heart machine after she collapsed through starvation but has now spoken about pressures put on teenagers to be a ` size zero ' .
+laura became so obsessed with having the perfect figure she would hide food down the side of her bed , lying to her mother about eating and sometimes surviving on just a piece of fruit a day .
+laura scurr , 15 , has spoken out about the pressures on young girls to be a size zero after , having becoming obsessed with her own weight , she developed anorexia
+but her dramatic weight loss led to horrific consequences when she suddenly collapsed at her family home and was rushed to intensive care .
+laura has spoken about her two-year fight with anorexia and revealed the pressures she felt to be thin .
+she said : ` at the worst point i was hiding food down the sides of the settee or beds , lying to my mum about having meals , and eating about 100 calories a day .
+` i would even try to have mashed potato with each meal so i could hide the rest of the food under it , that way it looked like i 'd ate more . '
+after spending a week on a heart monitor at north tyneside general hospital , laura was finally offered support from eating disorder organisations as she began her recovery .
+problems started for the teen two years ago when she decided she wanted to go on a diet .
+` i was nearly 13 stone and felt like i was too big , ' laura said .
+` i 'd been bullied a little bit because of my weight , people saying things like ` here comes the whale ' and that made me feel horrible .
+laura was living off just one piece of fruit a day and would hide her food down the side of her bed so her parents would n't see it
+laura continued : ` i would look around at the other girls and they all seemed to be skinny and , of course , i wanted to be like them and fit into all the different types of clothes .
+` but it was n't just people i knew .
+i felt there was a lot of pressures from all over the place .
+everywhere you looked there seemed to be this idea that girls should be a size zero . '
+laura agreed with mum sue , 48 , to go on a ` sensible diet ' but soon the whitley bay high school pupil became frustrated , wanting to lose more weight , quicker .
+according to the nhs anorexia or anorexia nervosa , to give its full name , is a serious mental health condition in which people try to keep their body weight as low as possible .
+it is often said that people will often restrict their intake of food , make themselves vomit or increase the amount of exercise they are doing .
+the condition often develops in people who are anxious about their body shape or weight , or in those who fear being fat or wish to be thin .
+anorexia most commonly occurs in women , starting around the age of 16 or 17 .
+although there are cases of men suffering from the disease too .
+often people suffering from anorexia will obsessively count calories , take laxatives and repeatedly weight themselves or check their bodies in the mirror .
+if you think you know someone who is suffering from the disease talk to them gently about it .
+often it can be hard for them to seek help .
+you can also seek advice from an eating disorder charity such as beat , who will be able to talk you through how to help them and how to handle the situation .
+in february 2015 it was estimated that around 725,000 people were suffering from an eating disorder in the uk - 10 per cent of those were suffering from anorexia .
+` it was coming off quite slowly , at about 2 lbs a week , ' said laura .
+` but i became much more obsessive about it and decided to reduce my calorie intake .
+` in the end , i was virtually eating nothing , maybe an apple or orange a day .
+` i could tell my parents were getting worried , they could n't understand why i did n't want to eat . '
+lack of food soon took its toll on laura 's health and her heart rate started slowing .
+she said : ` i was in bed for three or four days , never going out of the house .
+` i would feel dizzy or pass out because my heart rate was so slow . '
+finally after a week of eating virtually nothing , laura collapsed .
+no happy and healthy laura has made it to the semi final of miss teen gb , the competition aims to stay away from size zero stereotypes
+sue , who works in sales , said : ` an ambulance was called and she was taken to hospital and put on the heart monitor for a week .
+her body had just started to shut down .
+` it was frightening , i was shocked that this was happening to my daughter .
+` i remember sitting by her hospital bed and saying " laura , do you realise how sick you are ? "
+but she just said " i do n't care , as long as i 'm skinny " .
+` it was then i realised just how much pressure she , and all girls , were under to look a certain way . '
+after getting discharged laura began working with eating disorder teams ( edict ) and child and adolescent mental health services ( camhs ) to help in her recovery .
+today , her body image is better than ever and her new-found confidence has allowed her to make it through to the semi final of miss teen gb .
+the contest aims to promote ` positive and confidence-building experiences ' for young girls , away from size zero stereotypes .
+
+#reference: 
+at 13 , laura scurr went on a diet which would turn into a scary obsession
+laura developed anorexia and would survive on one piece of fruit a day
+now 15 she has overcome the disorder and is battling back
+laura has spoken of the pressures on young girls to be a size zero
+
+
+
+#extractive: 
+laura scurr , 15 , has spoken out about the pressures on young girls to be a size zero after , having becoming obsessed with her own weight , she developed anorexia
+but her dramatic weight loss led to horrific consequences when she suddenly collapsed at her family home and was rushed to intensive care .
+laura was living off just one piece of fruit a day and would hide her food down the side of her bed so her parents would n't see it
+
+
+
+#extractive+abstractive: 
+laura scurr , 15 , from whitley bay , was left on a heart machine after she collapsed through starvation
+she became obsessed with having the perfect figure and would hide food down the side of her bed , lying to her mother about eating and sometimes surviving on just a piece of fruit a day
+her dramatic weight loss led to horrific consequences when she collapsed at her family home and was rushed to intensive care
+she has now spoken out about the pressures on young girls to be a ` size zero '
+

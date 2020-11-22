@@ -1,0 +1,39 @@
+index: 55
+
+
+hash: 0c97632f605d6555f288cf32e13ec9e233608626
+
+
+#article: 
+fans of blockbusters like men in black , batman forever and how the grinch stole christmas will have a chance to own a piece of hollywood history when an amazing collection of props and puppets goes under the hammer at the end of may .
+the collection , which was created by legendary make-up effects artist rick baker , will be auctioned off at the hilton universal city in los angeles , california , and on propstore.com this may 29 .
+the collection from baker 's cinovation studio is worth an estimated $ 746,100 and some of the individual items are expect to fetch more than $ 40,000 when they are offered to the public for the first time .
+alien edgar bug from men in black has an estimated value of $ 40,000 and could end up selling for much more
+the two face mask from batman forever is valued at , $ 1,500 .
+actor tommy lee jones played the villain
+the grinch costume from the jim carrey film how the grinch stole christmas is listed at $ 8,000
+this mikey costume from men in black has an estimated value of $ 30,000 and is one of the pricier lots
+this odd-looking hammerhead alien , which is also from men in black , was listed at $ 8,000 by prop store
+the 417 original items are from more than 50 productions , according to icon versus icon .
+during baker 's 30-year career , the 64-year-old worked on other films like an american werewolf in london , planet of the apes , batman & robin , hellboy and mighty joe young .
+items from those movies , as well as from michael jackson 's 1988 moonwalker film and 1983 thriller music video , will all be sold to the highest bidder .
+the iconic harry suit from harry and the hendersons is valued at $ 6,000 but will likely sell for more than that
+this bat gremlin from gremlins 2 : the new batch has a value of $ 8,000 and is one of a few gremlins items
+the mohawk mogwai puppet from gremlins 2 : the new batch is listed at $ 8,000 .
+remember , do n't get it wet
+this frozen thug statue from batman & robin is named frosty and it has an estimated value of $ 4,000
+this bat puppet from batman forever is listed at $ 6,000 and it comes with the message : the evil setrakian '
+brandon alinger of prop store said : ' " we are delighted to offer a no reserve live auction of over 400 items direct from rick baker 's cinovation studio to the public .
+` baker 's career needs no introduction and it 's been an honor to work with him to prepare this sale , which spans his 30-plus years in the business .
+` the rick baker auction is an exciting opportunity for collectors and fans of the make-up artist to have a chance to take home some of the brilliant creations from their favorite films . " '
+the worm guy from men in black ii has been valued at $ 10,000 and is one of a handful of mib items
+this michael jackson robotic transformation face is from the film moonwalker and it has a value of $ 3,000
+the hero joe head from mighty joe young has a value of $ 6,000 .
+baker also worked on planet of the apes .
+this daffy gremlin puppet from gremlins 2 is valued at $ 6,000 and is one of more than 400 of baker 's items
+
+#reference: 
+more than 400 items from rick baker 's cinovation studio will be auctioned .  artist has worked on hits like men in black , batman forever and gremlins .  baker worked on michael jackson 's moonwalker film and thriller video .  this is first time these items from 64-year-old 's collection open to public .  auction will be held in los angeles , california , on may 29 and also online . 
+
+#decode: 
+the collection will be auctioned off at the hilton universal city in los angeles , california , and on propstore.com this may 29 .  the collection from baker 's cinovation studio is worth an estimated $ 746,100 and some of the individual items are expect to fetch more than $ 40,000 when they are offered to the public for the first time .  the two face mask from batman forever is valued at , $ 1,500 . 

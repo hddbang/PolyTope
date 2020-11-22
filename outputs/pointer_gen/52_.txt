@@ -1,0 +1,31 @@
+index: 4400
+
+
+hash: ac31de65be34fd73a624df0f60c5a813ed435fbd
+
+
+#article: 
+theo walcott sitting on a bench along with six of his arsenal colleagues is starting to become a familiar sight given the fact that he has been overlooked for the majority of the season . the arsenal winger has been pictured on a different kind of bench with his team-mates as he was pictured for a photoshoot with calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil . walcott and co , along with runway model olga sherer , have posed for an official portrait for paris ' oldest fashion house - lanvin - the club 's official tailor since 2013 . theo walcott ( third right ) poses for a lanvin photoshoot alongside runway model olga sherer , calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil . walcott , pictured with wilshere and wojciech szczesny , has spent much of the season on the bench . the 26-year-old looks on from the bench during arsenal 's 0-0 draw with chelsea at the emirates stadium . arsenal 's first team stars will be dressed in similar attire when arsene wenger 's side make their way to wembley stadium for their fa cup final encounter against aston villa on may 30 . walcott , who has been named on arsenal 's substitutes ' bench for 17 of their 33 barclays premier league games , came on for the last six minutes of his side 's goalless draw with chelsea on sunday . the 26-year-old will be hoping to make his first arsenal start since his side 's 3-0 win over west ham on march 14 when the gunners face hull at the kc stadium on monday .
+
+#reference: 
+arsenal winger theo walcott was joined by his team-mates for photoshoot .
+walcott and six of his arsenal colleagues were showing off club suits .
+the england ace was joined by calum chambers , jack wilshere , mikel arteta , david ospina , mathieu flamini and mesut ozil .
+walcott has been named on the bench for 17 of arsenal 's league games .
+read : walcott needs to look wenger in the eye and discuss future .
+
+#baseline: 
+arsenal winger has been overlooked for the majority of the season .
+theo walcott is the club 's official tailor since 2013 .
+arsenal 's first team stars will be dressed in similar outfits .
+arsenal 's first team stars will be dressed in similar attire .
+
+#pointer-generator: 
+arsenal winger theo walcott has spent much of the season on the bench .
+the 26-year-old has spent much of the season on the bench .
+the 26-year-old has spent much of the season on the bench .
+
+#pointer-gen-coverage: 
+theo walcott has been pictured on a different kind of bench with his team-mates as he was pictured for a photoshoot with calum chambers , jack wilshere , mikel arteta , david ospina , david ospina , mathieu flamini and mesut ozil .
+walcott and co , along with runway model olga sherer , have posed for an official portrait for paris ' oldest fashion house - lanvin - the club 's official tailor since 2013 .
+walcott , who has been named on arsenal 's substitutes ' bench for 17 of their 33 barclays premier league games , came on for the last six minutes .

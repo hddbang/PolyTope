@@ -1,0 +1,48 @@
+index: 6757
+
+
+hash: 39a4d998085ab7b5d7bfe868494b16853f0c3ac8
+
+
+#article: 
+jack grealish must concentrate on his aston villa career rather than his international future , according to tim sherwood .
+sherwood has been impressed with the 19-year-old who starred for villa in their fa cup semi-final win over liverpool on sunday and is now at the centre of a tug of war between the republic of ireland and england .
+but sherwood wants grealish to focus on continuing to force his way into the villa first team .
+jack grealish takes on liverpool 's emre can at wembley during aston villa 's 2-1 victory at wembley
+grealish ( centre ) impressed against liverpool and is wanted by the republic of ireland and england
+` it 's up to jack where he wants to go .
+it 's purely up to him .
+what i 've got to do is make sure he 's got that decision to make .
+he must be doing something right for aston villa if he 's got those options .
+that 's my priority , ' sherwood told talksport .
+` then it 's up to jack to decide where he wants to go .
+i had the same situation with nabil bentaleb [ at tottenham ] , who could have played for france but decided to pick algeria .
+i did have a chat with him and he asked me what to do .
+i just said : " you 've got to go with your heart .
+do you think you 're french or algerian ? "
+` that 's the decision he had to make and now jack has got to make that decision .
+he has to play a few more times for aston villa before he needs to make that decision .
+when some kids come and play with the first team sometimes , they 're a bit overawed , but jack 's not .
+` he receives the ball and dribbles it around people .
+they kick lumps out of him because he 's so confident .
+the ball is his friend , it sticks to his foot .
+the more opportunities he gets , the better he 's going to become . '
+grealish is expected to choose between ireland and england at the end of the season and sportsmail understands that he is split between the two countries at the moment .
+grealish 's dad kevin agreed that his son must concentrate on his club football first .
+` that is fantastic [ advice ] .
+he had a good game against [ liverpool ] and a few games decent recently and he has to keep doing that first and the international stuff will come , ' he told talksport .
+` it is going to be a difficult decision and it is completely up to jack .
+` there is a friendly coming up soon and he could play 45 minutes for ireland and 45 minutes for england .
+grealish ( left ) has played for the republic of ireland 's youth teams but england will hope to turn his head
+tim sherwood celebrates villa 's win over liverpool and wants more of the same from grealish
+
+#reference: 
+jack grealish is wanted by the republic of ireland and england
+tim sherwood wants the 19-year-old to focus on playing more for villa
+grealish will make a decision over international future at end of the season
+
+
+#decode: 
+jack grealish must concentrate on his aston villa career rather than his international future , according to tim sherwood .
+sherwood has been impressed with the 19-year-old who starred for villa in their fa cup semi-final win over liverpool on sunday and is now at the centre of a tug of war between the republic of ireland and england .
+jack grealish takes on liverpool 's emre can at wembley during aston villa 's 2-1 victory at wembley

@@ -1,0 +1,30 @@
+index: 6010
+
+
+hash: 328038379b62820b80d564f58587cc3f407642c8
+
+
+#article: 
+at the grand old age of 75 , jack nicklaus is still capable of hitting aces . the golden bear added another magic moment to his storied career at augusta national in the par-3 contest . stepping up to the tee on the 130-yard fourth , the greatest golfer of all time saw his shot sail beyond the flag before spinning back into the hole . jack nicklaus gave the crowd something to cheer with a hole in one on the fourth during the par-3 contest . nicklaus holds up his ball to an adoring crowd as gary player ( left ) and ben crenshaw salute the great . crenshaw and nicklaus fist pump following his ace on the 130-yard hole at augusta national . nicklaus was playing alongside gary player and ben crenshaw as the first roar of masters week filled the skies in a sunswept georgia . ' i had an interview this morning , and i said `` well , all i 've got to do is go out and win the par-3 and make a hole and one '' , and i make a hole in one , ' nicklaus said afterwards . the ace was nicklaus ' first on the hallowed turf of augusta , but the veteran saw his achievement eclipsed by that of camilo villegas on a day which saw five hole-in-ones , levelling the record from 2002 . the colombian followed nicklaus with an ace on the fourth and also managed one on the eighth , but he could n't quite land the title , losing out to world no 74 kevin streelman in a play-off . nicklaus became the youngest person to wear a green jacket in 1963 , and collected his sixth in 1986 . he is one of five men to complete the career grand slam , an accolade which favourite rory mcilroy can achieve if he wins his third major in succession .
+
+#reference: 
+nicklaus , a six-time winner at augusta , added another glorious moment to his glittering masters career with an ace on the fourth .
+the 75-year-old saw his shot sail beyond the flag before spinning back into the cup .
+the crowd roared in celebration with several players stopping their round to cheer the golden bear .
+colombian camilo villegas later eclipsed nicklaus ' achievement , hitting two aces during his round .
+villegas was beaten in a play-off by world no 74 kevin streelman .
+
+#baseline: 
+englishman jack nicklaus is still capable of hitting titles at the grand old age of 75 .
+nicklaus was playing alongside gary neville , ben UNK and ben UNK .
+nicklaus was playing alongside gary neville , ben UNK and ben UNK .
+
+#pointer-generator: 
+jack nicklaus gave the crowd something to cheer with a hole in one on the fourth during the par-3 contest .
+nicklaus holds up his ball to an adoring crowd as gary player and ben crenshaw salute the great .
+nicklaus was playing alongside gary player and ben crenshaw as the first roar of masters week .
+
+#pointer-gen-coverage: 
+jack nicklaus gave the crowd something to cheer with a hole in one on the fourth during the par-3 contest .
+nicklaus was playing alongside gary player and ben crenshaw as the first roar of masters week filled the skies in a sunswept georgia .
+nicklaus became the youngest person to wear a green jacket in 1963 , and collected his sixth in 1986 .

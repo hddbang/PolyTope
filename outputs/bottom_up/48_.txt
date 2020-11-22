@@ -1,0 +1,61 @@
+index: 8799
+
+
+hash: 763cddeeee5df0493de39075c6986d376bb994c0
+
+
+#article: 
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+and now developers at open garden have built a small device designed to make these off-the-grid networks stronger .
+called greenstone , the egg-shaped gadget acts like a beacon , or booster , to help messages move around these so-called wireless mesh networks more easily .
+its firechat app paved the way for chatting to friends without the need for the web or even a mobile signal .
+and now developers at open garden have built greenstone - a small egg-shaped gadget that acts like a beacon , or a booster , to help messages move around so-called wireless mesh networks more easily
+firechat launched last year and has been downloaded more than five million times .
+it takes advantage of a feature that launched in apple 's ios 7 called multipeer connectivity framework ( mcf ) .
+android has a similar feature that works over bluetooth .
+mcf lets you send messages and photos even when a person has no signal by creating what is called a wireless mesh network .
+apple added to multipeer connectivity framework ( mcf ) to ios 7 .
+it creates what 's called a wireless mesh network that connects phones to each other .
+instead of sending messages using mobile or data signal , the features lets users send messages to people in close proximity that are in bluetooth or wi-fi direct range - up to around 30 feet ( 9 metres ) .
+it does this by creating a localised network in which each phone becomes a node and the data is passed between nodes .
+apple uses the framework for its airdrop feature , for example , which makes it easy to send files and data to other connected iphone users .
+however , there are limits to how far a message can travel in this way - at around 200ft ( 61 metres ) - and greenstone has been designed to solve this .
+when a user opens the firechat app , they pick a screen name to start sending messages .
+within the app there are ` chatrooms ' with ` everyone ' and ` nearby ' options .
+the former will search for all users , while the latter option applies to people within bluetooth and wi-fi range who are also using the app .
+this is particularly useful when on a plane , or the underground .
+it can also be used to save money on data plans , for example .
+the app creates a localised network in which each phone becomes a node , and the data is passed between nodes .
+uses the framework for its airdrop feature , for example , which makes it
+easy to send files and data to other connected iphone users .
+these messages are sent securely , so the individual nodes ca n't read them .
+users can also send messages anonymously to avoid snooping , for example , because data is sent from app usernames , as opposed to mobile numbers .
+elsewhere , because the feature does n't use an internet connection , it ca n't be infiltrated by hackers .
+the ` everyone ' setting allows people to send information further , however .
+it does this by bringing all its nodes
+onto one network and relaying messages from one node to another until
+it reaches the final recipient .
+in firechat ( left ) there are ` chatrooms ' called everyone and nearby .
+the former searches for all users , while the latter applies to people within bluetooth and wi-fi range .
+it takes advantage of a tool used by apple for airdrop ( right ) .
+this creates a network in which phones become nodes , and data is passed between nodes
+are simply a vehicle for passing data along a network .
+internet network any device that 's connected to the network is also
+firechat ( pictured ) has been downloaded more than five million times and is particularly useful when on a plane , or the underground
+for example , if a network has a phone , tablet , two computers and a printer connected to it there are five nodes on the network .
+of these devices has a network address which is used to uniquely
+this helps keep track of where data is being
+transferred to and from on the network .
+however , there are limits to how far a message can travel in this way - at around 200ft ( 61 metres ) - and greenstone has been designed to plus these gaps .
+christophe daligault , chief marketing officer at open garden told daily dot : ` the combination between [ greenstone ] and the smartphones will enable a community , or a neighbourhood , or a hospital , or any other situation where they want resilient communication , even in the case of not having any connectivity . '
+it could also be placed in certain locations at music festivals , organised protests , football matches and other events where having large numbers of people can crash networks .
+greenstone is still under development and only currently works with firechat at a range of around 20ft ( 6 metres ) .
+messages sit on greenstone until another firechat comes within range , and the device has a one-year battery life .
+it can additionally hold up to 1,000 of the most recent messages .
+open garden is now working with manufacturers to design and sell greenstone and the timeframe will depend on these partnerships .
+
+#reference: 
+greenstone acts like a booster for so-called wireless mesh networks .  it currently works with open garden 's firechat ` off-the-grid ' firechat app .  both use an ios feature called multipeer connectivity framework -lrb- mcf -rrb- .  instead of sending messages using a mobile signal , the free app and gadget create a localised network where each mobile becomes a ` node ' 
+
+#decode: 
+developers at open garden have built a small egg-shaped gadget that acts like a beacon , or booster , to help messages move around so-called wireless mesh networks more easily .  firechat launched last year and has been downloaded more than five million times .  it creates what 's called a wireless mesh network that connects phones to each other . 

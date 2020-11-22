@@ -1,0 +1,45 @@
+index: 4615
+
+
+hash: e40fa02a27848bafee6b15a57eed4519f0c3c6e9
+
+
+#article: 
+on the pitch this season , chelsea have been hitting their targets ... and off it , eden hazard and three of his blues team-mates have been doing the same .
+taking part in audi 's football challenge , hazard and nathan ake paired up to take on loic remy and willian in a head-to-head challenge for the car manufacturers .
+in round one , the chelsea stars aim to fire balls into the boot of a car from close range , with hazard and ake securing the points with a 5-3 win .
+one of the challenges the chelsea players were set was to sink balls into convertible audi 's from long range
+17-goal man eden hazard and youngster nathan ake took on blues ' team-mates loic remy and willian
+from there , they take to a makeshift tennis court , where the net is replaced by a £ 127,000 audi r8 v10 plus , and the players must play over the top of it .
+once again , it is 17-goal man hazard and his partner ake who come up trumps , winning the decider to take a 6-0 lead after the first two rounds .
+it is in the final game that most points are won , as the players shoot from long range aiming to sink their footballs through the top of a convertible audi .
+hazard poses next to a £ 127,000 r8 v10 plus audi , which played the part of tennis net in one challenge
+the final challenge involved the players shooting at cars from long range , with remy and willian winning
+hazard throws footballs up to his team-mate ake , who tries to fire them into the boot of an audi
+willian and remy redeem themselves to produce a shock win over their team-mates , but the pair were involved in the biggest misfortune of the day on their way to victory .
+shown in a short clip at the very end of the video , willian can be seen smashing the wing mirror off one of the audi 's with a long-range effort .
+team-mate remy 's hands-on-head reaction says it all ... but we 're pretty sure he wo n't have to pay to repair the damage .
+remy puts his hands on his head after watching willian smash the wing mirror of one of the cars
+willian laughs after being allowed to drive one of the audi 's that was part of the football challenge
+
+#reference: 
+four chelsea stars took part in audi 's football challenge
+they were tasked with various challenges involving the expensive cars
+eden hazard and nathan ake faced willian and loic remy in the video
+willian accidentally smashes the wing mirror of one of the audi 's
+click here for all the latest chelsea news
+
+
+
+#extractive: 
+taking part in audi 's football challenge , hazard and nathan ake paired up to take on loic remy and willian in a head-to-head challenge for the car manufacturers .
+in round one , the chelsea stars aim to fire balls into the boot of a car from close range , with hazard and ake securing the points with a 5-3 win .
+one of the challenges the chelsea players were set was to sink balls into convertible audi 's from long range
+
+
+
+#extractive+abstractive: 
+eden hazard and nathan ake took on loic remy and willian in audi 's football challenge
+the blues stars aim to fire balls into the boot of a car from close range
+hazard and ake secured the points with a 5-3 win over their team-mates
+

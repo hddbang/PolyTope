@@ -1,0 +1,26 @@
+index: 11062
+
+
+hash: 636494a6269212efd26632268b5f6cdc35f6ecff
+
+
+#article: 
+this little piggy has become an internet sensation after learning how to walk on just two feet . the piglet was born with its back legs missing and has mastered the art of balancing on its front trotters . the heartwarming clip featured on the people 's daily online shows the young animal taking unsteady steps , wobbling about with its snout to the ground , foraging for food . heartwarming : the two-legged pig has become an internet sensation because of a cute video showing it learning to walk . there are several occasions it looked close to tipping over but remarkably the piglet always manages to regain its balance . it happily mixes with the rest of the litter , which have all been born with a full complement of legs . the piglet belongs to farmer , ms duan , from qionglai city in sichuan province , south western china . since its birth , villagers have flocked to take a peek at the curious animal . tricky : the piglet has to use extraordinary balance to stand on its front trotters while all its siblings were born with all four legs . athletic : the piglet , nicknamed ' super pig ' can balance on its two front trotters and has captured the hearts of thousands since a video went online . siblings : one of the other piglets looks to copy the two-legged creature as it takes a quick rest from trotting about . ms duan said : ' when the piglets were feeding i noticed something strange with one of them . ' when i picked it up i could see it had no hind legs . ' it is not the first animal with two legs instead of four to win plaudits in china . a rabbit at liuzhou zoo became a star attraction after learning to walk on its front paws . many tourists in china 's guangxi province have been taking a detour to see the furry star hop on its front paws . looking for grub : the piglet balances on two legs while keeping its snout to the ground in the hunt for food .
+
+#reference: 
+piglet was born in china with only two front legs has learned to walk .
+villagers have flocked to see the two-legged animal in qionglai city .
+a video released online and has captured the hearts of thousands .
+
+#baseline: 
+the piglet was born with its back legs missing and has mastered the art of balancing on its front .
+the piglet was born with its back legs missing and has mastered the art of balancing on its front .
+
+#pointer-generator: 
+the piglet was born with its back legs missing and has mastered the art of balancing on its front trotters .
+the piglet belongs to farmer , ms duan , from qionglai city in sichuan province , south western china .
+
+#pointer-gen-coverage: 
+the piglet was born with its back legs missing and has mastered the art of balancing on its front trotters .
+the clip featured on the people 's daily online shows the young animal taking unsteady steps , wobbling about with its snout to the ground , foraging for food .
+it is not the first animal with two legs instead of four to win plaudits in china .

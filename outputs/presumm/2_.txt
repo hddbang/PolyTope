@@ -1,0 +1,59 @@
+index: 2642
+
+
+hash: 7e094e3a413d6876c41f641e09d5886f234f2804
+
+
+#article: 
+an african american teenager who was shot by a police officer in the back because his friend was holding a toy gun is suing los angeles for $ 20 million .
+jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd 's criminal gang-homicide unit approached the boys with their guns drawn .
+the la times reports that one of the teenagers was holding a toy gun that the officers thought was real and it prompted the officers to fire .
+suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million
+nicholson was shot in the back by officer miguel gutierrez and is in pain but he says he and his friends feel lucky to be alive .
+nicholson was standing next to the unidentified teenager who was holding the replica of the gun .
+` jamar is really lucky to be alive .
+with respect to the other kids , they are lucky as well that they were n't hit .
+it does n't appear that the officer who shot used a lot of discrimination with where he aimed the pistol , ' jamar 's attorney herbert hayden told yahoo news .
+the gun that officers thought was real had an orange tip indicating that it was fake .
+another attorney john w. harris who is representing nicholson and his friend 17-year-old jason huerta is arguing that nicholson and his friend posed no threat to police officers or themselves .
+` the lapd shot first and then asked questions later , ' harris said .
+the lapd says that at 7.45 am on february 10 , officers saw a teen holding what appeared to be a gun and they claim they told him to drop it .
+: one of the teens present at the shooting was holding this fake gun with an orange tip that lapd say they thought was real
+` officers ordered him to drop the weapon multiple times .
+the individual ignored the officer 's commands , ' a police news release reads .
+attorney hayden said that had a camera been rolling , the lapd 's story may have been expressed differently .
+` the police department 's officers have each other 's backs .
+if there is no camera rolling , they are free to construe the facts how they see fit , ' hayden said .
+` it 's so bizarre in this incident that testimony of the people we interviewed is so drastically different from the story the lapd has been pumping out since this first started , ' he added .
+hayden said that the officer who shot nicholson , miguel gutierrez , also shot and killed a dog in 2008 when responding to a traffic collision .
+both nicholson and huerta said they feel traumatized by what happened to them .
+seeking justice : jamar nicholson , second from left , listens to his attorney john harris speak during a press conference on wednesday in south los angeles where he was shot on february 10
+nicholson said he had to miss school as a result of the shooting and said that he felt tremendous pain from his injuries .
+` i see a cop and i get nervous , ' he said .
+` i 've never really looked at police in a certain way , until that day . '
+nicholson and huerta say they have never been in trouble with the law before .
+` you can check our records , ' huerta insisted .
+` that 's a bad way to meet officers , ' nicholson said .
+` got off on the wrong foot , ' huerta said .
+officer gutierrez has returned to full duty since the incident , though it remains under investigation .
+
+#reference: 
+jamar nicholson , 15 , was shot in the back by officer miguel gutierrez on february 10 because his friend was holding a toy gun
+nicholson and his friend jason huerta , 17 , are suing the city of los angeles for $ 20m
+officer miguel gutierrez who shot nicholson has returned to duty but the incident is under investigation
+
+
+
+#extractive: 
+jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10 when two police officers working for the lapd 's criminal gang-homicide unit approached the boys with their guns drawn .
+suing la for millions : jamar nicholson ( left ) and his friend jason huerta ( right ) , who stand solemnly in the alleyway where nicholson was shot , are suing the city of los angeles for $ 20 million
+: one of the teens present at the shooting was holding this fake gun with an orange tip that lapd say they thought was real
+
+
+
+#extractive+abstractive: 
+jamar nicholson , 15 , and his friends were hanging out in an alleyway in south l.a. before school on february 10
+two police officers working for the lapd 's criminal gang-homicide unit approached the boys with their guns drawn
+one of the teens present at the shooting was holding a fake gun that lapd say they thought was real and it prompted the officers to fire
+nicholson was shot in the back by officer miguel gutierrez and is in pain but says he and the friends feel lucky to be alive
+

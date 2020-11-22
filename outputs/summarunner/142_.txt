@@ -1,0 +1,36 @@
+index: 9070
+
+
+hash: 8700d1a061a3eb361a3a678a1f3b344a504715e9
+
+
+#article: 
+tokyo ( cnn ) a bizarre and alarming discovery is raising concerns in japan about the potential for terrorism involving drones .
+a drone carrying traces of a radioactive material was found on the rooftop of japan 's equivalent to the white house on wednesday , police and government officials said .
+the discovery came on the same day a japanese court approved a government plan to restart two reactors at the sendai nuclear power plant in kagoshima prefecture , more than four years after the fukushima daiichi nuclear disaster .
+prime minister shinzo abe 's push to restart the reactors is unpopular among many japanese , who view nuclear energy as too dangerous .
+a staff member spotted the drone wednesday morning on the roof of abe 's residence , tokyo metropolitan police said .
+dozens of police investigators were dispatched to the roof to investigate the origin of the drone , which had four propeller and was 50 centimeters ( 20 inches ) wide .
+police say the drone was equipped with a small camera , smoke flares and a plastic bottle containing small traces of a radioactive material believed to be cesium , a common byproduct of nuclear reactors .
+cesium was also discovered in areas around the failed fukushima daiichi nuclear plant after its 2011 meltdown .
+investigators suspect the cesium was placed in the bottle .
+the amount inside is not immediately harmful to humans .
+chief cabinet secretary yoshihide suga said the discovery is raising concerns about terrorism .
+" there might be terrorism attempts in the future at the olympics and g7 summit using drones , " suga said .
+" so we need to examine and review continuously the way small unmanned vehicles like drones should be operated and how to cope with the threat of terrorism from drones .
+the government will do all that we can to prevent terrorism . "
+japanese law restricts drone flights around airports to prevent problems with aircraft , but there are no flight restrictions for most of tokyo , including the prime minister 's residence and local and federal government buildings .
+abe was not in his office at the time .
+he is in indonesia , attending the asian-african conference .
+cnn 's elizabeth joseph , joshua berlinger and josh levs contributed to this report .
+
+#reference: 
+the drone is sparking terrorism concerns , authorities say
+it was equipped with a bottle containing radioactive material
+it was discovered as a court approved a plan to restart two japanese nuclear reactors
+
+
+#decode: 
+tokyo ( cnn ) a bizarre and alarming discovery is raising concerns in japan about the potential for terrorism involving drones .
+a drone carrying traces of a radioactive material was found on the rooftop of japan 's equivalent to the white house on wednesday , police and government officials said .
+the discovery came on the same day a japanese court approved a government plan to restart two reactors at the sendai nuclear power plant in kagoshima prefecture , more than four years after the fukushima daiichi nuclear disaster .

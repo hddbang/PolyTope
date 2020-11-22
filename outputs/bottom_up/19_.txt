@@ -1,0 +1,50 @@
+index: 4287
+
+
+hash: 862330937cc06b461525bd492ce803540573d000
+
+
+#article: 
+( cnn ) whether quaffing artisanal cocktails at hipster bars or knocking back no-name beers on the couch , more americans are drinking heavily -- and engaging in episodes of binge-drinking , concludes a major study of alcohol use .
+heavy drinking among americans rose 17.2 percent between 2005 and 2012 , largely due to rising rates among women , according to the study by the institute for health metrics and evaluation at the university of washington , published thursday in the american journal of public health .
+the centers for disease control and prevention defines heavy drinking as exceeding an average of one drink per day during the past month for women and two drinks per day for men .
+binge drinking is defined as four or more drinks for women and five or more drinks for men on a single occasion at least once during the past month .
+the increases are driven largely by women 's drinking habits as social norms change , researchers found .
+in santa clara county , calif. , for example , women 's binge drinking rates rose by nearly 36 percent between 2002 and 2012 , compared with 23 percent among men .
+nationwide over the course of the decade , the rate of binge drinking among women increased more than seven times the rate among men .
+opinion : why are more women drinking ?
+" it seems like women are trying to catch up to the men in binge drinking , " said ali mokdad , a lead author of the study .
+" it 's really , really scary . "
+the study is the first to track adult drinking patterns at the county level .
+in 2012 , 8 percent of americans were considered heavy drinkers and 18 percent were binge drinkers .
+despite the increases in heavy drinking , the percentage of people who drink any alcohol has remained relatively unchanged over time , researchers found .
+madison county , idaho , reported the lowest rate of binge drinking in 2012 , at 6 percent , while menominee , wis. , had the highest rate , at 36 percent .
+hancock county , tenn. , had the fewest heavy drinkers ( 2 percent of residents ) and esmeralda county , nev. , recorded the most ( 22 percent ) .
+related : 1 in 5 high school girls binge drink
+about 88,600 u.s. deaths were attributed to alcohol in 2010 , the researchers note , and the cost of excessive drinking has been estimated at more than $ 220 billion per year .
+the increase in binge drinking does n't surprise terri fukagawa , clinical director of the new life recovery centers in san jose , calif. , where 15 of her 24 treatment beds are filled with clients primarily addicted to alcohol .
+she said she 's seen more people seeking treatment for alcoholism in the past four years .
+still , she noted , " there are a lot of people still out there needing treatment , but they wo n't come in unless they have a consequence like losing a job or [ getting ] a dui .
+they think they have control over it . "
+public health experts offer a number of cultural and economic explanations for the increase in excessive drinking .
+as a result of changed social norms , it 's now more acceptable for women to drink the way men traditionally have , said tom greenfield , scientific director at the alcohol research group at the oakland , calif.-based public health institute .
+young people are more likely to binge drink , and affluent people have the money to drink more .
+so the influx of wealthy professionals in cities like san francisco , san jose and oakland -- many in hard-working , hard-partying tech jobs -- may have helped spur significant spikes in drinking rates in the bay area and similar communities , experts said .
+taxes on alcohol have not risen along with the consumer price index , so wine , beer and liquor have gotten cheaper over time in real dollars , he said .
+alcohol advertising , particularly for hard liquor , has increased in recent years .
+a federal trade commission study found that companies spent about $ 3.45 billion to advertise alcoholic beverages in 2011 .
+alcohol control policies , such as limits on when and where alcohol can be sold and how long bars can stay open , have weakened in past decades , greenfield said .
+that may partly explain rising consumption nationwide , particularly in some states where " blue laws " once prohibited alcohol sales on sundays or in supermarkets .
+to conduct the study , researchers analyzed data on about 3.7 million americans aged 21 and older from the behavioral risk factor surveillance system , an ongoing telephone survey of health behaviors conducted by the u.s. centers for disease control .
+kaiser health news ( khn ) is a nonprofit national health policy news service .
+
+#reference: 
+heavy drinking among americans rose 17.2 percent between 2005 and 2012 . 
+ the increase is driven largely by women 's drinking habits . 
+ it 's now more acceptable for women to drink the way men traditionally have , says one expert . 
+
+
+#decode: 
+heavy drinking among americans rose 17.2 percent between 2005 and 2012 . 
+ women 's binge drinking rates rose by nearly 36 percent between 2002 and 2012 . 
+ rate of binge drinking among women increased more than seven times . 

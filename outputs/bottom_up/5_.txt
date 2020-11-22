@@ -1,0 +1,27 @@
+index: 190
+
+
+hash: be1e7611899cfded70a3320df97e34f7ad89a28c
+
+
+#article: 
+conor mcgregor is gearing up for a featherweight title challenge against jose aldo on july 11 and has unveiled a fearsome new tattoo ahead of the encounter .
+the 26-year-old irishman has already got a picture of a gorilla eating a heart inked upon his chest and ` the notorious ' has now revealed a tiger 's face tattooed onto his stomach .
+` if you see the tiger , it 's too late .
+you 're food , ' mcgregor wrote next to the instagram post of his new artwork .
+conor mcgregor reveals his new tattoo of a tiger on his stomach to his instagram followers
+mcgregor ( left ) poses in the shop with a fan shortly after having his tattoo on his stomach done
+mcgregor is challenging jose aldo for his featherweight champion title in las vegas on july 11
+aldo makes the eighth defence of his belt against the irish fighter in las vegas , but mcgregor claimed last week that the man he is challenging lacks the same motivation as him .
+` he does n't want to be near me , he does n't want this the way i want it , ' mcgregor said .
+` he ca n't hide the fact he does n't want the belt in his presence . '
+conor mcgregor grabbed aldo 's ( left ) belt when they took their promotional tour to dublin
+mcgregor claims he has greater motivation to win the title than aldo has to defend it for the eighth time
+at the end of march , the duo were undergoing a promotional tour in dublin when mcgregor grabbed the belt from aldo and raised it in front of 5,000 home supporters .
+the pair have a fractious relationship as it is , with a little under three months away until mcgregor has a chance to legitimately hold the belt before his supporters .
+
+#reference: 
+conor mcgregor shared a picture of his new tiger tattoo on his stomach .  the 26-year-old mcgregor is set to challenge jose aldo on july 11 .  mcgregor grabbed aldo 's featherweight champion belt in dublin .  click here for all the latest ufc news . 
+
+#decode: 
+conor mcgregor has already got a picture of a gorilla eating a heart inked on his chest and ` the notorious ' has now revealed a tiger 's face on his stomach .  mcgregor wrote next to the instagram post of his new artwork .  mcgregor claims he has no motivation to win the title in las vegas on july 11 . 

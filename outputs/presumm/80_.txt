@@ -1,0 +1,55 @@
+index: 2197
+
+
+hash: 31661ef5d634eb48e20606fa2facb150c3bc0235
+
+
+#article: 
+mike brown admitted he would adopt a ` cautious ' approach in recovering from his latest concussion setback .
+the england full-back remains unsure when he will return after pulling out of harlequins ' aviva premiership clash with saracens at wembley last weekend .
+northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term .
+england full back mike brown admits he is unsure when he will return to action for club side harlequins
+brown is determined not to suffer an extended break - so will not rush himself back to action ahead of time .
+` it was just after the france game , there was n't one incident where i was dizzy or concussed , but after the game i just did n't feel quite right , ' said brown .
+` i had a headache the sunday and monday , so just being cautious with it , i do n't want to get into the situation where you get a few knockouts or something .
+` you do n't want to be into a situation where you 're out for a long time like johnny sexton or geoff parling or something like that .
+` so with what 's coming up at the end of the year , everyone 's being cautious , and i 'm being cautious as well .
+george north will not play against clermont auvergne on saturday and will see a neurosurgeon
+north suffered his fourth quick-fire concussion after being knocked out against wasps on friday night
+` i think it 's just ongoing to see how i am stage by stage .
+` i 'll just see how i am with the stages , do the 20-minute bike , see how i am after that and take it from there . '
+brown was knocked out cold in england 's 47-17 victory over italy at twickenham in the second round of rbs 6 nations action in february .
+the harlequins flyer had hoped to recover in time to face ireland in dublin on march 1 , but pulled out in the build-up .
+brown said increased awareness of the symptoms of concussion , driven by players undergoing world rugby online modules , helped him realise he would not be ready to face ireland .
+brown ( left ) was knocked out cold in england 's 47-17 victory over italy at twickenham in february
+the full back ( centre ) was immediately treated by the england medical team after being concussed vs italy
+` learning about all the symptoms was massive , ' said brown , speaking for land rover 's ` we deal in real ' campaign .
+` i pulled out on the tuesday before the ireland game with the symptoms , and i could maybe have tried to carry on with training , but being aware of the symptoms was important .
+` so just knowing the dangers of the long and short-term dangers , how important it is to be honest and how serious it can be , i think those are the main things i took from the online courses .
+` after the france game i had a headache and could ( have ) easily thought " it 's sarries , it 's wembley and i 'll give it a go " , but we 're so clued up on it now that i do n't think anyone would risk it .
+brown ( right ) says he suffered a headache after playing in england 's clash against france last month
+` if i can do it , pulling out of england-ireland , the biggest game of the six nations at that point , then i think anyone can do it , and should do it .
+` now i 've been through it i would definitely talk to team-mates urging them not to play on if i thought they were showing symptoms .
+` at the time you think it 's a pain but now i 'm very glad i took those online modules .
+` it 's just not worth pushing through . '
+land rover ambassador mike brown was speaking at the launch of ` we deal in real ' , land rover 's rugby world cup 2015 campaign that champions people at the heart and soul of the game by putting grassroots clubs on the global stage .
+
+#reference: 
+saracens beat harlequins 42-14 at wembley stadium on march 28
+harlequins full back mike brown pulled out of the aviva premiership clash
+brown is still wary after suffering concussion while on england duty
+
+
+
+#extractive: 
+england full back mike brown admits he is unsure when he will return to action for club side harlequins
+george north will not play against clermont auvergne on saturday and will see a neurosurgeon
+northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions , while ireland 's johnny sexton was stood down for 12 weeks earlier this term .
+
+
+
+#extractive+abstractive: 
+mike brown is unsure when he will return to action for club side harlequins
+northampton wing george north has been advised by leading medics not to play again this season after suffering four quick-fire concussions
+brown is determined not to suffer an extended break so will not rush himself back to action ahead of time
+

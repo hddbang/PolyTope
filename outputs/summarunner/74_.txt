@@ -1,0 +1,36 @@
+index: 8573
+
+
+hash: a0dcc3db134634bd9c27ccc9e55540fe3ec5acb4
+
+
+#article: 
+marco rubio has claimed people are ` born with a sexual preference ' while insisting state legislators should decide whether or not to allow gay marriage .
+the presidential candidate spoke to cbs 's face the nation after admitting in an interview he would attend the same-sex wedding of a family member or staffer - even if he did n't agree with the decision .
+the florida senator told bob schieffer that he was n't against gay marriage , but believes the ` definition of the institution of marriage should be between one man and one woman ' .
+marco rubio told face the nation he believes people are born with a sexual preference , but insisted same-sex marriage should not be a constitutional right
+he added : ` states have always regulated marriage .
+and if a state wants to have a different definition , you should petition the state legislature and have a political debate .
+` i do n't think courts should be making that decision .
+` i do n't believe same-sex marriage is a constitutional right , ' rubio continued .
+` i also do n't believe that your sexual preferences are a choice for the vast and enormous majority of people .
+` in fact ... i believe that sexual preference is something that people are born with . '
+last week , during an interview with fusion magazine , he said if someone he ` cared ' for was involved in a same-sex union he would ` of course attend ' .
+he added : i 'm not going to hurt them simply because i disagree with a choice they 've made or because i disagree with a decision they 've made , or whatever it may be .
+` ultimately , if someone that you care for and is part of your family has decided to move in one direction or another or feels that way because of who they love , you respect that because you love them . '
+rubio also noted that , as a catholic , he believes divorce is wrong , but he would n't stop loving someone if they were divorced .
+the miami politician announced he is running for president last week .
+donors have said their candidate has already received monetary commitments in excess of the $ 40 million he will likely need to battle through a presidential primary season that will feature a crowd of seasoned republican candidates with strong financial backing .
+last week the florida senator admitted he would attend the gay wedding of someone he ` cared ' for , even if he did n't agree with what they were doing
+
+#reference: 
+senator told face the nation same-sex marriage is n't a constitutional right
+added that it should be left up to the states to decide whether to allow it
+comments came after sparking debate following an interview with fusion
+said he does n't agree with gay marriage , but would attend a same-sex union if it was somebody he ` cared ' for
+
+
+#decode: 
+marco rubio has claimed people are ` born with a sexual preference ' while insisting state legislators should decide whether or not to allow gay marriage .
+the florida senator told bob schieffer that he was n't against gay marriage , but believes the ` definition of the institution of marriage should be between one man and one woman ' .
+marco rubio told face the nation he believes people are born with a sexual preference , but insisted same-sex marriage should not be a constitutional right

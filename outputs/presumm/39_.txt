@@ -1,0 +1,47 @@
+index: 8555
+
+
+hash: 0ba2818cb481b9fd1933c65c26b36288e232b355
+
+
+#article: 
+hundreds of children were admitted to hospital last year after being born brain damaged following exposure to alcohol in the womb , alarming new figures have revealed .
+in total , 272 youngsters left disabled by foetal alcohol syndrome were hospitalised in england over the past 12 months , according to data from the official health and social care information centre .
+but the actual number affected by their mother ' s drinking could be far greater , experts have warned .
+warning : new figures show that 272 youngsters left disabled by foetal alcohol syndrome were hospitalised in england over the past 12 months , according to the official health and social care information centre
+research by the world health organisation suggests that at least one in 100 babies born in the uk could suffer learning , behavioural and physical problems such as deformed limbs because of exposure to alcohol , according to the sunday people .
+that equates to about 7,500 every year .
+elizabeth mitchell , of the national organisation for foetal alchol syndrome , told reporter nicola fifield : ` children born with the syndrome do n't get better .
+` it is an enormous problem and one that is terribly sad and vastly under-diagnosed . '
+tip of the iceberg : research by the world health organisation suggests that at least one in 100 babies born in the uk could suffer learning and behavioural problems because of exposure to alcohol in the womb
+one teenager who was born with foetal alcohol syndrome is 15-year-old niamh brown .
+she needs help getting dressed , has no sense of danger and will never be able to live independently .
+niamh was three when her adoptive parents julia and simon first noticed something was wrong .
+she stuggled at playschool , having difficulty holding a pencil and paying attention .
+two years later , at the age of five , niamh was diagnosed with foetal alcohol syndrome from her birth mother 's drinking .
+in 2007 , julia and simon set up the foetal alcohol spectrum disorder trust to help others .
+other medical issues associated with alcohol consumption during pregnancy include problems with the liver , kidneys and heart , cerebral palsy , sight loss and epilepsy .
+pregnant women are advised by the government not to drink alcohol .
+if they do , the maximum consumption recommended is up to two units no more than twice a week .
+but ms mitchell believes the guidance should be changed so that women are advised not to drink at all during pregnancy .
+
+#reference: 
+272 children left disabled by alcohol exposure were hospitalised last year
+the figures , for the past 12 months in england alone , spark new warning
+experts say actual number affected by mother 's drinking could be higher
+who : at least one in 100 babies , 7,500 every year , could suffer problems
+
+
+
+#extractive: 
+in total , 272 youngsters left disabled by foetal alcohol syndrome were hospitalised in england over the past 12 months , according to data from the official health and social care information centre .
+but the actual number affected by their mother ' s drinking could be far greater , experts have warned .
+tip of the iceberg : research by the world health organisation suggests that at least one in 100 babies born in the uk could suffer learning and behavioural problems because of exposure to alcohol in the womb
+
+
+
+#extractive+abstractive: 
+new figures show 272 youngsters left disabled by foetal alcohol syndrome were hospitalised in england over the past 12 months
+but the actual number affected by their mother 's drinking could be far greater , experts have warned
+research by the world health organisation suggests that at least one in 100 babies born in the uk could suffer learning , behavioural and physical problems such as deformed limbs
+

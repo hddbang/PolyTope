@@ -1,0 +1,28 @@
+index: 4642
+
+
+hash: 0999944a46e0f97c32190992c81aaaa170e939fb
+
+
+#article: 
+fears for two new strains of influenza , which caused a spike in deaths in europe and the united states , will see the arrival of an improved vaccination on australian shores .
+stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against influenza a strain h3n2 and influenza b strain b/phuket .
+the decision to include both was triggered by a spike in flu-related deaths in the northern hemisphere as the vaccine was not a good match to fight against the two types of flu .
+stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against two new strains
+high-risk groups - such as the very young and very old , and most indigenous australians - will be able to access free , government-funded flu shots from april 20 .
+experts say the modified version of the vaccination is worth waiting for .
+but dr alan hampson , who chairs the influenza specialist group , said everyone should be getting the vaccine , which also provided protection against influenza a strain h1n1 .
+he said h3n2 and b/phuket caused a spike in deaths in europe and the us during the northern winter because the vaccine available did not provide the right buffer against the diseases .
+there was a spike in deaths related to h3n2 and b/phuket in europe and the us during the northern winter as the vaccine did not cover the strains
+world health authorities realised that and modified the vaccine to be used in australia this winter .
+` our vaccine now should be a really good match for the strains that are circulating globally and we certainly hope we can prevent more deaths per capita than they did , ' dr hampson told aap .
+` in fact the vaccine that will be used in the next northern winter will be exactly the same as the one we 'll be using over the next few weeks . '
+dr hampson said people should be booking their flu shots now , given the delay in stocks arriving .
+` even if people are not in one of the high-risk groups , they are probably coming into contact with people in their own families who are , ' he said .
+` those high-risk groups are harder to protect so it 's great if we can also protect the people around them . '
+
+#reference: 
+flu strains h3n2 and b/phuket triggered spike in deaths in u.s. and europe .  modified vaccine which includes these two strains is coming to australia .  including the strains has delayed stocks of the vaccine arriving by a month .  high-risk groups in australia will be able to get free flu shots from april 20 . 
+
+#decode: 
+stocks of the influenza vaccine are arriving a month later than expected as scientists have included protection against influenza a strain h3n2 and influenza b strain b/phuket .  the decision to include both was triggered by a spike in flu-related deaths in the northern hemisphere as the vaccine was not a good match to fight against the two flu .  experts say the modified version of the vaccination is worth waiting for . 

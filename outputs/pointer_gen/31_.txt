@@ -1,0 +1,27 @@
+index: 6679
+
+
+hash: cf1fc26f2fd6a11a4d786b0680dd47c1bd116adf
+
+
+#article: 
+mr mole , ap mccoy’s mount in the grade one celebration chase at sandown on saturday , has been installed as one of three 7-2 co-favourites in the seven-runner line-up . paul nicholls-trained mr mole is bracketed with irish raider special tiara and nicky henderson’s sprinter sacre , who will be ridden by cheltenham gold cup winner nico de boinville in the absence of injured barry geraghty . ap mccoy and mr mole will have six rivals in the grade one celebration chase at sandown on saturday . mr mole will be mccoy’s last ride in a grade one race . his book of rides for his final day as a professional jockey will not be finalised until friday morning . ironically , it was after riding mr mole to victory at newbury in february that mccoy shocked the racing world by announcing his intention to quit riding . other runners in the celebration chase include mick channon 's somersby .
+
+#reference: 
+there are three 7-2 co-favourites for the grade one celebration chase .
+ap mccoy 's mount mr mole is bracketed with special tiara and sprinter sacre for saturday 's race .
+it will be ap mccoy 's last ride in a grade one race .
+
+#baseline: 
+ap mccoy has been installed as one of three UNK in the UNK line-up .
+paul UNK mr mole will be ridden by cheltenham gold cup winner nico de UNK in the absence of injured barry geraghty .
+
+#pointer-generator: 
+ap mccoy’s mount in the grade one celebration chase at sandown on saturday .
+paul nicholls-trained mr mole is bracketed with irish raider special tiara and nicky henderson’s sprinter sacre .
+mr mole will be mccoy’s last ride in a grade one race chase at sandown .
+
+#pointer-gen-coverage: 
+ap mccoy’s mount in the grade one celebration chase at sandown on saturday .
+paul nicholls-trained mr mole is bracketed with irish raider special tiara and nicky henderson’s sprinter sacre , who will be ridden by cheltenham gold cup winner nico de boinville in the absence of injured barry geraghty .
+mr mole will be mccoy’s last ride in a grade one race .

@@ -1,0 +1,57 @@
+index: 3945
+
+
+hash: 91e48c9aa24d9867dc5f40cfbe6a936929855859
+
+
+#article: 
+caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
+for the state that calls itself the ` land of lincoln , ' the timing of a ceremony wednesday in springfield to mark his death is awkward because illinois faces a financial crisis and gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
+he would roll the agency into another department .
+what 's more , the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby . '
+landmark : in this feb. 12 , 2015 file photo , illinois gov. bruce rauner participates in ceremonies honoring president abraham lincoln at the lincoln tomb in springfield , illinois
+leader : a marker is seen over the burial site of abraham lincoln inside lincoln 's tomb within oak ridge cemetery ( november 2013 file photo )
+killing : president lincoln was assassinated by john wilkes booth at a performance of the play ` our american cousin ' in april 1865
+recounting the route of lincoln 's funeral train to springfield for burial , historian adam goodheart describes the tomb as ` a disappointment ' and reconstructed in ` incongruous art deco style . '
+` it 's strange to think that there is a place where lincoln still physically exists in the world , let alone that it 's a place like this , ' writes goodheart , who is director for washington college 's center for the american experience in maryland .
+goodheart 's publicist did n't immediately return a request for comment .
+the hours and days the lincoln tomb is open have been reduced , and it 's staffed with fewer employees since state lawmakers last year cut $ 1.1 million funding for sites in the springfield area .
+on tuesday -- the 150th anniversary of john wilkes booth 's shooting of lincoln , although the president was pronounced dead the following day -- joan boatz and a group of former bridge club friends found the tomb 's iron door locked , despite a sign saying the site should be open at that time .
+chris wills , spokesman for the historic preservation agency , said the correct times when the site is open are posted on its website .
+pam vanalstine , president of the lincoln monument association , said she 's deeply concerned about what more cuts might mean for the lincoln site .
+` we 're all scared to death , ' said vanalstine , who also serves as a volunteer tour guide .
+` we do n't know how things are going to be run . '
+she and other supporters of how lincoln 's final resting place is presented to the public said the national geographic portrayal was unfair .
+remembered : tourists walk out of abraham lincoln 's tomb and past a bust of lincoln statue ( november 2013 file photo )
+shrouded in history : caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site ( february 2014 file photo )
+` the author of the piece is certainly entitled to feel underwhelmed by the tomb 's interior , but i think it 's safe to say he 's in the minority , ' wills said .
+according to the state historic preservation agency , the tomb and its receiving vault have seen more than $ 2.5 million in recent repairs and renovations , leaving it in what wills describes as ` excellent physical condition . '
+the tomb 's interior plaster and paint , and bronze and marble construction were renovated last year , and its interior lighting was upgraded for approximately $ 730,000 .
+the state is currently working on waterproofing the receiving vault , repairing the stone structure 's interior , and landscaping to direct water away from the vault , a roughly $ 390,000 project .
+lincoln 's tomb was designed by vermont sculptor larkin mead , who won a national contest .
+it was dedicated by president ulysses s. grant in 1874 .
+originally built on what historians describe as an ` inadequate foundation , ' it was reconstructed first in 1899 , and then again in 1930 to give the public access to the interior burial chamber .
+today , the tomb , a circular structure topped with an obelisk , has its interior sheathed in alternating black and tan marble and is trimmed with bronze .
+hallways stretch on either side of a rotunda to the family burial chamber , where lincoln lies below an inscription ` now he belongs to the ages . '
+william sparks , a visitor to the outside of the tomb tuesday who took an amtrak train from green bay , wisconsin , said he had a copy of the national geographic story with him at his springfield hotel , but disagreed with its conclusion .
+` it 's absolutely gorgeous , ' he said of the site , even though he did n't get to see the interior of the tomb .
+` i do n't get ( the author 's take ) at all .
+this is very impressive . '
+critique : the popular tourist site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby ' ( april 2013 file photo )
+lincoln 's tomb was designed by vermont sculptor larkin mead , who won a national contest .
+it was dedicated by president ulysses s. grant in 1874 ( november 2013 file photo )
+
+#reference: 
+caretakers of lincoln 's tomb are on the defensive over an unflattering magazine critique and looming budget cuts
+the site was pilloried in this month 's issue of national geographic magazine as having ` all the historical character of an office lobby '
+gov. bruce rauner has proposed eliminating the state historic preservation agency , which manages the tomb
+rauner would roll the agency into another department
+lincoln 's tomb was designed by vermont sculptor larkin mead , who won a national contest
+it was dedicated by president ulysses s. grant in 1874
+the tomb was reconstructed in both 1899 and 1930
+
+
+#decode: 
+caretakers of abraham lincoln 's tomb are on the defensive over an unflattering critique in national geographic magazine and looming budget cuts that could threaten management of the historic site , even as they commemorate the 150th anniversary of the u.s. civil war president 's assassination .
+for the state that calls itself the ` land of lincoln , ' the timing of a ceremony wednesday in springfield to mark his death is awkward because illinois faces a financial crisis and gov. bruce rauner has proposed eliminating the state historic preservation agency that manages sites including the tomb as it currently exists .
+killing : president lincoln was assassinated by john wilkes booth at a performance of the play ` our american cousin ' in april 1865

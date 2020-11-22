@@ -1,0 +1,36 @@
+index: 6908
+
+
+hash: 739d0c1da601f9f9833cc258ff86e53d42fa9f2b
+
+
+#article: 
+these heart-stopping pictures show the moment a baby hippo was thrown into the air as it was mauled to death after getting caught up in a fight between two adults .
+the helpless five-day-old hippopotamus was seen being hurled into the air after it strayed into the firing line of an adult male , which was tussling with its rival .
+the calf 's mother watched in horror as the hippo was flung into the air before being dragged along the surface of the water in the isimangaliso wetland park , in eastern south africa .
+shocking : a five-day old baby hippopotamus is lifted up into the air as it gets caught up in a deadly fight between two adults
+deadly : the calf was dragged along the surface of water and died hours after the tussle , with its mother looking on in horror
+the calf 's mother watched in horror as the hippo was flung into the air before being dragged along the surface of the water in the isimangaliso wetland park , in eastern south africa
+the two male hippos had been fighting for some time and the mother of the calf stayed with her herd , possibly believing it safer to stay out of harm 's way herself .
+her decision proved fatal for the baby when one of the brawling adults grabbed the calf between its jaws .
+stacey farrell , a 30-year-old tour operator for shoreline hippo and safari , looked on with horror as the calf was caught up in the deadly fray .
+she said : ` for hours she chased away the sub-adults and younger hippos from her little baby as i believe she knew they would be too rough .
+rivals : the two male hippos had been fighting for some time and the mother of the calf thought it would be safer to remain with her herd
+stacey farrell , a 30-year-old tour operator for shoreline hippo and safari , looked on with horror as the calf was caught up in the deadly fray
+the baby stood no change against the two adults as they brawled in the muddy waters of the nature reserve
+` sadly , as she closed her eye one of the sub-adult hippos grabbed the young calf .
+whether intending to kill it or a bit of play or possibly jealousy gone wrong we 'll never know .
+` the mother tried to get the baby back but with the young calf in the sub-adult 's mouth there was n't much she could do .
+` she attacked the hippo on the neck which forced the sub-adult to bite down harder and then suddenly flicked the baby in the air . '
+the hippopotamus died of its injured hours later .
+
+#reference: 
+five-day-old hippopotamus calf mauled to death after straying between two brawling adults in south africa . 
+ helpless calf was hurled into the air as its mother looked on in horror , with the young hippo dying hours later . 
+ adult hippos had been fighting for hours before attacking the baby in the isimangaliso wetland park . 
+
+
+#decode: 
+five-day-old hippopotamus was seen being hurled into the air before being dragged along the surface of the water in the isimangaliso wetland park , in eastern south africa . 
+ the calf 's mother watched in horror as the hippo was flung into the firing line of an adult male , which was tussling with its rival . 
+ the two male hippos had been fighting for two adults . 

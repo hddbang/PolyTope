@@ -1,0 +1,35 @@
+index: 3080
+
+
+hash: fd59b743d9cfe8af3f57ddbb554abb3a70c9e0d5
+
+
+#article: 
+derbyshire wicketkeeper tom poynton has been rewarded for his successful return from injury by signing a new one-year contract extension .
+poynton , 25 , missed the entire 2014 campaign due to leg injuries sustained in a road accident in which his father keith died last april .
+the former england under-19 international had to undergo an ankle operation but he made his playing comeback during derbyshire 's pre-season tour of abu dhabi .
+derbyshire wicketkeeper tom poynton has been rewarded for his successful return from injury
+he will be available for the start of the season and has now committed himself to the county until the end of the 2016 season .
+derbyshire 's elite performance director , graeme welch , said : ` tom has displayed exceptional character since the tragic events that ended his season last april .
+` he has worked tirelessly both in training and in his off-the-field role to prepare him for his return and everyone at the club is delighted to see him back on the field playing for derbyshire .
+` we hope the new contract will now give him the confidence to go out and express himself this summer .
+` he has shown good form since his return to training and in abu dhabi and we hope this continues . '
+
+#reference: 
+tom poynton missed the entire 2014 campaign due to leg injuries
+he made his playing comeback during derbyshire 's pre-season tour
+
+
+
+#extractive: 
+poynton , 25 , missed the entire 2014 campaign due to leg injuries sustained in a road accident in which his father keith died last april .
+derbyshire wicketkeeper tom poynton has been rewarded for his successful return from injury
+he will be available for the start of the season and has now committed himself to the county until the end of the 2016 season .
+
+
+
+#extractive+abstractive: 
+tom poynton missed the entire 2014 campaign due to leg injuries
+the 25-year-old made his playing comeback during derbyshire 's pre-season tour of abu dhabi
+he has now committed himself to the county until the end of the 2016 season
+

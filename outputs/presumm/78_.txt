@@ -1,0 +1,46 @@
+index: 4937
+
+
+hash: 154ae9c99ce78e5f8c501962810f74103932db25
+
+
+#article: 
+a couple from texas who celebrated their wedding in 2012 claim their photographer wrote hurtful racial slurs on the bottom of photo booth snapshots from the event .
+the couple , who does not wish to be identified , hired attorney cathy hale to sue james evans the owner of premiere photos for allegedly providing a photo booth that printed , ` poor n ***** party ' on the bottom of the pictures .
+the couple was n't alerted of the photos until many months after the celebration when the bride 's sister told the family about the racist incident at the photo booth the couple rented for the party .
+racial slur : this racial slur was allegedly printed by premiere photos at the bottom of some of the photographs at their wedding event in 2012
+denies allegations : james evans who runs premiere photo allegedly did n't apologize for the racial slur and told the couple to ` sue ' him
+attorney cathy hale who is representing the couple said that the sister of the bride waited to tell her about what happened until after the wedding because she did n't want to ruin her special day or upset her .
+` she made the wise decision not to tell her and spoil that specific day , ' hale told click2houston .
+hale says that when the husband heard about the photos at the wedding he was horrified and called james evans of premiere photo .
+the groom claims evans did n't even apologize .
+` sue me , ' james evan 's reportedly replied .
+hale told click2houston that her clients did n't want to file a lawsuit but they finally decided to press charges after evans ` did nothing ' about the racist comments .
+the couple is suing the company under the texas deceptive trade practices act claiming that premiere photo practiced ` negligence and breach on contract . '
+when eyewitness news reached out to evans and his attorney , christine kirchner , they declined an on-camera interview but gave the same responses they gave in civil court .
+venue : the couple had their wedding party at beautiful bell tower in northwest houston , texas
+evans has denied all allegations and claimed that at a party of 100 people , there is no evidence linking the company to the offensive caption .
+evans also said the married couple gave ` no sign of any mental anguish . '
+hale disagrees and says her clients want an apology at the very least .
+mediation is scheduled for tomorrow morning but if the parties do n't reach an agreement then the case is set for trial in july .
+they just want an apology : the couple 's lawyer said that at the very least her client wants an apology from james evans of premiere photos and that it is n't about money
+
+#reference: 
+the couple , who does not wish to be identified , is suing premiere photos for allegedly printing the caption , ` poor n ***** party ' on the bottom of photos
+the couple rented a photo booth for the wedding and the bride 's sister noticed the racial slur but chose not to tell the couple on their special day
+the couple allegedly called james evans of premiere photos but he issued no apology and that is when they decided to sue
+
+
+
+#extractive: 
+the couple , who does not wish to be identified , hired attorney cathy hale to sue james evans the owner of premiere photos for allegedly providing a photo booth that printed , ` poor n ***** party ' on the bottom of the pictures .
+denies allegations : james evans who runs premiere photo allegedly did n't apologize for the racial slur and told the couple to ` sue ' him
+the couple was n't alerted of the photos until many months after the celebration when the bride 's sister told the family about the racist incident at the photo booth the couple rented for the party .
+
+
+
+#extractive+abstractive: 
+the couple , who does not wish to be identified , hired attorney cathy hale to sue james evans , the owner of premiere photos for allegedly providing a photo booth that printed , ` poor n ***** party ' on the bottom of the pictures
+the couple was n't alerted of the photos until many months after the bride 's sister told the family about the racist incident at the photo booth the couple rented for the party
+evans has denied all allegations and claimed that at a party of 100 people , there is no evidence linking the company to the offensive caption
+

@@ -1,0 +1,28 @@
+index: 566
+
+
+hash: 446fdf91f59be259167ae59b0a3de1a664891751
+
+
+#article: 
+islamabad , pakistan ( cnn ) her second floor cafe on a dusty industrial road was painted with dashes of psychedelic colors . and sabeen mahmud surrounded herself there with books , people , and discussions on technology , human rights and women 's entrepreneurship . introducing others to jimi hendrix , street art , and talking politics was not supposed to get her killed . but in pakistan , free speech is dangerous , and mahmud 's exuberant exercise of it made her stick out nationwide . two gunman shot her dead at point-blank range late friday after she locked up the second floor cafe in karachi for the night , police said . mahmud died from five bullet wounds . the gunmen also shot her mother . she is in a hospital but is expected to be released on time for her daughter 's funeral . mahmud 's killing broke hearts beating for non-violence and progressive values across the country . she freely said what she thought in a place where many people are too afraid to and by doing so spoke for many more people than just herself . she had become a pakistani figurehead for humanism , love and tolerance . `` she took that torch into the dark forest and so many people followed . she really , truly was a success story of the heart , '' said close friend and bbc journalist ziad zafar . no one has claimed responsibility for her shooting , and police have not named any motive . but mahmud had just finished leading a discussion group on a topic that many want silenced , when the shots fell . in the province of baluchistan , where separatists have fought a virulent insurgency for years , people have been disappearing regularly . there have been steady allegations of mass abduction . the lahore university of management sciences planned to host the discussion on the topic , with human rights activist mama qadeer baloch , but authorities shut it down . mahmud would not hear of it not going on . `` despite the plurality of opinion , very little space seems to be given to the discussion in pakistani mainstream media or academia ; the debate seems to be shut down before it can even begin , '' she posted on facebook . `` what is the reality ? has the media been silenced on balochistan ? what makes it dangerous for us to talk about pakistan 's largest province at one of our most celebrated universities ? '' she invited the discussion to the second floor , also known by the shorthand t2f . she said she knew it was a potentially dangerous move , and she had received death threats in the past when she handled the topic before . `` she was the bravest woman in the world , she really was , she was a brave heart ; my god , she was a brave , brave girl , '' zafar said . even in its secluded , humble location , t2f was a magnet to those seeking secular wisdom . they found it in a homey setting , musingly decorated like a small town college bookstore . the walls outside its entrance are sprayed with socially critical graffiti -- dusky red hearts float across gray walls . mahmud waited to greet visitors , many of them young pakistanis seeking freedom of thought , with a hug , a mug and encouragement for pakistan 's future . `` she hoped the same thing we all hoped for , a place that is fair with liberty and justice for all , '' zafar said . grief over her death and gratefulness for her work poured out on social media and via email . `` thanks for giving us the room to breathe when fog pressed heavy on our shoulders . it 's only been a few hours , sabeen , and the city is already gasping for air , '' a group of illustrators called from karachi with love wrote . an artist drew mahmud puttering off on a vespa scooter wearing pants , a blouse and sandals . her tightly coiffed short hair and angular glasses framed her bright-eyed features . missing was a head scarf . on a wall in t2f is a spray painted technicolor image of marilyn monroe from `` the seven year itch , '' her white dress replaced by a traditional outfit of mustard , ocher and green . but it still flew up over her hips , revealing her alabaster legs , a daringly sexy and satirical image . the artistic expression sticks out and triggers passions , like many things mahmud said and did .
+
+#reference: 
+she hosted a controversial discussion on the disappearance of people .
+she knew what she was doing was dangerous and had received death threats before .
+mahmud loved books , jimi hendrix and discussions about human rights .
+
+#baseline: 
+cnn 's cherie blair talks with cnn 's `` what is the reality ? '' she writes .
+she 's in a hospital but is expected to be released on time for her daughter 's funeral .
+she is in a hospital but is expected to be released on time for her funeral .
+
+#pointer-generator: 
+mahmud 's killing broke hearts beating for non-violence and progressive values across the country .
+mahmud 's killing broke hearts beating for non-violence and progressive values across the country .
+mahmud 's killing broke hearts beating for non-violence and progressive values across the country .
+
+#pointer-gen-coverage: 
+two gunman shot her dead at point-blank range late friday .
+she is in a hospital but is expected to be released on time for her daughter 's funeral .
+no one has claimed responsibility for her shooting .

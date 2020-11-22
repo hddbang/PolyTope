@@ -1,0 +1,30 @@
+index: 6380
+
+
+hash: 7d5b44afe30b34c03f77f0e5ebf5eb88498ee71c
+
+
+#article: 
+( cnn ) tornado sirens blared wednesday night in kansas as several storms brought reports of twisters .
+spotters reported a tornado about 6 miles northwest of goddard , which is less than 15 miles west of wichita .
+that storm moved to the northeast , missing the city , but posing potential risks to other communities .
+" there will be storms ... that pop up all night long , " said cnn severe weather expert chad myers .
+" nighttime tornadoes are the most deadly , are the most dangerous . "
+other reports of tornadoes came in from southwestern kansas , according to the storm prediction center .
+three of the sightings were near aetna , 125 miles southwest of wichita .
+kansas was n't the only state affected by the storms .
+the national weather service indicated a tornado may have touched down in the small town of potosi , missouri , about 70 miles from st. louis .
+cnn affiliate kmov reported that it had received reports of wind damage and flooding in the town .
+one instagram user there posted a photo of a fallen tree .
+aerial footage also showed damage to roofs and one street overtaken by water .
+not far away from potosi , shyler and christin strube in leadington posted an instagram picture of some unusual dark clouds .
+and a twitter user in farmington got bad news when he went out to his car .
+" they were n't kidding when they said baseball size ( hail ) , " kevin knox wrote .
+on thursday , more storms are expected in the midwest , mississippi river valley , tennessee river valley and near the southern great lakes , the weather service said .
+cnn 's sean morris and anneclaire stapleton contributed to this report .
+
+#reference: 
+kansas spotters report at least four tornadoes .  potosi , missouri , sees wind damage to roofs and some flooding .  thursday 's forecast calls for more storms but to the east . 
+
+#decode: 
+new : three of the sightings were near aetna .  new : `` nighttime tornadoes are the most deadly , '' spotters expert says .  `` there will be storms pop up all night long , '' a expert says . 

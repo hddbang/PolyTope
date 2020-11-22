@@ -1,0 +1,34 @@
+index: 8099
+
+
+hash: fbe3b80579355cd0f659db6c2bf05a2894e43ef7
+
+
+#article: 
+jerusalem ( cnn ) a palestinian teenager 's name will be removed from an israeli memorial commemorating fallen soldiers and the victims of terrorism after his family and others complained .
+mohammed abu khdeir 's name appeared this week on the wall at jerusalem 's mount herzl , the site of the national cemetery , as the nation prepared to mark its memorial day on wednesday .
+abu khdeir , 16 , was beaten and burned alive by three israelis in july , according to prosecutors .
+a picture on the memorial website for abu khdeir shows an israeli flag with two flowers called " blood of the maccabees " in israel , a symbol often used on memorial day , when the country honors its soldiers killed in the line of duty and victims of terrorism .
+but abu khdeir 's family objected to his inclusion on the memorial wall .
+his father , hussein abu khdeir , said no one asked for his permission to put his son 's name on the wall .
+" i refuse that my son 's name will be listed between soldiers of the occupation , " he said .
+almagor , an organization that works on behalf of victims of terror in israel , also opposes abu khdeir 's inclusion on the memorial .
+almagor described the teen 's death as a rogue attack and said he 's not a terror victim .
+" somebody did here a trick , and we are going to fight to correct it , " said almagor ceo meir indor .
+" we will not recognize someone who was murdered in a brutal way in an individual action . "
+indor 's organization wrote a letter to the national insurance institute of israel -- the country 's social security administration , which maintains the memorial site -- demanding that abu khdeir 's name be removed from the memorial wall .
+indor said if the teenager 's name is not taken off , members of almagor want their own family members ' names removed .
+on wednesday , israel radio reported that the national insurance institute of israel will remove abu khdeir 's name from the memorial following his father 's complaints .
+the teen 's name has already been removed from the organization 's website , which lists the names on the memorial wall .
+a panel of judges began hearing evidence in january against the three suspects in abu khdeir 's killing .
+
+#reference: 
+abu khdeir 's name is on the memorial wall at jerusalem 's mount herzl
+his father and a terror victim advocacy group objected to his being included in the list
+the palestinian teenager was beaten and burned by three israelis , authorities say
+
+
+#decode: 
+mohammed abu khdeir 's name appeared this week on the wall at jerusalem 's mount herzl , the site of the national cemetery , as the nation prepared to mark its memorial day on wednesday .
+abu khdeir , 16 , was beaten and burned alive by three israelis in july , according to prosecutors .
+but abu khdeir 's family objected to his inclusion on the memorial wall .

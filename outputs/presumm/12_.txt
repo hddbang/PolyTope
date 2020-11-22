@@ -1,0 +1,58 @@
+index: 1798
+
+
+hash: c9a142404ad2244df851edd8f5adfcc2697d1335
+
+
+#article: 
+an informant who spent the last 27 years working for the dea as an undercover operative in exchange for the promise of us citizenship says he 'll be deported now that he has retired .
+carlos toro , 66 , worked as a mid-level member of the medellin cartel in the 1980s when a confrontation with his boss caused him to flee from colombia fearing for his life .
+toro came to the united states and eventually began working for the dea as an informant after providing information about a number of his former bosses and associates .
+carlos toro , seen in 1982 , is facing deportation from the united states after working for the dea for 27 years
+toro , 66 , was one of the dea 's strongest assets and helped carry out undercover stings around the world
+carlos lehder rivas of colombia was taken down thanks in part to former medellin cartel member toro
+the ex-cartel member became one of the dea 's most important assets and helped the agency carry out undercover stings around the world , cbs news reported .
+he was n't paid for work , but was told he would be rewarded with us citizenship .
+that has not happened and toro is now technically living in the us illegally after declining health forced him to retire , according to the florida center for investigative reporting .
+the dea refused to help toro with his citizenship after he went public with his plight .
+he said : ` if i am sent back to colombia , i would be dead within the first four hours . '
+` i am scared to death .
+i do n't sleep anymore .
+` i 'm only thinking about what happens if they come for me .
+` the united states government has sentenced me to death . '
+information provided by toro aided in the prosecution of ex-panamanian dictator manuel noriega ( seen 1990 )
+his fears sound reasonable considering his work aided in the prosecution of cocaine overlord carlos lehder and former panamanian dictator manuel noriega .
+dea agent mike mcmanus , who was toro 's handler for two years , gained notoriety after working with the uniquely-suited operative .
+mcmanus who arrested george jung - the drug dealer portrayed by johnny depp in 2001 's blow - gave toro $ 5,000 for an operation after the dea declined to help , the huffington post reported .
+he said : ` it is government bureaucracy at its worst .
+` he deserves to live life ever after in the united states .
+he 's done his debt , he 's paid his dues , he 's done his service . '
+one of toro 's former colleagues recently gave him $ 5,000 for an operation after the dea declined to help
+toro remains in limbo while trying to get a green card or a passport , and he ca n't collect social security benefits until he secures one of those documents .
+his final temporary visa expired on january 1 and toro is prepared to go into hiding if he must .
+he said : ` i messed up , in a big way , many years ago .
+` many times over , i atoned .
+` all i want now is what they promised me . '
+
+#reference: 
+carlos toro was promised he could stay in the us but is facing deportation
+being sent back to native country of colombia would be ` death sentence '
+toro informed on cocaine overlord carlos lehder of the medellin cartel
+also provided information on former dictator of panama manuel noriega
+he is hoping for visa or green card but ca n't yet collect social security
+
+
+
+#extractive: 
+carlos toro , 66 , worked as a mid-level member of the medellin cartel in the 1980s when a confrontation with his boss caused him to flee from colombia fearing for his life .
+an informant who spent the last 27 years working for the dea as an undercover operative in exchange for the promise of us citizenship says he 'll be deported now that he has retired .
+he was n't paid for work , but was told he would be rewarded with us citizenship .
+
+
+
+#extractive+abstractive: 
+carlos toro , 66 , worked as a mid-level member of the medellin cartel in the 1980s
+a confrontation with his boss caused him to flee fearing for his life
+he came to the united states and began working for the dea as an informant after providing information about a number of his former bosses and associates
+his fears sound reasonable considering his work aided in the prosecution of ex-panamanian dictator carlos lehder and former panamanian dictator manuel noriega
+

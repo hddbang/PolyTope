@@ -1,0 +1,57 @@
+index: 2926
+
+
+hash: afd4850b0018d03732632bcf028961ff9d4d73f9
+
+
+#article: 
+former soldier john young , 66 , has been left blinded in one eye after thugs through a brick at him through his front door when he confronted them about throwing stones at his property in oldham
+a newlywed pensioner has been left blinded in one eye after being hit in the face with a brick hurled into his home by vandalising yobs .
+former soldier john young , 66 , and his new wife elaine , 54 , were sat in the front room of their home in oldham , greater manchester , when thugs began pelting his front window with stones .
+when one brick smashed the glass , mr young went and opened his front door to remonstrate with the attackers only to be struck in his left eye by another brick .
+he suffered an open wound to his forehead and a serious injury to his left eye and was taken to hospital .
+however , despite undergoing emergency surgery , doctors were unable to save his eyesight meaning he is now blind in one eye .
+the retired hgv driver , who formerly served with the royal electrical and mechanical engineers during the irish troubles , said he now ` does n't feel safe in his own home ' following the attack last friday .
+he said : ` i have lived here nearly all of my life and never had any problems before and i just do n't understand why these people have targeted us .
+` we just can not believe what has happened . '
+police have launched an investigation into the attack but said there appears to be no motive and it could be a case of yobs ` messing around ' .
+the attack occurred just three weeks after the couple , who have no children and who met just 14 months ago , got married .
+they were writing thank you cards for the wedding gifts they had received when their home was targeted at around 11 pm on april 18 .
+mrs young , who works for the alzheimer 's society charity , said : ` we were sat down writing all of the thanks you cards .
+` it was the first time we had been in the house since our wedding and it was getting late , around 11.20 pm .
+mr young and his wife elaine , 54 , were sat in the front room of their home in oldham , greater manchester , when thugs began pelting his front window with stones .
+he was targeted when he went to confront them
+the offenders threw stones at the living room window ( pictured ) before targeting the front door of the house .
+mr young was hit by the brick when he opened to the door to question why they had smashed his windows
+the glass panel on the front door of mr young 's house was smashed when bricks were thrown at the property last friday .
+mr young was taken to hospital after being hit with a brick but doctors could not save his left eye
+` we did see a man outside and then there was a crash as a brick hit the window .
+the next minute we knew there was glass shattered all over the hall because a brick had hit the door .
+` john opened the door and the man was standing there shouting ` come on , come on ' .
+the next minute john is covered in blood .
+` i just wish he had never opened the front door .
+i had already called 999 and for him to go out was a mistake but it obviously was a natural reaction to what was happening .
+` we do n't have any idea why it happened .
+we feel like it must have been wrong place , wrong time .
+john has never had trouble before and neither of us can understand why these people would do something as low as this .
+` i have got a flat in southport so we are moving there now .
+i do n't think either of us want to come back after what 's happened .
+we are just too scared to live in this neighbourhood . '
+detective constable gareth gwilliam , of greater manchester police , said the second brick was thrown ` directly ' at the man but would n't reveal how many offenders were involved in the incident .
+he said : ` at this stage , there appears to be no known motive for this attack .
+` it might be there is no motive other than the culprits were messing around and for whatever reason thought it would be funny to throw bricks at someone 's house .
+the attack occurred just three weeks after mr young married his partner elaine , who he met just 14 months ago .
+the couple are pictured on their wedding day at gretna green in dumfries and galloway , scotland
+the couple had been sat quietly in the living room of their oldham home writing thank you notes for the gifts they received on their wedding day - just three weeks ago ( pictured ) - when the attack occurred last friday
+police said the brick was thrown ` directly ' at mr young when he answered the door of his home ( pictured ) .
+officers said there appeared to be no known motive for the attack and said it could be yobs ` messing around '
+` however , there is absolutely nothing funny or clever about what they did and as a result of their wanton and reckless actions , this man has been left with a permanent disability and a loss of sight in one eye .
+` understandably , he is a mixture of angry and devastated so we need to establish who was responsible for this senseless incident and bring them to justice .
+` i would therefore urge anyone who saw anything , or if you suspect who may be involved , to call us immediately . '
+anyone with information about the incident should contact police on 101 .
+
+#reference: 
+john young , 66 , struck in eye by brick hurled through front door by thugs .  ex-soldier was sat in living room of oldham home when stones hit window .  pensioner opened front door to investigate and was hit in face with a brick .  left blind in one eye and said he now ` does n't feel safe in his own home ' 
+
+#decode: 
+john young , 66 , has been left blinded in one eye after being hit in the face with a brick hurled into his home by vandalising yobs .  he suffered an open wound to his forehead and a serious injury to his left eye and was taken to hospital .  doctors were unable to save his eyesight despite undergoing emergency surgery . 

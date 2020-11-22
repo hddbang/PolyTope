@@ -1,0 +1,30 @@
+index: 4614
+
+
+hash: 12f36d194c05dc6416799b7136d66c011e6f4b22
+
+
+#article: 
+a former fortune 500 executive from new hampshire who caused a highway crash that killed a vermont couple and their unborn baby said during his sentencing wednesday that he was n't suicidal . prosecutors previously said that robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph and plowed into an oncoming suv . the crash killed 24-year-old amanda murphy , who was eight months pregnant , and her fiance , 29-year-old jason timmons . speaking out : former fortune 500 executive robert dellinger , 54 , said in court during his sentencing wednesday that he was not suicidal on the day he crashed into a couple 's suv , killing them instantly . tragic : john timmons , 29 , and amanda murphy , 24 , were killed instantly in the crash on december 7 , 2013 . pregnant : this is an ultrasound of the couple 's unborn baby who they were going to call reagan elizabeth . during the first day of what is expected to be a two-day sentencing , the former executive at ppg industries inc told the court he has ' never been suicidal. , ' according to valley news . deborah dellinger , the defendant 's wife , described her husband from the witness stand wednesday as a ' man of ethics , integrity and friendship ' who has lived his life with ' grace and modesty , ' despite being plagued with serious health problems . addressing the victims ' families sitting in the courtroom , mrs dellinger said : ' we are devastated by the deaths of your loved ones . we have been and continue to pray every day for your collective peace and comfort . ' dellinger reportedly broke down in tears at the defense table as his wife was speaking to the relatives of murphy and timmons . crushed : this is a picture of the scene of the crash after dellinger careered over the central median in december 2013 . dellinger pleaded guilty in february to negligent homicide in the deaths of the young couple and to one count of assault for the fetus ' death . he faces 12 to 24 years in prison when sentencing resumes thursday . the defendant also faces a wrongful death lawsuit filed in february by the estate of amanda murphy . robert dellinger 's attorneys claimed that the former high-powered executive was suffering from ambien withdrawal , the effects of a psychiatric drug overdose and prozac , and the advanced symptoms of multiple sclerosis . dellinger , who held high-level posts at ppg industries inc. , sprint corp. , delphi corp. and general electric co. , told investigators he was trying to kill himself on december 7 , 2013 , when he steered his pickup across a highway median in lebanon , new hampshire . his truck became airborne and sheared the top off of the victims ' suv , causing injuries so severe that the medical examiner said the couple looked like they had been in a plane crash . the vermont couple , who had met while working at a home for the elderly , were killed instantly . dellinger , who suffered cuts on his head and face , was initially charged with two counts of reckless manslaughter , which were later upgraded to negligent homicide . arraignment : robert j. dellinger , was is arraigned by video at lebanon district court in lebanon , new hampshire , on december 11 , 2013 , a few days after the crash . according to the prosecution , the former executive had argued with his wife over his medications on the morning of the crash , wmur reported . ' he was driving around , depressed and loopy , ' senior assistant attorney general for new hampshire susan morrell said . ' he saw the median and decided to turn into it . ' dellinger 's lawyer , r. peter decato , however called the state 's comments ' over the top ' and said dellinger had led a ' productive and exemplary life . ' he took a severance package worth more than $ 1million in cash plus stocks when he left in 2011 because of health reasons , according to documents filed with the securities and exchange commission . records show that a dellinger family trust owns four property in the town of sunapee worth $ 3million in total . 
+
+#reference: 
+robert dellinger , 54 , allegedly tried to kill himself in december 2013 by driving across highway , but instead he killed a young couple .
+amanda murphy , 24 , and jason timmons , 29 , were killed instantly in the crash in lebanon , new hampshire .
+murphy was eight months pregnant with their first child , a girl .
+dellinger pleaded guilty in february to negligent homicide for their deaths , and to assault for the death of the fetus .
+he faces 12 to 24 years in prison when sentencing resumes thursday .
+deborah dellinger , defendant 's wife , described her husband from the witness stand as a ' man of ethics , integrity and friendship ' .
+
+#baseline: 
+robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph and plowed into an oncoming suv .
+prosecutors said dellinger broke down in tears at the defense table as his wife was speaking to the relatives of murphy and pal .
+
+#pointer-generator: 
+john timmons , 29 , and amanda murphy , 24 , were killed instantly in the crash on december 7 , 2013 .
+prosecutors previously said that robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph .
+the crash killed 24-year-old amanda murphy , who was eight months pregnant , and her fiance , 29-year-old jason timmons .
+
+#pointer-gen-coverage: 
+john timmons , 29 , and amanda murphy , 24 , were killed instantly in the crash on december 7 , 2013 .
+prosecutors previously said that robert dellinger , 54 , told investigators he was trying to kill himself in december 2013 when he drove his pickup truck across a median at more than 100mph and plowed into an oncoming suv .
+amanda murphy , who was eight months pregnant , and her fiance , 29-year-old jason timmons .

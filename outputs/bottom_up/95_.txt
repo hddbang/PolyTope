@@ -1,0 +1,40 @@
+index: 8822
+
+
+hash: 4b9a72bde1cf3fa3f24761a3756e91d4a9999c50
+
+
+#article: 
+martin skrtel has praised the impact steven gerrard has had upon him since arriving at anfield in 2008 but believes liverpool can overcome the difficult challenge of replacing him .
+reds captain gerrard is set to feature for liverpool in the fa cup semi-final against aston villa at wembley on sunday , looking to lead his hometown side into the final against arsenal .
+should liverpool emerge victorious against villa , gerrard will sign off his anfield career in the final which takes place on his birthday of may 30 , before moving to la galaxy .
+martin skrtel ( left ) says departing liverpool captain steven gerrard is still one of the best players in the world
+gerrard is aiming to end his liverpool career by making the fa cup final and beating arsenal
+skrtel ( right ) has praised the impact and example gerrard has set during his time at liverpool
+srktel believes gerrard is synonymous with liverpool and that the midfielder is still one of the game 's leading stars .
+` in my eyes he is still one of the best players in the world , ' skrtel told goal.com .
+` when you say liverpool it 's always steven gerrard .
+it will be different next season and liverpool will never be the same . '
+skrtel was signed by rafael benitez from zenit st petersburg seven years ago and despite some indifferent form upon arriving in england , the slovakia international has gone on to become a mainstay in liverpool 's defence .
+skrtel revealed that gerrard helped him to settle at the beginning of his time at the club .
+` i can say only good things about him , ' skrtel said .
+` from the first day i came to liverpool he was here to help me .
+he gave me a hand every single day with everything i needed .
+i need to say thanks for that . '
+while skrtel admits liverpool will be a different side without gerrard among their ranks , he believes the club have potential replacements to the iconic no 8 .
+skrtel ( left ) still considers 34-year-old midfield player gerrard one of the best players in the world
+skrtel ( left ) believes liverpool have the players to fill gerrard 's void providing they are given the right help
+` he will be leaving after this season and we have a few players who can replace him .
+we will try to help them and try to work as a team , ' skrtel explained .
+both gerrard and skrtel could return to the liverpool line-up for the match against villa after both served three-match bans for violent conduct in the 2-1 defeat to manchester united in march .
+
+#reference: 
+steven gerrard will leave liverpool for la galaxy at the end of the season . 
+ martin skrtel has praised the impact gerrard has had on him at liverpool . 
+ skrtel believes the club do have players that could eventually replace him . 
+
+
+#decode: 
+liverpool captain steven gerrard is still one of the best players in the world . 
+ gerrard is set to feature for liverpool in the fa cup semi-final against aston villa at wembley on sunday . 
+ liverpool captain martin skrtel believes liverpool can fill gerrard 's . 

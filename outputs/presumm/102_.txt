@@ -1,0 +1,47 @@
+index: 10956
+
+
+hash: 0fa083cb7da10f1f697e7dab6210397f00c0a4cf
+
+
+#article: 
+an argument between two brisbane neighbours over noise levels has ended in tragedy with one man dead and another charged with manslaughter .
+leon yeaman , 55 , was allegedly killed by a single punch in the head from 28-year-old shift worker phillip pama , 28 , during a row in front of their north brisbane homes .
+mr yeaman was reportedly in his yard on muller road making a lot of noise at around 9 pm thursday night .
+phillip pama covered his face as he left brisbane magistrate courts where he was granted conditional bail on friday
+pama , a married father of three , works a 3 am shift at a nearby warehouse and was sleeping at the time mr yeaman was making a commotion .
+pama 's defence lawyer bruce peters said mr yeaman was known for getting drunk , playing loud music and yelling at ` the world at large ' .
+pama then confronted mr yeaman and it was at that point the situation escalated .
+mr peters said his client grabbed his neighbour by the hand and hit out ` blindly ' .
+` he was being pushed at the same time he was throwing the punch , ' mr peters revealed during a bail application for pama .
+` he did n't see it connect but he felt it connect . '
+the father of three allegedly killed his 55-year-old neighbour with one punch after he refused to turn his music down
+paramedics were unable to revive mr yeaman who was pronounced dead at the scene at around 11 pm on thursday night .
+neighbours described mr yeaman as king and generous while his friend john fisher told abc radio he was a schizophrenic pensioner who enjoyed playing loud music .
+pama shielded his face from reporters outside brisbane magistrate courts when he was granted bail on friday .
+the samoan man was ordered to surrender his passport , aherre to a curfew from 6 pm to 2 am and will have to report to the local police station twice a week .
+pama , who has no history of violence , was reportedly ` beside himself ' with grief .
+the case is due to return to court on may 18 .
+
+#reference: 
+two men got in an argument about noise levels on thursday night
+a scuffle broke out and phillip pama struck leon yeaman once in the head
+mr yeaman could not be revived and was announced dead at the scene
+pama has no history of violence and is reportedly ` beside himself '
+his defence lawyer said he hit out ` blindly ' and did n't see his punch connect
+pama was granted conditional bail and is set to return to court may 18
+
+
+
+#extractive: 
+leon yeaman , 55 , was allegedly killed by a single punch in the head from 28-year-old shift worker phillip pama , 28 , during a row in front of their north brisbane homes .
+an argument between two brisbane neighbours over noise levels has ended in tragedy with one man dead and another charged with manslaughter .
+the father of three allegedly killed his 55-year-old neighbour with one punch after he refused to turn his music down
+
+
+
+#extractive+abstractive: 
+leon yeaman , 55 , was allegedly killed by a single punch in the head from 28-year-old shift worker phillip pama , 28 , during a row in front of their north brisbane homes
+mr yeaman was reportedly in his yard making a lot of noise at around 9pm thursday night
+pama , a married father of three , works a 3 am shift at a nearby warehouse and was sleeping at the time he was making a commotion
+

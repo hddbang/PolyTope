@@ -1,0 +1,24 @@
+index: 10265
+
+
+hash: 2ff43eefe807026df9e78e88a081d41c5b653fa5
+
+
+#article: 
+forget a feather down pillow - this boy would rather use his cat 's belly as a place to rest his head . california-based youtube user lionel hutz filmed his young son chasing the family feline around the garden in a bid to get some rest . footage shows the cat licking his fur before his human friend comes along and plonks himself on top . after a brief moment of stillness , the cat immediately gets up and scurries over to another spot . the boy then proceeds to follow the pet to his new location . eager to get some rest , the infant repeats the same move and rolls to the ground . the sequence happens one more time before the cat decides he 's had enough of being used as a pillow and wanders off indoors . a later video shows the duo swiftly made up , and the boy is seen gently feeding the cat handfuls of treats . sleepy head : youtube user lionel hutz filmed his young son chasing the family feline around the garden in a bid to get some rest . perfect pillow : footage shows the cat sat licking his fur before his human friend comes along and plonks himself on top . not amused : after a brief moment of stillness , the cat immediately gets up and scurries over to another spot .
+
+#reference: 
+youtube user lionel hutz filmed his young son chasing the family feline around the garden in a bid to get some rest .
+
+#baseline: 
+brazilian UNK filmed his son chasing the family feline around the garden in a bid to get some rest .
+the cat immediately gets up and UNK over to another spot .
+the cat immediately gets up and UNK over to another spot .
+
+#pointer-generator: 
+california-based youtube user lionel hutz filmed his young son chasing the family feline around the garden in a bid to get some rest .
+footage shows the cat licking his fur before his human friend comes along and plonks himself on top .
+
+#pointer-gen-coverage: 
+california-based youtube user lionel hutz filmed his young son chasing the family feline around the garden in a bid to get some rest .
+footage shows the cat licking his fur before his human friend comes along and plonks himself on top .

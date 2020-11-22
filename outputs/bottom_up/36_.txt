@@ -1,0 +1,35 @@
+index: 8039
+
+
+hash: 1d2899cd0787133e50e5e3e088d836f3f0dd856b
+
+
+#article: 
+( cnn ) it was a busy week for trending stories .
+if you were n't online much , here 's some of the best of what you missed :
+after the new york area received a large amount of rain , four rainbows appeared to stretch across the early morning sky on tuesday .
+amanda curtis , ceo of a fashion company , snapped the lucky shot .
+in rural china , hiring exotic dancers to perform at wakes is an increasingly common practice .
+families will have to find a new way to cheer up mourners , because the strippers are the latest focus of the country 's crackdown on vice .
+rdj grew increasingly agitated as a channel 4 interviewer from the uk asked about his private life on tuesday .
+they seem to spawn a new trend every other week .
+the latest : lip plumping .
+by sucking on a jar .
+to look like kylie jenner .
+it even has a hashtag : #kyliejennerchallenge .
+with help from some filmmakers , 102-year-old alice barker went back in time .
+a prom-posal that referenced bombs ?
+one school would n't have it , but the prom-poser accuses administrators of racism .
+ewan mcgregor to play lumiere in ` beauty and the beast '
+this cast continues to draw lots of interest on social media .
+johnny depp is nearly unrecognizable in the ` black mass ' trailer
+here 's one way to announce you 're pregnant : reference " the fresh prince of bel-air . "
+and a military dad photobombs his son ?
+kudos for originality this week .
+they all trended this week !
+
+#reference: 
+what do funeral strippers , a quadruple rainbow and kylie jenner have in common ? they all trended this week ! 
+
+#decode: 
+amanda curtis is ceo of a fashion company .  in china , hiring exotic dancers to perform at wakes is an option .  rdj alice barker has n't been seen since the new york area . 

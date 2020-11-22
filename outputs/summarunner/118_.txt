@@ -1,0 +1,28 @@
+index: 3867
+
+
+hash: 085af20f48c5d75a17694de011cf814bd44af1bd
+
+
+#article: 
+children who share ipads in class do much better in early literacy tests than those who do n't , researchers claim .
+the findings come after the general secretary of the national association of head teachers said he was dubious about using technology as a teaching aid in non-it classes .
+however , research into the effects of the devices on literacy levels suggests the best outcome comes from youngsters sharing devices .
+children who share ipads in class do much better in early literacy tests than those who do n't , researchers claim ( stock image above )
+courtney blackwell , at northwestern university in the us , found that , in tests , kindergarten children who shared ipads in classes over an academic year significantly outscored their peers who were in classes that had no ipads or in which each student had their own device .
+shared ipad students scored around 30 points higher than students who used the device on their own and non-ipad users .
+she worked with 352 students at a midwestern suburban school district during the research .
+miss blackwell said the findings suggest it 's the ` collaborative learning around the technology that made the difference , not just the collaboration in and of itself ' .
+shared ipad students scored around 30 points higher in a test than students who used the device on their own and non-ipad users ( stock image above )
+she added : ` schools might reconsider how the tablets are used , especially in earlier grades , in order to make the technology most effective . '
+she is due to present her findings at the 65th annual conference of the international communication association in puerto rico .
+
+#reference: 
+students who shared an ipad scored around 30 points higher on the test
+courtney blackwell worked with 352 students in america for the research
+
+
+#decode: 
+the findings come after the general secretary of the national association of head teachers said he was dubious about using technology as a teaching aid in non-it classes .
+however , research into the effects of the devices on literacy levels suggests the best outcome comes from youngsters sharing devices .
+shared ipad students scored around 30 points higher than students who used the device on their own and non-ipad users .

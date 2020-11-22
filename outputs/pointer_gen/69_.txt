@@ -1,0 +1,27 @@
+index: 4213
+
+
+hash: 29b704a1a12aa09fe42bf475276ab4359f0cf50f
+
+
+#article: 
+terrorists are undergoing training in rural areas of west wales , it has emerged . locations in ceredigion , powys and pembrokeshire are also being used to radicalise muslims , according to an officer from the wales extremism and counter terrorism unit . those involved in such activities ' take part in seemingly ordinary activities ' in the community but ' have an ulterior motive ' , detective constable gareth jones said . training : locations in ceredigion , powys and pembrokeshire in west wales , illustrated above , are being used to radicalise muslims , according to an officer from the wales extremism and counter terrorism unit . speaking to ceredigion council , dc jones stressed that issues surrounding terrorism were not confined to large cities . incidents of islamic extremist activity in wales can be traced back to 1998 , when it is claimed hate preacher abu hamza sent a group of 10 extremists to train in the brecon beacons , in powys . the area is one of several locations used by the british military for training . its rugged terrain helps prepare soldiers , including elite forces personnel like the sas , physically and mentally for warfare . in 2005 , two of the 7/7 bombers , mohammad sidique khan and shehzad tanweer , were photographed white water rafting at the national whitewater centre in bala , north wales . five years later , three would-be terrorists from cardiff were arrested as part of an al-qaeda inspired gang who plotted a 'mumbai-style ' series of terror attacks on britain . link : michael adebowale , left , one of the men convicted of murdering fusilier lee rigby , is understood to have studied arabic at the former european institute of human sciences at highmead , near llanybydder . omar latif , 28 , gurukanth desai , 30 , and abdul miah , 25 , were photographed holding a series of secret meetings with mohammed chowdhury and shah rahman in a country park in wales . and michael adebowale , one of the men convicted of murdering fusilier lee rigby , is understood to have studied arabic at the former european institute of human sciences at highmead , near llanybydder . the centre is understood to have been set up by iraqi clerics . speaking to councillors , dc jones said : ' this chap attended the institute for human sciences for quite some time . it 's fair to say that is a connection to a horrendous terrorist attack in the uk . would-be terrorists : omar latif , 28 , right , gurukanth desai , 30 , and abdul miah , 25 , left , were photographed holding a series of secret meetings with mohammed chowdhury and shah rahman in a country park in wales . ' ceredigion , pembrokeshire and powys have been used for radicalisation training . ' these people do turn up and take part in seemingly ordinary activities , but they do have an ulterior motive . this does happen in ceredigion . ' dc jones added that community intelligence was important to authorities . he said : ' it really is vital that if any intelligence comes from the community that we look at it . we do n't want that intelligence to drop off . '
+
+#reference: 
+locations in ceredigion , powys and pembrokeshire being used for training .
+also used to radicalise mulsims , according to counter-terrorism officer .
+he said those involved are ' seemingly normal ' but have an ' ulterior motive ' .
+
+#baseline: 
+residents in UNK , powys and pembrokeshire are being used to radicalise muslims , according to an officer from the wales extremism and counter terrorism unit .
+they are being used to radicalise muslims , according to an officer from the wales extremism and counter terrorism unit .
+
+#pointer-generator: 
+locations in ceredigion , powys and pembrokeshire are being used to radicalise muslims .
+those involved in such activities ' take part in seemingly ordinary activities ' .
+those involved in such activities ' take part in seemingly ordinary activities ' .
+
+#pointer-gen-coverage: 
+locations in ceredigion , powys and pembrokeshire are being used to radicalise muslims .
+those involved in such activities ' take part in seemingly ordinary activities ' in the community but ' have an ulterior motive , detective constable gareth jones said .
+dc jones stressed that issues surrounding terrorism were not confined to large cities .

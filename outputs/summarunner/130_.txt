@@ -1,0 +1,26 @@
+index: 7144
+
+
+hash: 5c8bc799a5cc622c653d84b2bd475515f6216bda
+
+
+#article: 
+this dog 's certainly not setting a good example to the youngsters under her charge .
+gemma the pit bull was filmed at home in california being fed some treats .
+but in a bid to trick her , her owner throws a broccoli spear into the mix .
+immediately the canine pulls a look of disgust as she chomps on the vegetable .
+she then proceeds to spit it out on the floor .
+let 's hope the two children she lives with do n't follow her lead and they learn to love their greens .
+when she 's not filling her face , other videos show gemma enjoys sleeping and hanging out with her human family .
+yuck : gemma the pit bull was filmed at home in california being fed some treats , but in a bid to trick her , her owner throws a broccoli spear into the mix
+not a broccoli fan : immediately the canine pulls a look of disgust as she chomps on the vegetable - she then proceeds to spit it out on the floor
+
+#reference: 
+gemma the pit bull was filmed at home in california being fed some treats
+but in a bid to trick her , her owner throws a broccoli spear into the mix
+
+
+#decode: 
+gemma the pit bull was filmed at home in california being fed some treats .
+but in a bid to trick her , her owner throws a broccoli spear into the mix .
+yuck : gemma the pit bull was filmed at home in california being fed some treats , but in a bid to trick her , her owner throws a broccoli spear into the mix

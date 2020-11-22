@@ -1,0 +1,25 @@
+index: 435
+
+
+hash: 2bd8ada1de6a7b02f59430cc82045eb8d29cf033
+
+
+#article: 
+( cnn ) for the first time in eight years , a tv legend returned to doing what he does best . contestants told to `` come on down ! '' on the april 1 edition of `` the price is right '' encountered not host drew carey but another familiar face in charge of the proceedings . instead , there was bob barker , who hosted the tv game show for 35 years before stepping down in 2007 . looking spry at 91 , barker handled the first price-guessing game of the show , the classic `` lucky seven , '' before turning hosting duties over to carey , who finished up . despite being away from the show for most of the past eight years , barker did n't seem to miss a beat .
+
+#reference: 
+bob barker returned to host `` the price is right '' on wednesday .
+barker , 91 , had retired as host in 2007 .
+
+#baseline: 
+`` the price is right '' host drew carey , who finished up .
+the classic `` lucky 7 '' is the classic `` lucky seven '' .
+the classic `` lucky 7 '' is the classic `` lucky seven '' .
+
+#pointer-generator: 
+bob barker hosted the tv game show for 35 years before stepping down in 2007 .
+contestants told to `` come on down ! ' on the april 1 edition of `` the price is right '' .
+
+#pointer-gen-coverage: 
+a tv legend returned to doing what he does best .
+contestants told to `` come on down ! '' on the april 1 edition of `` the price is right '' encountered not host drew carey .

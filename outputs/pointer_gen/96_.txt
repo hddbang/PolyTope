@@ -1,0 +1,26 @@
+index: 10233
+
+
+hash: 7d076b5e8536e42560c009e3ffbad44b4e6350c5
+
+
+#article: 
+a florida mother has accused a school of threatening to suspend her five-year-old autistic son because of ' essential oils ' he wears to help combat his illness . jessica kemp from eustis says teachers at seminole county elementary warned they would remove kindergartner logan from class because the products , manufactured by doterra , smell and are a distraction to youngsters around him . the 32-year-old says she applies the liquid to his head and neck as it helps him keep calm and focused . scroll down for video . jessica kemp from eustis says teachers at seminole county elementary threaten to remove kindergartner logan from class because the oils smelled and were a distraction to youngsters around him . the 32-year-old puts the oil on his neck as she believes it keeps him calm and focused . she claims her boy has been using them all year , but then a teacher 's aide complained . speaking to click orlando , she said : ' why is it not ok ? nobody is telling me . i 'm just being told that he smells . ' i have n't been told that anybody 's been switched out of the room . kemp said she received a letter from the local school board stating the oils had created a ' problem ' for staff and students . ' i could put chemicals in his body , but i ca n't put anything natural on him that has some kind of smell ? ' she added . despite the threat of punishment , mrs kemp has said she will continue to fight the decision and insists the use of the oils has a positive impact on her son . however , on thursday , lake county school district told the station they would not suspend logan , saying it was a ' health issue ' . the daily mail online has contacted doterra for comment . the family uses oils with scents such as lavender , chamomile and sandalwood . the company who describes their products as being ' beautifully and powerfully fragrant . the family uses detorra oils with scents such as lavender , chamomile and sandalwood . 
+
+#reference: 
+jessica kemp , 32 , has slammed seminole county elementary in eustis .
+faculty have threatened to remove her kindergartner son logan .
+claims the oils aide him and have n't caused problems before .
+school district have said they will not suspend him as it 's a ' health issue ' .
+
+#baseline: 
+jessica kemp says she applies the liquid to his head and neck as it helps him keep calm and focused .
+the 32-year-old says she applies the liquid to his head and neck as it helps him keep calm and focused .
+
+#pointer-generator: 
+jessica kemp from eustis says teachers at seminole county elementary threaten to remove kindergartner logan from class because the oils smelled and are a distraction to youngsters around him .
+the 32-year-old says she applies the liquid to his head and neck as it helps him keep calm and focused .
+
+#pointer-gen-coverage: 
+jessica kemp from eustis says teachers at seminole county elementary warned they would remove kindergartner logan from class because the oils smelled and were a distraction to youngsters around him .
+the 32-year-old says she applies the liquid to his head and neck as it helps him keep calm and focused .

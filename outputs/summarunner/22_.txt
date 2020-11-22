@@ -1,0 +1,56 @@
+index: 2357
+
+
+hash: 0ecc8c8f32e38f93c04842f69df71261ca88a56f
+
+
+#article: 
+a newborn baby with a life-threatening liver condition has been saved after undergoing a transplant from her mother 's twin sister .
+star reader was diagnosed with biliary atresia within days of being born in barnsley , west yorkshire .
+after undergoing an operation to have her bile ducts unblocked , her parents , jade reader and matthew bygrave , were told the infant would need a liver transplant in order to survive .
+jade reader ( left ) said she was ` overcome with emotion ' when her twin sister shanell ( right ) gave up part of her liver to save niece star
+with neither parent a suitable match , her maternal aunt shanell reader offered part of her organ , and has since saved her niece 's life .
+star 's parents feared she was unwell after noticing her skin turning a yellowy tinge shortly after birth .
+while jaundice is common among babies , the colour did not leave her little body for weeks , prompting doctors to run tests on her liver .
+` we did n't think it was anything serious at first .
+matthew had jaundice when he was a baby and he just had to go back into hospital and go under a lamp , ' said miss reader , 24 .
+doctors discovered the baby 's bile ducts were blocked , a condition that can prove fatal if untreated .
+following an unsuccessful attempt to unclog them , a liver transplant was the family 's only option .
+within days of being born , star 's parents knew something was wrong when she her skin turned a yellowy tinge
+while the baby 's mother was not a suitable match , her twin sister proved an ideal candidate .
+` we were utterly shocked when we were told what star had .
+we had never thought it was anything like that .
+` when we knew that it could be life-threatening it was devastating .
+she was only a few weeks old and yet we may lose her , ' said her mother .
+biliary atresia affects about 1 in 16,000 babies at birth .
+in this condition , bile ducts are either blocked or absent .
+the cause of the condition is not clear and may vary .
+one of the most common early symptoms is jaundice ( a yellow appearance of the skin or whites of the eyes ) and pale stools .
+if untreated the condition can lead to liver failure and death .
+the most common treatments for biliary atresia is the kasai procedure ( surgery that allows bile to drain directly into the bowel ) .
+both parents volunteered for the surgery but were told neither was a good enough candidate for a partial liver transplant .
+miss reader 's twin sister shanell was tested and told that she would give the baby the best chance of survival .
+` she said without any hesitation that she would do it and that star could have a piece of her liver .
+` i was so overcome with emotion .
+she 's my twin sister and if it was the other way round , i 'd have done it to save her daughter too , ' added miss reader .
+star underwent the operation in november and , after spending six weeks in hospital .
+returned home where she has since made a good recovery .
+` star has to have blood tests and liver function tests every week and she will be on anti rejection medication for the rest of her life .
+` but now she has been given the chance to live a normal life - and it 's all thanks to my twin sister .
+i ca n't thank her enough , ' her other added .
+speaking of the decision , shanell said : ` i did n't hesitate to step forward to save star .
+she 's my niece and i would do anything to help her . '
+since the operation in november baby star has made a good recovery as has her aunt shanell who said she did not hesitate when confronted with the choice of giving up part of her liver
+
+#reference: 
+star reader was diagnosed with biliary atresia within days of being born
+the baby 's bile ducts were blocked - a condition which can prove fatal
+neither of her parents were suitable candidates for partial liver transplant
+her maternal aunt shanell was the best chance she had at survival
+star underwent operation in leeds in november and has since recovered
+
+
+#decode: 
+star reader was diagnosed with biliary atresia within days of being born in barnsley , west yorkshire .
+after undergoing an operation to have her bile ducts unblocked , her parents , jade reader and matthew bygrave , were told the infant would need a liver transplant in order to survive .
+jade reader ( left ) said she was ` overcome with emotion ' when her twin sister shanell ( right ) gave up part of her liver to save niece star

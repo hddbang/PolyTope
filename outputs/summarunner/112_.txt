@@ -1,0 +1,31 @@
+index: 3087
+
+
+hash: 5dd088b09bf0ea3ad0603d8bc44ef846086cc22a
+
+
+#article: 
+this is the amazing scene as a freelance photographer risks his life to capture an image of a hungry lion from just a few feet away .
+fearless atif saeed , 38 , from lahore , pakistan was in the city 's safari park when he spotted the male lion in the distance .
+mr saeed got out of his car and crept up towards the hunter armed only with a camera and fired off a few frames .
+atif saeed crept to within 10 feet of the hungry lion before leaving the safety of his car to lie on the ground
+armed only with a camera , mr saeed , managed to capture a couple of frames before retreating to safety
+unfortunately , the clicking sound of the camera 's shutter alerted the lion to mr saeed 's presence , who was forced to retreat quite rapidly from just 10 feet away from the lion .
+he said : ` i was sitting in front of him just near my car and the door of my car was open .
+i was sat on ground few feet away , so he was treating me like his prey .
+` i was thinking - i must show the character and status of lion and this was the only way i could think of to achieve this .
+` the story finished in few seconds as the lion aggressively jumped towards me and i just about scrambled into my car .
+' was laughing at that time , but now when i think back about the incident i do n't think i would be able to do it again .
+it was a pretty close encounter . '
+
+#reference: 
+photographer atif saeed crept to within ten feet of the hungry male lion
+fearless mr saeed left the safety of his car to sit on the ground for the shot
+as soon as the camera captured the image , mr saeed had to flee for his life
+the lion charged at the intrepid photographer as he closed the car 's door
+
+
+#decode: 
+fearless atif saeed , 38 , from lahore , pakistan was in the city 's safari park when he spotted the male lion in the distance .
+mr saeed got out of his car and crept up towards the hunter armed only with a camera and fired off a few frames .
+atif saeed crept to within 10 feet of the hungry lion before leaving the safety of his car to lie on the ground

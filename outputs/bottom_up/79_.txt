@@ -1,0 +1,22 @@
+index: 6074
+
+
+hash: f1a5b86c36996331c8f9958ec7968037a0b2b35e
+
+
+#article: 
+the city of eugene in the united states has been awarded the rights to host the 2021 iaaf world championships .
+the decision was taken by the international association of athletics federations council , who decided to bypass the usual bidding process because of what it saw as a ` unique strategic opportunity to host the iaaf world championships for the first time in the usa ' .
+eugene failed last november in its bid to host the 2019 event , which was instead awarded to doha , but a recent presentation to the iaaf persuaded the governing body the city has what it takes to stage a world championships .
+eugene in the united states has been awarded the rights to host the 2021 iaaf world championships
+qatar captial doha , home to the aspire dome , beat eugene to host the 2019 event
+` in granting the championships to eugene the iaaf council have made a clear choice on a strategic decision that enables us to take advantage of a unique opportunity that may never arise again , whereby public authorities , the private sector , the national olympic committee , nbc and a particularly enthusiastic public are joining forces , ' iaaf president lamine diack said in a statement .
+` although this decision departs from the usual procedure , i am delighted that my council colleagues understood the enormous opportunity presented to us to access a key market and have taken a decision in the interest of the global development of our sport . '
+the 2007 world championships held in osaka , japan was also awarded without a bidding process .
+mo farah won gold in the men 's 10000 metres during the 2013 iaaf world athletics championships in moscow
+
+#reference: 
+eugene , oregon will host the 2021 world athletics championships .  the sport 's governing body iaaf bypassed the normal bidding process .  eugene missed out on bid to host 2019 event which was awarded to doha . 
+
+#decode: 
+eugene in the united states has been awarded the rights to host the 2021 iaaf world championships .  the decision was taken by the international association of athletics federations council .  eugene failed last november in its bid to host 2019 event . 

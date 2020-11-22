@@ -1,0 +1,51 @@
+index: 479
+
+
+hash: 866ebc99b420aec74ad716a76d9cbfbce4079c4f
+
+
+#article: 
+rail firms came under fire this weekend for planning a series of fare hikes of up to 87 per cent just ten days after the general election - despite the main party leaders pledging to freeze prices .
+the prime minister has requested first great western ( fgw ) ` urgently review ' its decision to almost double some fares on the route between london and the cotswolds - which passes through his witney constituency .
+mr cameron has promised to freeze fares in real terms for the whole of the next parliament , while labour has also pledged to bring in a ` cap ' on price hikes .
+sent letter : prime minister david cameron has written to first great western to request it ` urgently reviews ' plans to increase fares on trains running through his witney constituency
+passengers travelling from charlbury , the oxfordshire station nearest to his constituency home , can currently purchase an off-peak return to london costing £ 33.30 .
+this allows them to leave at 9.42 am , outside the morning peak , but return on one of the four services that go from london during the evening peak period .
+but from may 17 , these customers will be forced to pay £ 62.40 if they want to come home on one of these trains - an 87 per cent increase .
+the planned changes have angered mr cameron 's constituents - prompting him to personally intervene .
+the prime minister 's spokesman told the sunday times : ` mr cameron has written to first great western and asked them to urgently review their decision . '
+train companies have three windows every year in which they can increase ` unregulated ' fares , which make up around half of their total revenue .
+unregulated fares can include journeys such as off-peak leisure and advance-purchase tickets .
+first great western has insisted the reason for the change is to bring the north cotswolds route in line with its other services .
+the firm is also offering some customers a cheaper option in advanced single tickets , potentially allowing them to buy a return for £ 20 if they book ahead .
+other sharp price hikes to be introduced include an off-peak first-class single from crewe to northampton on london midlands , which will rise from £ 30 to £ 37 , according to trainsplit.com - a website that provides passengers with cheaper ticket options .
+the cost of an anytime return between stafford and liverpool , travelling with virgin , will leap from £ 26.50 to £ 33 - a 24.5 per cent hike .
+biggest hike : passengers travelling with the rail firm between london and the cotswolds could face increases of up to 87 per cent come may 17
+and an anytime first-class day return on virgin from manchester to stoke will go up 22 per cent - rising from £ 29 to £ 35.30 .
+virgin has said the ` vast majority ' of its price hikes affected ` virgin trains-only fares ' - which are at least 20 per cent cheaper than tickets offered by rival firms .
+it added : ` our overall fare increase this year on the west coast is just 1.65 per cent , well below the industry average . '
+speaking to mark hookham of the sunday times , mike richardson , of trainsplit.com , said : ` passengers might very well be surprised at these fare increases when both the main parties have talked about price freeezes .
+hundreds of ` anytime ' and ` off-peak ' returns rose by 40 per cent in january .
+its research found rail fare increases on tickets that passengers buy on the day and on rural routes .
+defended rise : virgin has said the ` vast majority ' of its price hikes affected ` virgin trains-only fares ' - which are at least 20 per cent cheaper than tickets offered by rival firms
+
+#reference: 
+pm has written to first great western asking for ` urgent review ' of fare hike
+passengers in his witney constituency could face increases of up to 87 %
+comes after mr cameron pledged to freeze fares for whole of next term
+other sharp hikes include virgin 's service between stafford and liverpool
+
+
+
+#extractive: 
+sent letter : prime minister david cameron has written to first great western to request it ` urgently reviews ' plans to increase fares on trains running through his witney constituency
+mr cameron has promised to freeze fares in real terms for the whole of the next parliament , while labour has also pledged to bring in a ` cap ' on price hikes .
+rail firms came under fire this weekend for planning a series of fare hikes of up to 87 per cent just ten days after the general election - despite the main party leaders pledging to freeze prices .
+
+
+
+#extractive+abstractive: 
+david cameron has written to first great western to request it ` urgently reviews ' plans to increase fares on north cotswolds route
+he has promised to freeze fares in real terms for the whole of the next parliament
+labour has also pledged to bring in a ` cap ' on price hikes
+

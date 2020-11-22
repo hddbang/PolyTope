@@ -1,0 +1,28 @@
+index: 6395
+
+
+hash: b3619076f8eba9b3dcd53d10a5c54b590bfab1e2
+
+
+#article: 
+( cnn ) the university of michigan has decided to proceed with a screening of the film " american sniper " despite objections from some students .
+more than 200 students signed a petition asking the school not to show the movie as part of umix , a series of social events the university stages for students .
+bradley cooper was nominated for an oscar for his portrayal of chris kyle , a navy seal and the most lethal sniper in u.s. military history .
+kyle was fatally shot at a texas shooting range in 2013 .
+some students believed the movie 's depiction of the iraq war reflected negatively on the middle east and people from that region .
+michigan 's detroit metropolitan area is home to the nation 's largest arab-american population .
+but there was a backlash to the decision to yank the movie , and a counter-petition asked school officials to reconsider .
+on wednesday , e. royster harper , university of michigan 's vice president for student life , said in a statement that " it was a mistake to cancel the showing of the movie ` american sniper ' on campus as part of a social event for students " and that the show will go on .
+" the initial decision to cancel the movie was not consistent with the high value the university of michigan places on freedom of expression and our respect for the right of students to make their own choices in such matters , " the statement said .
+umix will offer a screening of the family-friendly " paddington " for those who would rather not attend " american sniper . "
+the announcement drew praise from michigan head football coach jim harbaugh .
+
+#reference: 
+some complained about the film 's depiction of the iraq war . 
+ a petition asked the university not to show the bradley cooper film . 
+
+
+#decode: 
+more than 200 students signed the school not to show the movie as part of umix , a series of social events for students . 
+ bradley cooper was nominated for an oscar for his portrayal of chris kyle , a navy seal and most lethal sniper . 
+ michigan head football coach jim harbaugh . 

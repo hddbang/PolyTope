@@ -1,0 +1,45 @@
+index: 4309
+
+
+hash: c9c24a4ccc9841e91d012d0fd8a998a86c691ce9
+
+
+#article: 
+a teenager set herself on fire after allegedly being raped by five men from her village in india -- and her family reportedly told her to keep quiet about the attack .
+the 14-year-old is now fighting for her life in delhi 's safdarjung hospital with 70 per cent burns .
+she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district , to relieve herself .
+a teenager set herself on fire after allegedly being raped by five men from her village in india .
+she is now recovering in delhi 's safdarjung hospital ( pictured )
+she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district , to relieve herself ( file image )
+on tuesday she set herself on fire using kerosene , according to ndtv , to the shock of her brother , who doused her with water .
+he told the broadcaster : ` when i woke up , i saw her in flames ... i poured water on her to put out the flames . '
+the girl was screaming for help , according to a neighbour .
+the accused men have been arrested .
+there is a heightened sensitivity to the issue of sexual assault in india at the moment after officials last month banned india 's daughter , a documentary about the gang rape and murder of an indian student in delhi .
+recent attacks in india have resulted in street protests with many calling for more protection for women
+officials said the documentary would cause further disorder if it was shown , following a number of protests and incidents of vigilante justice in the country .
+the documentary explained the brutal rape and murder of 23-year-old student jyoti singh , who was attacked on a bus when she returned home from the cinema .
+one of the six men convicted of the attack , bus driver mukesh singh , was interviewed in prison and told researchers that had jyoti not fought back she would not have been killed .
+her death led to protests throughout india and outraged the world .
+last month an angry mob were seen on video footage beating a man to death in the street who was accused of raping and murdering an 11-year-old girl .
+video footage has emerged of the brutal prolonged attack on the 18-year-old , which was watched by a jeering 1,000-strong crowd in nagaland in eastern india .
+ibo cha was said to have been beaten for an hour before he died of his injuries .
+the footage was shot in september last year after the girl 's body was found in woodland , enraging locals .
+but it only came to light after earlier this year alleged rapist syed sarif khan was kidnapped from prison and dragged through the streets of the same area .
+he was then stripped naked and beaten to death .
+he was accused but not convicted of raping a 19-year-old female student multiple times .
+later nagaland government said he was innocent .
+jyoti singh pandey , a physiotherapy student , was gang raped as she travelled on a bus .
+the 23-year-old suffered in hospital for 13 days from her injuries before she died .
+vinay sharma , 20 , akshay thakur , 28 , pawan gupta , 19 , and mukesh singh , 26 , were all sentenced to death for her rape .
+ram singh , co-accused and widely considered the leader of the group , was found dead in his cell .
+a minor also found guilty was sentenced to three years in a reformatory institution .
+her death sparked angry protests in india and internationally about misogyny in the country .
+the attention forced judges to prioritise the case and the lawyer 's association in saket reportedly refused to defend the perpetrators .
+sorry we are not currently accepting comments on this article .
+
+#reference: 
+she was allegedly attacked after leaving her house to relieve herself .  the attack is said to have taken place in india 's uttar pradesh region .  victim suffered 70 per cent burns after dousing herself in kerosene .  her brother apparently saw her covered in flames and threw water on her . 
+
+#decode: 
+a teenager set herself on fire after allegedly being raped by five men from her village in india .  she was allegedly gang-raped on sunday when she went outside her house in kosi kalan , in uttar pradesh 's mathura district .  she is now fighting for her life in delhi 's safdarjung hospital with 70 per cent burns . 

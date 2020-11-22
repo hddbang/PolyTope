@@ -1,0 +1,30 @@
+index: 9386
+
+
+hash: ff413ad6aff00e308875ddfdc1fe4dadd43c6172
+
+
+#article: 
+a woman has been arrested after she allegedly broke into a home on martha 's vineyard , lived inside for at least a week and sold items belonging to the owners in a yard sale . michelle filkins , 44 , of west wareham has been charged with breaking and entering , larceny over $ 250 , and malicious destruction of property . she was discovered at the court street property in edgartown by owner mark conklin on april 17 . michelle filkins , 44 , of west wareham has been charged with breaking and entering , larceny over $ 250 , and the malicious destruction of property after she was arrested on april 17 . filkins was arrested on april 17 after owner mark conklin found her sitting in his summer home . according to the police report , conklin found filkins sitting in his living room of the property estimated to be worth $ 800,000 . when he confronted her she claimed that she owned the house . she then fled in a gray nissan pickup truck when conklin called the police at about 8 a.m . when police arrived , they discovered a large glass window to the left side of the front door had been broken and covered by a blanket , reports the boston globe . filkins was arrested several hours later after she attempted to get back into the home thinking that conklin had left . she is next scheduled to be in court on may 14 . a construction worker in the neighborhood has told police that he saw filkins outside with items from the home , and that she appeared to be having a yard sale or giving the items away . according to a post on the department 's facebook page , items missing include four deck chairs from crate & barrel , a weber grill , two side tables from ethan allen , one ann chase lamp , two lamps from crate & barrel , two framed posters , various pots , pans , and linens , and a painting by the owner . police are asking anyone who received items from the home to return them to the edgartown police department . ' if in fact you did purchase something you are a victim as well and epd will assist you in seeking restitution via the court prosecution of this case , ' the police department said on facebook . anyone with information can also contact the police department at 508-627-4343 . police are asking anyone who received items from the home - including a lamp and a painting - to return them . 
+
+#reference: 
+michelle filkins , 44 , of west wareham has been charged with breaking and entering , larceny over $ 250 , and the malicious destruction of property .
+she was arrested on april 17 after owner mark conklin found her sitting in his summer home .
+a neighbor told police he saw filkins outside with items from the house and that she appeared to be having a yard sale or giving the items away .
+police are asking anyone who received items from the home - including a lamp and a painting - to return them .
+
+#baseline: 
+michelle UNK , 44 , has been charged with breaking and entering , larceny over $ 250 , and malicious destruction of property after she was arrested on april 17 .
+she was arrested several hours later after she attempted to get back into the home thinking she owned the house .
+UNK was arrested several hours later after she attempted to get back into the home thinking she owned the house .
+
+#pointer-generator: 
+michelle filkins , 44 , of west wareham has been charged with breaking and entering , larceny over $ 250 , and malicious destruction of property .
+she was discovered at the court street property in edgartown by owner mark conklin on april 17 .
+filkins was arrested on april 17 after owner mark conklin found her sitting in his summer home .
+conklin found filkins sitting in his living room of the property estimated to be worth $ 800,000 .
+
+#pointer-gen-coverage: 
+michelle filkins , 44 , of west wareham has been charged with breaking and entering , larceny over $ 250 , and malicious destruction of property .
+she was discovered at the court street property in edgartown by owner mark conklin on april 17 .
+filkins was arrested on april 17 after owner mark conklin found her sitting in his summer home .

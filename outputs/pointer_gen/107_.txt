@@ -1,0 +1,27 @@
+index: 1096
+
+
+hash: 26dff36c2bc2186229d2ad55c731fca241737a1a
+
+
+#article: 
+with the new avengers : age of ultron movie released this week , james haskell showed off his inner iron man in a serious-looking instagram post . the highly-anticipated movie premiered at westfield london shopping centre on tuesday evening with fans queuing up to see the a-list cast which includes robert downey jr. , chris hemsworth and scarlett johansson . and the london wasps captain joined in on the hype as he posted the photo dressed as downey jr. 's character iron man . england flanker james haskell dressed in iron man costume and posted it on his instagram page . the london wasps captain ( middle ) returned to the club where he started his career for the 2012 season . haskell posted the image on thursday along with the message : ' avengers movie is out so thought i would release the inner iron man . @ underarmouruk # transformyourself # iwill # avengersageofultron . ' the flanker returned to wasps for the 2012 season after spells with stade francais , ricoh black rams and highlanders in new zealand . windsor-born haskell first joined wasps in 2002 , playing eight seasons for the club and winning his first england cap five years later . but in 2009 , he moved to stade francais in france and spent two seasons in the french capital before he made the move to tokyo with the ricoh black rams following the unsuccessful 2011 world cup . four months in japan with the rams and haskell was on the move again when he switched to new zealand to join the highlanders . however , he made only 12 appearances and returned to england in 2012 . since returning to wasps , haskell has surpassed the 100 appearances mark for the club and has become a big part of the england squad with 57 caps to-date . haskell has played his rugby in france , japan and new zealand after leaving the wasps in 2009 . since his return to england , haskell has enjoyed his rugby and surpassed the 100 appearance mark for wasps .
+
+#reference: 
+james haskell dresses in iron man costume and posts it on instagram .
+the avengers : age of ultron move hit the screens in england this week .
+haskell returned to london wasps for the 2012 season and is captain .
+
+#baseline: 
+james haskell posted the photo on thursday along with the message : ' avengers movie is out so thought i would release the inner iron man ' .
+the london wasps captain joined in on the show as he posted the picture on thursday along with the message : ' avengers movie is out so thought i would release the inner iron man ' .
+
+#pointer-generator: 
+age of ultron movie released this week .
+james haskell posted the image on thursday along with the message : ' avengers movie is out so thought i would release the inner iron man ' .
+the flanker returned to the club where he started his career for the 2012 season .
+
+#pointer-gen-coverage: 
+james haskell showed off his inner iron man in a serious-looking instagram post .
+the highly-anticipated movie premiered at westfield london shopping centre on tuesday evening with fans queuing up to see the a-list cast which includes robert downey jr. , chris hemsworth and scarlett johansson .
+haskell posted the image dressed as downey jr. 's character iron man .

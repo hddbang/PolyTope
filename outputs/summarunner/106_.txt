@@ -1,0 +1,44 @@
+index: 1498
+
+
+hash: d654adaf5fa71ee219ca017fc22b8c32a37d480a
+
+
+#article: 
+mourinho with his wife matilde faria at the 2014 victoria 's secret fashion show in london
+chelsea football manager jose mourinho has revealed that he talks to god every day , but never about football and never discusses the game with his wife .
+the father-of-two said that he and his family ` know about poverty ' and have been privileged to have worked with the word food programme as an ambassador against hunger .
+the 52-year-old football manager said that he tries his best to separate his professional and his family life .
+speaking to the daily telegraph , mourinho admitted that he has a strong faith in god .
+` i believe totally , clearly .
+every day i pray ; every day i speak with him .
+i do n't go to the church every day , not even every week .
+i go when i feel i need to .
+and when i 'm in portugal , i always go . '
+the former real madrid manager said he only prays for things in is personal life , never about chelsea .
+` i can say the reality is i never go to the church to speak with him about football .
+despite his intensely arrogant persona on the sideline , mourinho claims that he is a good person .
+and i think i am .
+i do n't have problems with family or friends .
+i am a good family person ; i am a good friend .
+i try to support people that i do n't even know .
+` do i make mistakes ?
+my professional area is not only very competitive -- it is competitive and emotional and [ you must ] push people for a certain kind of behaviour -- absolutely , yes .
+but the professional life is only part of a person ; a person is much more than that . '
+chelsea are currently top of the league and are playing struggling qpr this weekend .
+earlier this season , mourinho was fined £ 25,000 by football authorities for claiming there was a ` campaign ' against chelsea after cesc fabregas was booked for diving against southampton .
+mourinho , with his wife and children at the hunger games premiere , said he only prays for things in his personal life , never about football
+mourinho 's son , jose mario , celebrates chelsea 's capital one cup victory with some of the players this year
+the 52-year-old father-of-two said that he prays every day but only goes to church regularly in portugal
+
+#reference: 
+jose mourinho said he is proud to work with underprivileged people
+he claimed that he never discusses footballing issues with his wife
+in a wide-ranging interview he said he is a deeply religious person
+he also claims that he is essentially a ` very good person ' despite his antics
+
+
+#decode: 
+mourinho with his wife matilde faria at the 2014 victoria 's secret fashion show in london
+chelsea football manager jose mourinho has revealed that he talks to god every day , but never about football and never discusses the game with his wife .
+the father-of-two said that he and his family ` know about poverty ' and have been privileged to have worked with the word food programme as an ambassador against hunger .

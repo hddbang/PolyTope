@@ -1,0 +1,40 @@
+index: 434
+
+
+hash: a534d453e793f252a5ef42d6eda0989b1df15c94
+
+
+#article: 
+breast cancer patients may be spared chemotherapy thanks to new tests that pinpoint genetic ` markers '
+breast cancer patients may be spared chemotherapy thanks to new tests that pinpoint genetic ` markers ' in the tumour and determine its aggressiveness .
+after surgery , the cancer cells are sent to a lab where they are screened , and women can be told within days whether they have a high or low risk of the disease returning .
+for some women , the test can accurately tell if the risk is as low as five per cent , which is as good as if not better than the odds for those who have chemotherapy .
+the majority of women who have breast cancer are routinely given the gruelling drug treatment following removal of the tumour to prevent recurrence .
+although the medication kills off cancer cells , the side effects -- including complete hair loss , nausea , sickness , weight gain or loss , and extreme fatigue -- can be difficult to live with .
+for some women , the prospect of chemotherapy is more daunting than the surgery itself .
+but experts have long-believed that the risk of cancer recurrence for certain women is a lot less than for others , and that for some , chemotherapy may not be necessary .
+if the newest of the tests , called endopredict , shows a low score , patients can opt not to have chemotherapy .
+most of the tests are available only privately and cost about £ 2,500 , although breast specialists hope they may soon become properly available on the nhs .
+surgeon hemant singhal said : ` i think there is a good case for the nhs to use this test on the basis that the cost is balanced out by savings in not giving chemotherapy . '
+professor kefah mokbel , consultant breast surgeon at st george 's hospital , london , said : ` with this test we can help patients make an informed choice , whereas in the past we have just given chemotherapy to almost everyone . '
+becca cornford , a 49-year-old mother of three aged 11 , six and four , was recovering from being diagnosed and treated for breast cancer last year only to then discover that she had cancer in her other breast .
+the majority of women who have breast cancer are routinely given the gruelling drug treatment following removal of the tumour to prevent recurrence
+she said : ` i dreaded chemo more than another mastectomy .
+i was worried it would interfere with me being able to look after my children . '
+professor mokbel operated on becca in december at the princess grace hospital , london , and afterwards a sample of her tumour was sent away and tested using the endopredict .
+a low score meant her chances of recurrence within ten years were just five per cent and she was told chemotherapy could not offer much better odds .
+` i could have gone through chemo and the cancer could still return , ' she says .
+` there is no treatment that places your chances at zero .
+but if you have regular monitoring , there is every chance that any cancer that might come back would be nipped in the bud early . '
+
+#reference: 
+breast cancer patients may be spared chemotherapy thanks to new tests . 
+ tests pinpoint genetic ` markers ' in tumour and determine aggressiveness . 
+ they are available privately for # 2,500 and may be rolled out soon on nhs . 
+ women told within days whether they have a high risk of disease returning . 
+
+
+#decode: 
+after surgery , the cancer cells are sent to a lab where they are screened , and women can be told within days whether they have a high or low risk of the disease returning . 
+ most of the tests are available only privately and cost about # 2,500 . 
+ experts say the risk of chemotherapy is as low as five per cent . 

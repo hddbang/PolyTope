@@ -1,0 +1,29 @@
+index: 3828
+
+
+hash: 4be1dce65ac8632e2051018b127694199ca21565
+
+
+#article: 
+a police corruption trial in philadelphia is far from over , but already one trial witness has been handed a losing verdict . witness robert kushner lost his varsity coaching job at a private academy after testifying this week about his years selling marijuana . kushner , 32 , is one of more than a dozen former drug dealers testifying for the federal government about allegations of police wrongdoing . witness robert kushner lost his varsity coaching job at the jack m. barrack hebrew academy after testifying this week about his years selling marijuana . he told jurors tuesday that some of the undercover officers on trial had stolen $ 81,000 in cash and 7 pounds of marijuana from him during a 2007 arrest . that history came as news to officials at jack m. barrack hebrew academy in suburban bryn mawr . kushner had passed a background check when he was hired to coach basketball in 2010 , head of school sharon levin told the philadelphia inquirer . kushner testified that the 2007 charges were expunged as part of a probationary sentence . on cross-examination , he acknowledged that he was arrested again in 2011 and sentenced to four years of probation . he also pleaded guilty to driving under the influence in 2008 . this undated photo combination provided by the philadelphia police department shows from top left to right , philadelphia police officers thomas liciardello , brian reynolds , michael spicer , and from bottom left to right , perry betts , linwood norman and john speiser , all of whom were arrested and charged in the 26-count indictment include racketeering conspiracy , extortion , robbery , kidnapping and drug dealing . kushner told the newspaper that he never meant to deceive the school , where he worked as a seasonal employee . and he believes he is innocent of the 2011 charges . ' all of the stuff that happened in 2007 , that was eight years ago and was a bad phase of my life that i 've moved past and never really looked back , ' kushner said wednesday . `` i 'm very sorry , and i want the best for the kids . '' he also coaches in a narberth summer league , where director dan kazanicka described him as an excellent coach who is good with kids . lawyers for the six former drug squad officers accused of racketeering have said the government case is based on 19 lying drug dealers and a rogue ex-cop .
+
+#reference: 
+witness robert kushner lost his varsity coaching job at a private academy after testifying this week about his years selling marijuana .
+kushner , 32 , is one of more than a dozen former drug dealers testifying for the federal government about allegations of police wrongdoing .
+kushner had passed a background check when he was hired to coach basketball in 2010 .
+
+#baseline: 
+witness robert kushner testified that the 2007 charges were unprofessional .
+he testified that the 2007 charges were unprofessional .
+he testified that the 2007 charges were unprofessional .
+he admitted he was arrested again in 2011 and sentenced to four years .
+
+#pointer-generator: 
+witness robert kushner lost his varsity coaching job at a private academy .
+he is one of more than a dozen former drug dealers testifying for the federal government .
+kushner had passed a background check when he was hired to coach basketball in 2010 .
+
+#pointer-gen-coverage: 
+witness robert kushner lost his varsity coaching job at a private academy .
+he told jurors tuesday that some of the undercover officers on trial had stolen $ 81,000 in cash and 7 pounds of marijuana from him during a 2007 arrest .
+kushner had passed a background check when he was arrested again in 2011 and sentenced to four years of probation .

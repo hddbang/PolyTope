@@ -1,0 +1,30 @@
+index: 1954
+
+
+hash: c7fc3754aa2aba2064f7504926d2d9b4c9f8daf3
+
+
+#article: 
+pablo osvaldo has urged italian legends andrea pirlo and francisco totti to move continents and join him at argentinian giants boca juniors .
+the 29-year-old moved to his current side on a loan deal from southampton and has become an instant hit - scoring three goals in six games .
+osvaldo believes that the duo would be a good fit for boca , and says the fans would love to have them line up on the la bombonera pitch .
+pablo osvaldo thinks that his former team-mates andrea pirlo and francesco totti should move to boca
+` who i would like to join me at boca ?
+pirlo and totti , ' the 29-year-old told corriere dello sport .
+` i have played with many great players over the years and many of them are my friends .
+i do n't want to do injustice to anyone , but if i had to pick two , it would be pirlo and totti .
+` they have a bit of a south-american style and they would be perfect for boca with their abilities .
+` the bombonera would go absolutely crazy for players like them . '
+pirlo has established himself as one of the best midfielders in world football and is hugely popular
+totti ( 10 ) is a roma legend and osvaldo feels that he would be just as loved if he moved to argentina
+
+#reference: 
+pablo osvaldo says andrea pirlo and francesco totti should join boca . 
+ the 29-year-old is currently on loan at the club from southampton . 
+ osvaldo believes the boca fans ` would go crazy ' for the italian duo . 
+
+
+#decode: 
+pablo osvaldo has urged italian legends andrea pirlo and francesco totti to move to boca juniors . 
+ the 29-year-old moved to his current side on a loan deal from southampton . 
+ osvaldo believes that the duo would be a good fit for boca juniors . 

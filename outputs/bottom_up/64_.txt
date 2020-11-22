@@ -1,0 +1,33 @@
+index: 10960
+
+
+hash: 734cd8f9a85be5f7730af41356b18c359eafffdc
+
+
+#article: 
+it 's said eating slowly helps bring the taste and texture of foods to the foreground .
+but cooper the labrador certainly does n't care about being a culinary connoisseur , as a new video shows .
+katie gallegos from clackamas county , oregon , decided to take the pooch to a mcdonald 's drive-thru for an ice cream with his pal daisy .
+but while the small female pup takes a few ladylike licks , cooper gobbles the rest of the cone up in one bite .
+gallegos , who runs dogpatch resort , says that cooper always eats very quickly .
+therefore , she always makes sure daisy gets her fill first before offering the meal on .
+to date the video of cooper 's ice cream outing has been watched more than seven million times .
+weekly treat : katie gallegos from clackamas county , oregon , decided to take cooper the dog ( right ) to a mcdonald 's drive-thru for an ice cream with his pal daisy
+dining etiquette : but while the small female pup takes a few ladylike licks , cooper gobbles the rest of the cone up in one bite
+while some viewers have deemed the scene ` cute ' and ` hilarious ' , others have criticized gallegos for feeding her pups the creamy treat .
+however , the animal-lover who runs a dog resort , insists that it 's perfectly fine .
+in response to comments , she wrote : ` i love that so many people are concerned ... cooper is quite the athlete and in amazing health .
+` i lost my sammy ( a large breed mutt ) last year at 19 years old ... he had an ice cream about once a week like cooper .
+down in one bite : gallegos says that cooper always eats very quickly
+fan club : to date the video of cooper 's ice cream outing has been watched more than seven million times
+` little daisy on the other hand , gets only a few licks every now and again because of her size . '
+it seems that the two canines have quite a penchant for fast food .
+indeed , another video shows the duo visiting a starbucks for a ` pup-uccino ' .
+again , cooper takes the whole cup away in his mouth to demolish the contents .
+gallegos notes that the beverage does not contain any coffee and is merely a dollop of ` whip cream in a cup ' .
+
+#reference: 
+katie gallegos from clackamas county , oregon , decided to take the pooch to a mcdonald 's drive-thru for an ice cream with his pal daisy .  but while the small female pup takes a few ladylike licks , cooper gobbles the rest of the cone up in one bite .  gallegos says ice cream is a weekly treat for her pets . 
+
+#decode: 
+katie gallegos from clackamas county , oregon , took cooper the dog to a mcdonald 's drive-thru for an ice cream with his pal daisy .  the video of cooper 's ice cream outing has been watched more than seven million times .  the video shows that cooper always eats very quickly . 

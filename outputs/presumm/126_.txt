@@ -1,0 +1,48 @@
+index: 10636
+
+
+hash: bf3696db6d1fcd09f85921465d4ac140d513707c
+
+
+#article: 
+journalist and author of the best-selling book i quit sugar has opened up about her own personal battle with mental illness , revealing she came close to taking her own life .
+during a candid interview sarah wilson , 41 , explained how anxiety drove her to believe she had reached a stage in her life where she ` could n't see the point of continuing . '
+` my anxiety brought me to a point where i could n't quite see the existential point of continuing , ' she told women 's weekly australia .
+` i could n't see a way out . '
+sarah wilson opened up in a candid interview about how her battle with mental illness drove her to believe her life was n't worth living
+during the intimate interview ms wilson revealed it was a combination of issues , including mounting stress , anxiety , her thyroid disease and distant family , that drove her to believe her life was no longer worth living .
+she said ` people get on with their lives ' and while she had n't found a husband , nor had children , she felt increasingly isolated .
+` i was essentially very alone , ' ms wilson added .
+` my anxiety brought me to a point where i could n't quite see the existential point of continuing '
+` i could n't see a light at the end of the tunnel , ' she added .
+ms wilson said while she struggled through her younger years she has recently ` found some peace with it . '
+in ms wilson 's eyes , depression and anxiety are intrinsically linked .
+she thinks we need to acknowledge this link to be better equipped to tackle the increasing rate of australian women who are being negatively affected by stress and anxiety .
+ms wilson said while she now accepts she is an ` anxious person ' , when she was younger she watched everybody else coping and felt like she had ` missed out on a guide book to life '
+ms wilson said while she now accepts she is an ` anxious person ' , when she was younger she watched everybody else coping and felt like she had ` missed out on a guide book to life ' .
+ms wilson said anxiety is quickly becoming the ` new depression ' .
+beyond blue report that one in three australian women will experience anxiety in their lifetime , and although depression and anxiety are two different conditions , one can often lead to the other .
+if you or someone you know needs help , do n't hesitate to contact beyondblue on 1300 224 636 or lifeline 13 11 14 .
+
+#reference: 
+sarah wilson admitted anxiety drove her to think about taking her own life
+ms wilson has suffered from anxiety since she was a young girl
+anxiety , stress , loneliness and a thyroid disease made her feel worthless
+one in three australian women will experience anxiety in their lifetime
+ms wilson said anxiety is quickly becoming the ` new depression '
+
+
+
+#extractive: 
+sarah wilson opened up in a candid interview about how her battle with mental illness drove her to believe her life was n't worth living
+ms wilson said while she now accepts she is an ` anxious person ' , when she was younger she watched everybody else coping and felt like she had ` missed out on a guide book to life ' .
+she said ` people get on with their lives ' and while she had n't found a husband , nor had children , she felt increasingly isolated . '
+
+
+
+#extractive+abstractive: 
+during a candid interview sarah wilson revealed she came close to taking her own life
+she said anxiety drove her to believe she had reached a stage where she ` could n't see the point of continuing '
+while she had n't found a husband , nor had children , she felt increasingly isolated
+ms wilson said anxiety is quickly becoming the ` new depression '
+

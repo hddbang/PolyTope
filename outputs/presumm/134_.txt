@@ -1,0 +1,45 @@
+index: 810
+
+
+hash: f44c6c7c717458d75d5ea87769272d82c2a0420e
+
+
+#article: 
+a 13-year-old maryland boy provided firefighters with instructions during a 911 call and got himself and his little sister rescued after his family 's home caught fire on sunday morning ,
+marcus and his nine-year-old sister aaliyah were trapped in a second-floor bedroom after the fire broke out on the first floor of their home in clinton .
+the boy called 911 shortly before 7 am after he smelled smoke and told the dispatcher the siblings were trapped in the room because it was too hot to get out through the hallway
+a 13-year-old maryland boy called 911 after a fire broke out on the first floor of his home in clinton on sunday
+marcus , who stayed calm throughout the 11-minute call , told the dispatcher that his older brother , mother and step-father were also in the home , abc news reported .
+he also soothed his sister after she blurted out , ` we 're going to die ' , during the call and told her to ` stay low ' and reminded her to breathe .
+while giving directions , the boy said : ` go up the steps right in the back hallways .
+` it 's a black door to the right . '
+marcus was able to stay calm throughout the 11-minute call and he was rescued along with his 9-year-old sister
+prince george 's county firefighters were able to enter the room by going through the home and breaking a window , according to the washington post .
+when firefighter lt kenny ward entered the room , he handed marcus out the window to another rescuer , according to assistant fire chief alan doubleday .
+the 25-year veteran then gave his gas mask to the little girl after he felt her tug on his leg .
+doubleday said : ` it was a heroic effort on his part .
+i ca n't even put it into words . '
+the siblings were taken to children 's hospital with non-life threatening injuries , wjla reported .
+the three other family members were taken to medstar hospital after escaping on their own .
+
+#reference: 
+marcus , a 13-year-old maryland boy , provided firefighters with instructions
+smelled smoke when family 's clinton home caught fire sunday morning
+was trapped in a second-floor bedroom with nine-year-old sister during fire
+soothed his sister after she blurted out ` we 're going to die ' during the call
+siblings saved and three other people in the home escaped without injury
+
+
+
+#extractive: 
+marcus and his nine-year-old sister aaliyah were trapped in a second-floor bedroom after the fire broke out on the first floor of their home in clinton .
+a 13-year-old maryland boy provided firefighters with instructions during a 911 call and got himself and his little sister rescued after his family 's home caught fire on sunday morning ,
+he also soothed his sister after she blurted out , ` we 're going to die ' , during the call and told her to ` stay low ' and reminded her to breathe .
+
+
+
+#extractive+abstractive: 
+marcus and his nine-year-old sister aaliyah were trapped in a second-floor bedroom after the fire broke out on the first floor of their home in clinton on sunday morning
+the boy called 911 shortly before 7am after he smelled smoke and told the dispatcher that his older brother , mother and step-father were also in the home
+while giving directions , the boy said : ` go up the steps right in the back hallways . ` it 's a black door to the right '
+

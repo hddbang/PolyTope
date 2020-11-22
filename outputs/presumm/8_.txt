@@ -1,0 +1,59 @@
+index: 2829
+
+
+hash: d09d6315e2bd2a6f657505292ef72d281c551c29
+
+
+#article: 
+carriers of the brca1 gene , like hollywood star angelina jolie , can reduce their risk of death once they have been diagnosed with breast cancer by having their ovaries removed
+women diagnosed with breast cancer caused by the gene carried by angelina jolie could be helped to beat the disease if they have their ovaries removed as she did .
+a study indicates that following the example of the hollywood star cuts their risk of dying from breast cancer by more than 60 per cent .
+miss jolie , 39 , had the procedure , known as an oophorectomy , in march .
+two years before , she had a double mastectomy as she carries the brca1 gene variant which dramatically raises the risk of developing both breast and ovarian cancer .
+women who carry a mutated version of brca1 or another gene known as brca2 face a life-time risk of breast cancer of up to 70 per cent .
+if diagnosed , they face a severe threat of ovarian tumours .
+the researchers in canada analysed 676 breast cancer patients who had one of the mutated genes , nearly half ( 345 ) underwent oophorectomy after their diagnosis .
+the study found the 20-year survival rate for the entire group was 77.4 per cent .
+having an oophorectomy was associated with a significant drop of 62 per cent in breast cancer death in women with a brca1 mutation , but this did not occur in those with a brca2 mutation .
+there were nine deaths from ovarian cancer in the women who did not have oophorectomies .
+the scientists found a 65 per cent reduction in death from all causes associated with oophorectomy .
+according to the study , oophorectomies were performed an average of six years after breast cancer diagnosis .
+for the 70 brca1 carriers who had their ovaries removed within two years , there was a 73 per cent reduction in death compared with women with the mutation who never underwent the procedure .
+the authors , writing in the journal jama oncology , said that the protective effect of oophorectomy against breast cancer was apparent immediately after diagnosis and lasted for 15 years .
+dr steven narod , of the women 's college research institute , toronto , called for follow-up studies on women who undergo oophorectomy as part of their initial treatment , in particular , those who had the surgery within a year of finding out they have breast cancer .
+he added that more research was needed , especially on carriers of the brca2 variant .
+journal editor dr mary disis said the results were ` compelling and suggest the potential of oophorectomy should become part of the treatment discussion at the time of diagnosis for brca mutation carriers with early stage breast cancers ' .
+she added : ` the results provide a validation of oophorectomy in coveying both a disease-free and overall survival benefit for brca1 carriers .
+` in the entire group , oophorectomy was particularly effective for survival benefit in women with oestrogen-receptor negative breast cancer . '
+those women diagnosed with the brca1 gene mutation have a 50 to 80 per cent risk of developing breast cancer , pictured , in their lifetime
+women with a significant family history of breast cancer may have an increased risk of getting the disease .
+a significant family history is defined by :
+women who inherit the faulty , or mutated , brca1 or brca2 genes have a 50 to 80 per cent chance of developing breast cancer during their lifetime .
+genetic tests are available to women who are likely to have a brca1 or brca2 mutation , or faults in two other genes called tp53 and pten .
+brca gene faults are more common in the ashkenazi jewish population , about 2.3 per cent of ashkenazi jewish women have a brca gene mutation .
+this type of the disease affects about one in four women diagnosed with breast cancer .
+it is an especially aggressive form which is often resilient to drug treatment and requires intensive chemotherapy .
+other studies of the gene mutation carriers have found that reduced mortality is associated with ovary removal for women with a history of breast cancer .
+speaking about her decision to have the procedure miss jolie , who has six children , said that having her ovaries removed did not make her feel any less womanly .
+in an article for the new york times , she wrote : ` i feel feminine , and grounded in the choices i am making for myself and my family . '
+
+#reference: 
+carriers of brca1 gene mutation who are diagnosed with breast cancer are less likely to die if they have their ovaries removed , study found
+but the theory does not apply for those with brca2 gene mutation
+having the brca1 or brca2 genes increase risk of breast cancer by 70 %
+experts said benefits of having ovaries removed lasted for up to 15 years
+
+
+
+#extractive: 
+carriers of the brca1 gene , like hollywood star angelina jolie , can reduce their risk of death once they have been diagnosed with breast cancer by having their ovaries removed
+women who carry a mutated version of brca1 or another gene known as brca2 face a life-time risk of breast cancer of up to 70 per cent .
+if diagnosed , they face a severe threat of ovarian tumours .
+
+
+
+#extractive+abstractive: 
+following the example of angelina jolie cuts their risk of dying from breast cancer by more than 60 per cent
+women who carry a mutated gene known as brca2 face a life-time risk of breast cancer of up to 70 per cent if diagnosed , they face a severe threat of ovarian tumours
+researchers in canada analysed 676 breast cancer patients who had one of the mutated genes , nearly half ( 345 ) underwent oophorectomy after their diagnosis
+

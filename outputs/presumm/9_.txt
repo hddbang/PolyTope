@@ -1,0 +1,67 @@
+index: 947
+
+
+hash: 151a2a380771990537cd31c1882b6d25a43dc075
+
+
+#article: 
+indiana has seen a ` significant increase ' in the number of cases of hiv more than two weeks into a short-term needle exchange program approved by gov. mike pence , state health officials said on friday .
+there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
+that 's up from 106 last week , said the indiana state department of health .
+health officials who declared an epidemic last month have said they expect the number of cases to rise as more people are tested .
+but the growing number could put pressure on pence to extend the 30-day needle exchange program that he approved on march 26 .
+more than two weeks into a short-term needle exchange program approved by gov. mike pence , there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky
+spokeswoman kara brooks said pence is reviewing reports and recommendations from health officials and will make a decision early next week about extending the program beyond april 25 .
+the scott county outbreak has occurred among intravenous drug users and primarily involves the use of the high-powered painkiller opana , health officials have said .
+the county typically sees about five hiv cases each year .
+since pence approved the temporary needle exchange , 5,322 clean syringes have been provided to 86 participants , health officials said friday .
+about 1,400 used syringes have been returned .
+brittany combs , public health nurse for the scott county health department , said the needle-exchange program had ` really picked up a lot this week , ' in large part because a mobile unit has been traveling around neighborhoods seeking to get more iv drug users into the program .
+` it 's that trust factor .
+you have to gain that trust , and i think we 're slowly starting to do that , ' combs said .
+but the future of the scott county program , as well as the fate of legislation that would allow needle-exchange programs in other counties , is n't clear .
+the scott county outbreak has occurred among intravenous drug users and primarily involves the use of the high-powered prescription painkiller opana , health officials have said
+pence opposes needle exchanges as an anti-drug policy .
+senate president pro tem david long said on thursday that the emergency exchange for scott county was ` the right reaction ' but was n't sure if it is the correct approach long-term .
+nor was he sure whether the senate would support legislation sponsored by house public health committee chairman ed clere , r-new albany , that would allow the 23 indiana counties with the highest rate-per-population of hepatitis c to establish their own needle-exchange programs .
+the centers for disease control and prevention reports that between 50 percent and 90 percent of people with hepatitis c are also infected with hiv .
+health officials say because of this , high rates of hepatitis c are a key indicator of needle-sharing and a potential hiv outbreak .
+the house approved the bill on april 7 in a 54-39 vote , and the measure is scheduled for a hearing on monday in a house-senate conference committee , which will try to work out a final version for lawmakers to consider before the legislature 's april 29 adjournment deadline .
+long said pence is n't alone in his concerns that needle exchanges could promote drug use instead of prevent it .
+` at the same time , you adapt and you evolve based on the world we live in , so we 're going to have to see if that requires a pivot for us , ' long said .
+medical waste containers stored in preparation for scott county residents that are looking to exchange used needles .
+the needle-exchange program was created through an emergency executive order signed last week by gov. mike pence in an attempt to curb the state 's largest-ever hiv outbreak
+clere said he appreciates pence 's approval of the short-term needle exchange but that ` it does n't help in other areas of the state that are at risk for a similar outbreak .
+it 's just not enough . '
+he said the association between needle exchanges and illegal drug activity makes many people , including lawmakers , uncomfortable .
+but he thinks the exchange program should n't be viewed as anti-drug policy , but as ` a proven and effective harm-reduction policy . '
+` we simply ca n't afford to view this as a short-term problem , ' clere said .
+money could also be an issue as lawmakers weigh their options .
+since 1989 , the federal government has banned public funding of needle exchange programs .
+pence 's executive order did n't include money for the scott county program .
+` they asked the state agencies to find their own money .
+how sustainable is that ? '
+said dr. beth meyerson , co-director of the rural center for aids/std prevention at indiana university .
+` there 's no evidence that the pence administration is thinking about this in the long term at all . '
+
+#reference: 
+there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky
+outbreak has occurred among intravenous drug users and primarily involves the use of the high-powered prescription painkiller opana
+health officials who declared an epidemic last month have said they expect the number of cases to rise as more people are tested
+gov. mike pence approved a short-term needle exchange program two weeks ago to help combat the problem
+
+
+
+#extractive: 
+there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky .
+that 's up from 106 last week , said the indiana state department of health .
+health officials who declared an epidemic last month have said they expect the number of cases to rise as more people are tested .
+
+
+
+#extractive+abstractive: 
+there are now 120 confirmed hiv cases and 10 preliminary positive cases tied to scott county , about 30 miles north of louisville , kentucky
+that 's up from 106 last week , said the indiana state department of health
+but the growing number could put pressure on pence to extend the 30-day needle exchange program that he approved on march 26
+pence is reviewing reports and recommendations from health officials and will make a decision early next week about extending the program beyond april 25
+

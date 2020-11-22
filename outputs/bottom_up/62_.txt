@@ -1,0 +1,61 @@
+index: 4173
+
+
+hash: 5c1b79e5c3ff0b55c26019767a6524e3a8ecd8ed
+
+
+#article: 
+floyd mayweather v manny pacquiao will be the biggest fight of all time financially and the most significant this century .
+evaluating the greatest ever fights is a complex variable of several factors including not only the quality and excitement of the action but the political , social and cultural undertones , the scale of expectation and outside influences .
+where money man v pacman comes to rank among the most important fights in ring history will depend upon what happens that coming night in the mgm grand garden arena .
+in this , the sixth in a series of 12 fights that shaped boxing history , i recall when a hard man could take no more ...
+sugar ray leonard v roberto duran
+the first two of the three fights between the sugar man and hands of stone raised the curtain on what is considered the golden age of boxing in the classic middling weights of boxing , with ray leonard , roberto duran , thomas hearns and marvin hagler engaging each other in some of the ring 's epic battles .
+by way of a preview , leonard had defeated the previous -- and equally great -- felix trinidad to win the world welterweight title .
+sugar ray leonard celebrates after roberto duran quit in their fight in louisiana in november 1980
+leonard decided to use his exceptional speed and movement to beat the panamanian in the second fight
+october 30 , 1974 , kinshasa , zaire
+march 8 , 1971 , madison square garden , new york
+july 4 , 1910 , reno , nevada
+june 22 , 1938 , yankee stadium , new york
+october 1 , 1975 , quezon city , philippines
+in his first defence , sugar ray had been contentiously outpointed by duran in montreal 's olympic stadium .
+so confused was the scoring that the result was first announced as a majority decision .
+that was changed to unanimous in duran 's favour after one judge was found to have totalled his score incorrectly and his card was altered from a draw to 148-147 .
+there was more uproar when that judge was revealed to have marked just three rounds in favour of duran and only two for leonard -- with 10 even .
+that was described as ` a monument to indecision ' .
+come the inevitable rematch eight months later , in the louisana superdome in new orleans on november 25 , 1980 , controversy was to be replaced by disbelief .
+leonard had gambled in the first fight by taking the macho decision to take on the panamanian hard man in a mano-a-mano slug-out .
+second time around he wisely chose to use his exceptional ability , especially his speed and movement .
+duran became frustrated as leonard danced around him before unleashing his punches
+after being caught flush in the face in the eighth round , duran turned his back and said ` no mas '
+` the whole fight i was moving .
+then voom , i 'd snap his head back with a jab .
+voom , i 'd snap it back again .
+he 'd try to get me on the ropes .
+i 'd pivot , spin off and pow , come under with a punch . '
+so it went for more than seven rounds , with duran becoming increasingly frustrated .
+in the eighth leonard cranked up the psychological pressure by waving his right arm in circles and then planting a left flush in duran 's face .
+there had been a moment earlier when leonard appeared to pat him playfully on the backside .
+just before the bell duran turned his back and walked to his corner , waving his arms to indicate he was finished and famously telling the referee : ` no mas . '
+leonard celebrates after his opponent quit , and said it was more of an achievement than knocking duran out
+the result stunned the watching world , and it took three years for duran to rebuild his reputation
+the watching world was stunned .
+here was one of the most heroic warriors in boxing history quitting in the most humiliating manner possible .
+sensing the reaction duran claimed he had stomach cramps caused by eating too heavily after the morning weigh-in .
+but his manager carlos eleta said : ` he always eats like that before a fight .
+he quit because he was embarrassed . '
+duran had been a national icon in panama and there was anger on the streets at his action .
+television commercials featuring him were taken off .
+it took three years for duran to restore his high place in his country 's esteem .
+he did so on june 16 , 1983 , his 32nd birthday , by knocking out davey moore in las vegas to win the world light-middleweight title .
+rejoicing returned to the streets .
+leonard would win their third fight in 1989 by a points landslide , thereby retaining the world super-middleweight title .
+but sugar ray took most pride from the trilogy from forcing duran to say no mas .
+he said : ` to me , making roberto duran to quit was better than knocking him out . '
+
+#reference: 
+floyd mayweather v manny pacquiao is now just nine days away .  sportsmail 's jeff powell has been counting down the greatest fights .  in the sixth of a series of 12 fights that shaped boxing history , we have sugar ray leonard v roberto duran .  leonard humiliated his opponent until he said ` no mas ' - no more .  it took duran three years to reclaim his mantle as a hero in panama . 
+
+#decode: 
+floyd mayweather v manny pacquiao will be the sixth fight of all time .  sugar ray leonard v roberto duran , felix trinidad to win the world welterweight title .  the first two of the three fights in 12 fights in the mgm grand garden arena . 

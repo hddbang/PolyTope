@@ -1,0 +1,28 @@
+index: 10824
+
+
+hash: a8c4bcfd1af3b171f1e994293f151299bed8033b
+
+
+#article: 
+michael scott shemansky is on the run after authorities named him as a suspect in the murder of his mother . a florida man wanted as a suspect in the murder of his own mother has been on the run from police since saturday . police say michael scott shemansky came to their attention after he failed to appear for a supervised visit with his son on the same day mother sandra shemansky , 57 , was found dead at the home they shared in winter garden . the body was discovered at the west colonial drive home when an out-of-state family member called in a well-being check . wkmg reports that an initial investigation determined there was foul play . ' my biggest concern is that he might come back , ' said neighbor natalie randall , a resident of the winter garden rv resort . an attorney for his estranged wife confirmed shemansky 's failure to appear for the scheduled visit . he is already on parole for battery on law enforcement , has a history of bipolar mental illness , and was involuntarily committed to a psychiatric ward for an attempted suicide . his mother was there to help him as he went through a divorce . his wife filed a domestic violence injunction against him two years ago , according to her attorney , diana knowles dunlop . neighbors said his mother may have been the one preventing him from making the meeting with his son . neighbors at the winter garden rv resort believe divorce proceedings may have pushed shemansky over the edge . ' his mom would n't allow him to go , ' nathan tanner told reporters . ' she said because she did n't want him to have no more trouble through the courts . ' tanner added the stress of the divorce proceedings may have pushed him over the edge . ' and he got some paperwork friday that was , i guess , bad news and i guess that triggered him , ' tanner told wftv . authorities have the murder weapon , still not publicly identified , but will not yet confirm how sandra shemansky was killed , according to information given to local press by police lt. scott allen . he allegedly was seen going into the trailer park 's office and asking for a glass of water shortly after the murder . shemansky was last seen fleeing on foot without any sort of provisions and no medication . his estranged wife is reportedly preparing to protect himself on the chance he arrives at her home . anyone with information as to his whereabouts is urged to contact authorities at 407-656-3636 . 
+
+#reference: 
+police say michael scott shemansky came to their attention after he failed to appear for a supervised visit with his son saturday .
+that same day mother sandra shemansky , 57 , was found dead at the home they shared in winter garden , florida .
+michael shemansky was going through a difficult divorce and neighbors believe the stress may have caused him to snap .
+
+#baseline: 
+michael scott UNK , 57 , has been on the run since saturday .
+his mother , sandra UNK , 57 , was found dead at the home they shared in winter garden .
+UNK 's mother , sandra UNK , 57 , was found dead at the home they shared in winter garden .
+
+#pointer-generator: 
+police say michael scott shemansky came to their attention after he failed to appear for a supervised visit with his son .
+the body was discovered at the west colonial drive home when an out-of-state family member called in a well-being check .
+the body was discovered at the west colonial drive home when an out-of-state family member called in a well-being check .
+
+#pointer-gen-coverage: 
+police say michael scott shemansky came to their attention after he failed to appear for a supervised visit with his son on the same day mother sandra shemansky , 57 , was found dead at the home they shared in winter garden .
+the body was discovered at the west colonial drive home when an out-of-state family member called in a well-being check .
+wkmg reports that an initial investigation determined there was foul play .

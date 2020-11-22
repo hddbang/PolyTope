@@ -1,0 +1,40 @@
+index: 1257
+
+
+hash: a27c236008bbb6c44eb77e85417cc1b931d04113
+
+
+#article: 
+world cup winning rugby star mils muliaina has been bailed after being arrested on suspicion of sexual assault .
+the former all black , who denies the allegations , was arrested last night after his team was defeated in the quarter finals of the european challenge cup .
+he had come off injured during connacht 's 14-7 defeat at gloucester last night when he was approached by police .
+the 34-year-old full back , who has 100 caps for the all blacks , was led away by officers at the kingsholm stadium last night in connection with an allegation in cardiff in march .
+former all black mils muliaina , pictured last night playing in connacht 's 14-7 defeat against gloucester , was arrested after the game in connection with an allegation of sexual assault in cardiff from march
+married muliaina is accused of assaulting the woman in a crowded bar in the brewery quarter of cardiff city centre after his irish team connacht played against cardiff blues last month .
+he was held in cells overnight before being questioned for more than six hours by detectives in cardiff yesterday .
+his solicitor matthew de maid said : ` he totally denies all the allegations .
+he has been helping police with their inquiries and he has n't been charged with anything . '
+a spokesperson for gloucestershire police said : ` a man in his 30s was arrested at kingsholm stadium on friday 3rd april on suspicion of sexual assault in relation to an incident in cardiff in march .
+muliaina is led away by police following his side 's 14-7 defeat by gloucester on friday night
+the former all black was arrested at kingsholm and then led to a police van where he was detained
+muliaina 's arrest was captured live on sky sports following the challenge cup quarter-final
+` the man has been handed over to officers from south wales police who are investigating the incident . '
+muliaina had been playing for the irish provincial team against the cardiff blues on march 6 .
+he retired from the all blacks in 2011 .
+a spokesperson for the team said : ` connacht rugby can confirm that player mils muliaina is currently assisting the south wales police with enquiries relating to an alleged incident in cardiff in march of this year .
+` as this is a legal matter , connacht rugby will be making no further comment at this time . '
+the allegation is believed to date from connacht 's visit to the cardiff blues on march 6
+muliaina has 100 caps for the all blacks and retired from international rugby after the 2011 world cup victory
+sorry we are not currently accepting comments on this article .
+
+#reference: 
+mils muliaina came off injured during connacht 's visit to gloucester
+the 34-year-old world cup winner was arrested by police after the game
+muliaina was held in cells overnight and questioned by officers in cardiff
+he denies assault allegations over alleged incident last month
+
+
+#decode: 
+world cup winning rugby star mils muliaina has been bailed after being arrested on suspicion of sexual assault .
+the former all black , who denies the allegations , was arrested last night after his team was defeated in the quarter finals of the european challenge cup .
+he had come off injured during connacht 's 14-7 defeat at gloucester last night when he was approached by police .

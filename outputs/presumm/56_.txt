@@ -1,0 +1,80 @@
+index: 8430
+
+
+hash: 7e6279e2770052c3bf315fb5b6970d14eb7371ef
+
+
+#article: 
+a five-year-old boy who battled cancer has been given the all clear by doctors - after creating a superhero mask to help him through his treatment .
+harley renshaw was diagnosed with cancer in his kidney , neck , lungs and bones .
+but his ninja turtle mask helped him feel stronger while he was having radiotherapy .
+hospital staff were amazed when the youngster , from stretford , asked if he could decorate the protective mask that holds him still while having his treatment .
+harley renshaw has been told he is cancer-free after battling an aggressive form of the disease for a year .
+he donned a superhero costume during his radiotherapy treatment , to help him feel brave
+harley asked if he could decorate the protective mask that holds him still while having his radiotherapy treatment like a ninja turtle
+after harley 's story made headlines around the world , staff at children 's tv channel nickelodeon even sent harley a box full of ninja turtle presents for christmas .
+and now doctors given harley 's parents oliver , 25 , and stacey , 23 , the news they had not dared to dream of - he is free of cancer .
+he will undergo regular check-ups over the coming years to make sure he stays free of the disease .
+mr renshaw said : ` we 're chuffed to bits .
+it was just over a year ago that he was diagnosed and he has been through it .
+` he 's been running about everywhere and we 're hoping that he will soon be back at school full time . '
+mr and mrs renshaw were given harley 's devastating diagnosis after taking him to see a doctor when he complained of a pain in his stomach .
+he was diagnosed with neuroblastoma - a rare and aggressive childhood cancer which affects fewer than 100 children in the uk .
+harley was diagnosed with cancer in his kidney , lung , bones and neck after mother stacey took him to a doctor with a stomach pain
+harley 's story became famous after it was reported in the local paper in december last year .
+the children 's tv channel nickelodean even sent him a whole box of ninja turtles presents for christmas
+neuroblastoma is cancer of specialised nerve cells , which are involved in the development of the nervous system .
+the tumours usually start in one of the adrenal glands found above the kidneys , or in nerve tissues that run along the spinal cord , in the neck , chest , abdomen or pelvis .
+as in harley 's case , the cancer can also spread to other areas of the body .
+after doctors diagnosed his tumour , harley faced 80 days of intensive chemotherapy and an operation to remove his kidney tumour .
+a month later , he was back at hospital for a stem cell transplant -- also called a blood or marrow transplant - where healthy stem cells were injected into his body to replace damaged or diseased stem cells .
+he suffered complications as a result of the procedure , but battled through them to return home for his fifth birthday .
+he also had weeks of radiotherapy at the christie clinic in manchester .
+finally , he and his parents were given the incredible news that he was cancer-free .
+harley 's father said he is ` so chuffed ' his son is cancer-free .
+` harley is doing great , ' he said .
+` he 's been running about everywhere and we 're hoping that he will soon be back at school full time '
+his bravery caught the attention of doctors in the hospital and he was awarded one of cancer research uk 's little star awards .
+he has also become the face of the charity 's kids and teens campaign , which aims to raise funds for research into child cancers .
+mr renshaw said harley 's family are overjoyed to be told he is free of cancer .
+he added : ` we 're just really excited and looking forward to the future . '
+to donate or for more information about cancer research uk kids & teens visit cruk.org/kidsandteens
+neuroblastoma is a cancer of specialised nerve cells in the nervous system and other tissues .
+fewer than 100 children in the uk are diagnosed each year with the disease .
+most children diagnosed with the disease are younger than five years old .
+it is the second most common solid tumour in childhood , and it makes up 8 per cent of the total number of children 's cancers .
+neuroblastoma commonly occurs in either one of the two adrenal glands in a child 's tummy or in nerve tissue that runs alongside the spinal cord , in the neck , chest , abdomen or pelvis .
+the cancer can spread to tissues beyond the original site , including bone marrow , bone , lymph nodes , liver and skin .
+as with most cancers the cause of neuroblastoma is unknown .
+a neuroblastoma cancer cell in the brain is pictured under the microscope .
+fewer than 100 children in the uk are diagnosed each year with this form of cancer
+the symptoms vary depending on where a child 's tumour is .
+the first signs can be vague , and include tiredness , a loss of appetite and pain in the bones .
+if the tumour is in a child 's tummy , it may be swollen and the child may complain of constipation or have difficulty passing urine .
+where a tumour is growing in a child 's chest , they may be breathless and have difficulty swallowing .
+tumours growing in the neck can be visible as a lump , and a child is likely to complain of breathing and swallowing problems .
+in cases where a tumour is pressing on the spinal cord , children can experience a weakness in the legs and walk unsteadily .
+a variety of tests and investigations may be needed to diagnose neuroblastoma .
+treatment depends on the age of the child , as well as the size and position of the tumour and whether the disease has spread .
+children can have surgery , chemotherapy , as well as antibody treatment and radiotherapy .
+
+#reference: 
+harley renshaw has been given the all clear after battling cancer for a year
+disease was in his kidney and has spread to bones , neck and left lung
+he underwent months of gruelling chemotherapy and radiotherapy
+made himself a superhero outfit to help him feel brave during treatment
+
+
+
+#extractive: 
+harley renshaw was diagnosed with cancer in his kidney , neck , lungs and bones .
+harley asked if he could decorate the protective mask that holds him still while having his radiotherapy treatment like a ninja turtle
+harley renshaw has been told he is cancer-free after battling an aggressive form of the disease for a year .
+
+
+
+#extractive+abstractive: 
+harley renshaw was diagnosed with cancer in his kidney , neck , lungs and bones
+his ninja turtle mask helped him feel stronger while he was having radiotherapy
+hospital staff were amazed when the youngster asked if he could decorate the protective mask that holds him still while having his radiotherapy treatment
+

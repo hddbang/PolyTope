@@ -1,0 +1,26 @@
+index: 5424
+
+
+hash: 3704e1c8dd1671af100cc6f2855389abefddca5c
+
+
+#article: 
+russia are on the brink of making the fed cup final with a 2-0 lead after anastasia pavlyuchenkova saved a match point to beat germany 's sabine lisicki on saturday . pavlyuchenkova saved the match point in the second set before going on to beat lisicki 4-6 , 7-6 ( 4 ) , 6-3 , after svetlana kuznetsova beat julia goerges in straight sets in the opening rubber . pavlyuchenkova said lisicki 's power caused her problems : ' in the first set i believed i could win but i could n't find the rhythm because she plays a bit boom-boom . ' anastasia pavlyuchenkova of russia beat germany 's sabine lisicki for a 2-0 lead in their fed cup tie . svetlana kuznetsova had earlier beaten julia goerges in straight sets . both players had problems on their serve - pavlyuchenkova racked up 13 double faults but lisicki 's 63 unforced errors proved crucial . ' it was very close and i had a match point but she played a good point on that . i did n't play a good tiebreaker , ' lisicki said . the result left russia needing one win from sunday 's three matches to reach the final and bag a first fed cup title since 2008 . 
+
+#reference: 
+svetlana kuznetsova beats julia goerges in straight sets in fed cup .
+anastasia pavlyuchenkova defeats sabine lisicki for 2-0 lead .
+
+#baseline: 
+anastasia UNK saved the match point in the second set to beat germany 's andrea UNK in straight sets .
+svetlana kuznetsova had earlier beaten julia UNK in straight sets in the opening rubber .
+svetlana kuznetsova had earlier beaten julia UNK in straight sets .
+
+#pointer-generator: 
+russia are on the brink of making the fed cup final with a 2-0 lead after anastasia pavlyuchenkova saved a match point to beat germany 's sabine lisicki on saturday .
+pavlyuchenkova saved the match point in the second set before going on to beat lisicki 4-6 , 7-6 ( 4 ) , 6-3 .
+
+#pointer-gen-coverage: 
+russia are on the brink of making the fed cup final with a 2-0 lead after anastasia pavlyuchenkova saved a match point to beat germany 's sabine lisicki on saturday .
+pavlyuchenkova saved the match point in the second set before going on to beat lisicki 4-6 , 7-6 ( 4 ) , 7-6 , after svetlana kuznetsova beat julia goerges in straight sets .
+anastasia pavlyuchenkova of russia beat germany 's sabine lisicki for a 2-0 lead in their fed cup tie .

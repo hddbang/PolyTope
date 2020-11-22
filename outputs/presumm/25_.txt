@@ -1,0 +1,52 @@
+index: 610
+
+
+hash: ba4284a69cc068da747c066657035a2307c8873b
+
+
+#article: 
+this is the moment an aeroplane touched down on a runway without deploying its landing gear and skidded along the runway on its belly .
+captured in fort pierce , florida , the shocking footage shows the light general aviation aircraft approaching the aero acres residential airpark .
+despite the fact the aerostar plane travels at speed , its descent towards the landing strip appears normal until the video maker makes a startling observation .
+the light general aviation aircraft approaches the aero acres residential airpark and touches down without its landing gear deployed
+he states that the landing gear has not been deployed and at that very moment the plane touches down with a bump and scratches along the tarmac .
+its propellers can be heard ricocheting off the ground as the wings bounce up and down from the impact .
+suddenly the pilot re-engages the engines and rather unceremoniously takes off back into the air .
+the plane 's propellers can be heard ricocheting off the ground as the wings bounce up and down from the impact
+the video maker can be heard saying that the plane 's propellers have been damaged in the collision with the runway and that more than likely , the pilot will crash .
+he later said : ` i was walking down the flight line of aircraft that flew in for the day , which is close to the main runway and noticed this light twin aircraft coming in low .
+` i noticed he did not have his landing gear down and thought he was going to do a fly-by , but then noticed the power was pulled back with the aircraft approaching for a landing with no landing gear .
+the plane scratches along the runway and the video maker describes the sound as ` one you will not forget '
+` the belly and tips of the propellers impacted the runway ( the sound of the propellers hitting the surface was one sound you will not forget ) .
+` once the pilot realized his mistake , he gave what appeared to be full throttle and both propellers pulled the front of the aircraft down with the propellers making a second impact with the runway .
+` somehow the engines stayed on and running and the pilot was able to regain control while leaving the airport .
+the video maker noted that once the pilot realized his mistake he began re-engaging the engine
+he added : ` it 's amazing the aeroplane engines did not get destroyed during the propellers impact and the pilot did not stall during the forced take-off with the high angle of attack and damaged propellers . '
+according to wpbf 25 news , the plane 's pilot , chris georgaklis , 85 , managed to fly 100 miles to fort lauderdale after the incident and landed safely .
+mr georgaklis is said to have flown for almost 50 years and was accompanied on the trip by his dog , buddy .
+people look on as the damaged aircraft takes off from the runway and flies 100 miles to fort lauderdale , where it landed safely
+the most common cause of a gear-up landing , also known as a belly landing or pancake landing , is human error -- when the pilot simply forgets to deploy the landing gear before touchdown .
+another cause is mechanical fault , when an electric motor or a hydraulic actuator fails .
+the faa is said to be investigating the incident .
+
+#reference: 
+video captures light general aviation aircraft approaching at speed
+filmmaker points out that the pilot has not deployed the landing gear
+plane touches down onto the tarmac and skids along the runway
+its propellers ricochet off the ground before pilot re-engages engines
+aircraft takes off and flies 100 miles away to fort lauderdale , florida
+
+
+
+#extractive: 
+captured in fort pierce , florida , the shocking footage shows the light general aviation aircraft approaching the aero acres residential airpark .
+the plane 's propellers can be heard ricocheting off the ground as the wings bounce up and down from the impact
+the plane scratches along the runway and the video maker describes the sound as ` one you will not forget '
+
+
+
+#extractive+abstractive: 
+light general aviation aircraft touches down without landing gear deployed
+plane touches down with bump and scratches on the tarmac in fort pierce , florida
+video maker can be heard saying that the plane 's propellers have been damaged in the collision with the runway and that more than likely , the pilot will crash
+

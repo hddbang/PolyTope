@@ -1,0 +1,38 @@
+index: 6592
+
+
+hash: a227e20625b4c06c217eaefa334748f3471b86ba
+
+
+#article: 
+tony abbott may have thrilled players at an australian rules function by skolling a beer but he 's drawn the ire of anti-drinking campaigners who claim he 's glorifying binge drinking and associating being a man with drinking booze .
+julie robert , a cultural studies professor at the university of technology sydney , said it was ` problematic ' that the prime minister , who she believes should be advocating against binge drinking , thought it acceptable to ` showcase his masculinity ' by skolling a beer .
+` it sets up a culture that drinking is n't about socialising with friends , it 's about how quickly and how much you can drink , ' she said .
+australian prime minister tony abbott was cheered on by a crowd of about 50 as he skolled a schooner of beer
+mr abbott came under fire after the incident as anti-drinking campaigners said he was glorifying binge drinking
+` it sets up a culture that drinking is n't about socialising with friends , it 's about how quickly and how much you can drink . '
+on saturday night mr abbott appeared happy to oblige when he was asked to have a drink by university of technology sydney bats coach simon carradous .
+it took the prime minister about six seconds to down the schooner as players cheered and chanted ` skol ' and ` tony ' .
+dr robert warned people can forget their limits when they are wrapped up in the act of demonstrating how much , or how quickly , they can drink .
+` it is the whole performance and the display and showing off which is the problematic part , ' she told daily mail australia .
+however , she said it was not just mr abbott 's skol that was concerning , it was also the way media and other government officials have reacted to the event .
+in an interview on sunday , opposition leader bill shorten quipped that he was ` just pleased that tony abbott 's learning to drink beer without adding lemonade to it ' .
+mr abbott was labelled ` un-australian ' for ordering a light beer during his 2010 campaign .
+dr robert said while drinking was a part of the australian tradition , it was dangerous to make comments that would only glorify irresponsible drinking practices and perpetuate the stereotype that drinking heavily makes you a true blue aussie bloke .
+critics said he should be setting an example that you do n't have to drink heavily to be a ` true blue aussie bloke '
+it appeared to take the prime minister about six seconds to down the schooner , as players cheered and chanted ` skol ' and ` tony '
+health minister sussan ley was quick to jump to mr abbott 's defence saying there was ` nothing wrong ' with the prime minister 's antics .
+" if more people got up at 4.30 in the morning and went running and cycling and worked as hard as our prime minister to keep fit and demonstrate that there are many ways that you can do this , i think we 'd have a healthier country as a result , " ms ley said .
+during his night out , mr abbott gave a speech to the players , according to australian women 's weekly .
+` he grabs the microphone and gives a speech , which went along the lines of : ` well is n't this a real treat , i 've been a rugby man all my life but now i finally get to hang out with some real footballers ' to which of course the crowd went crazy , ' coach carradous said .
+` then he proceeds to reach down and grab a schooner and he drank from head-to-toe the entire schooner , dribbling little bits on his shirt ... he was proud as punch . '
+while mr abbott is not the first australian prime minister to show off his skolling skills , with former labor prime minister bob hawke a notable example , dr roberts said he should have taken into consideration recent shifts in attitudes over heavy drinking .
+` i do n't necessarily think it 's a partisan thing but i do think the climate has changed and we did n't [ used to ] have the concern over binge drinking that we do now , ' she said .
+mr abbott was asked to have a drink by university of technology sydney bats coach simon carradous , and the prime minister happily obliged
+` he drank the entire schooner , dribbling bits on his shirt ... he was proud as punch , ' a witness said
+
+#reference: 
+australian prime minister skols a beer with celebrating football players .  video shows tony abbott drinking the beer in six seconds .  the prime minister has been criticised by anti-drinking campaigners .  they say the prime minister should n't be glorifying binge drinking .  ` it sets up a culture that drinking is n't about socialising with friends , it 's about how quickly and how much you can drink . '  criticism also levelled at media and officials who made light of the event . 
+
+#decode: 
+cultural studies professor julie robert said it was ` problematic '  she believes it acceptable to ` showcase his masculinity ' by skolling a beer .  mr abbott came under fire after the incident as anti-drinking campaigners said he was glorifying binge drinking .  dr robert warned people can forget their limits . 

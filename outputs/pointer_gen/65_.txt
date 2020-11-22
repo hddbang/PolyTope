@@ -1,0 +1,29 @@
+index: 10440
+
+
+hash: 2243717e0154f408d718ed75d209d6f601e9bd56
+
+
+#article: 
+chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz . mouscron , in belgium 's pro league , had a partnership with lille but the french side are now poised to link up with another belgian club , ostend , leaving room for a new deal and chelsea are the preferred option . the belgian club have been in the top flight for a season since winning promotion via the play-offs last summer . they are 13th in the table , two points above the relegation places . chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz . mouscron had a partnership with lille but that is now set to end meaning there is to be room for chelsea . mouscron are currently 13th in belgium 's pro league , with players including tristan dingome ( left ) . chelsea already have an agreement with vitesse arnhem in holland and have been looking at other link-ups across europe to help develop their squad . vitesse currently have chelsea 's josh mceachran , bertrand traore and wallace on their books as they look to seek europa league qualification from the dutch eredivisie . midfielder nemanja matic is the only current regular first-team player in jose mourinho 's squad to have spent time on loan with the dutch club . bertrand traore is one of three players currently on loan at vitesse arnhem from chelsea this season . blues midfielder nemanja matic spent time on loan at vitesse before moving to benfica and then back .
+
+#reference: 
+chelsea are in early discussions over a possible partnership in belgium .
+the pro league 's royal mouscron-peruwelz are the prospective partners .
+chelsea already have an agreement with vitesse arnheim in holland .
+click here for all the latest chelsea news .
+
+#baseline: 
+chelsea have been in the top flight for a season since joining lille .
+belgian club have been in the top flight for a season since joining lille .
+belgian club have been in the top flight for a season since last summer .
+
+#pointer-generator: 
+chelsea are in early discussions over a possible partnership with royal mouscron-peruwelz .
+mouscron are currently 13th in the table , two points above the relegation places .
+chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz .
+
+#pointer-gen-coverage: 
+chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz .
+mouscron , in belgium 's pro league , had a partnership with lille but the french side are now poised to link up with another belgian club , ostend , leaving room for a new deal and chelsea are the preferred option .
+chelsea are in early discussions over a possible partnership with belgian club royal mouscron-peruwelz .

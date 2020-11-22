@@ -1,0 +1,58 @@
+index: 648
+
+
+hash: 02c3ebce652563206acdef95892b1c757deaa1a7
+
+
+#article: 
+fc tokyo forward yoshinori muto has admitted that he is still considering whether to join premier league leaders chelsea this summer .
+earlier this month club president naoki ogane claimed that the blues have made an offer - believed to be around £ 4million - for the japan international .
+chelsea would look to loan muto to partner club vitesse arnhem next season but the 22-year-old is keen to join a club where he will play regularly and realise his potential .
+fc tokyo forward yoshinori muto has a shot against shonan bellmare during a j-league clash
+chelsea have made an offer for muto according to fc tokyo president naoki ogane
+asked about a potential switch to london this summer after scoring the winner against shonan bellmare last week , muto said : ` i want to think about it carefully .
+` where can i go to develop ?
+a team that suits me , where i can play and develop .
+i 'm thinking about that , and for now i just want to take my time and think it through . '
+real zaragoza boss ranko popovic gave muto his debut for fc tokyo in july 2013 and he believes the pacey forward could be a big hit at stamford bridge .
+speaking to bleacher report , popovic said : ` his potential was amazing , i did n't see for a long time such an intelligent player like muto .
+he 's a different guy , he 's not such a usual player .
+` muto is something like a noble .
+he has something different to all other players because he comes from a good family , he has good education , he was at university .
+a very smart , intelligent guy .
+he has something which you can not learn .
+` he was so fast .
+so speedy and , for a japanese guy , so strong .
+he has a lot of confidence .
+in our training games muto always had chances .
+he had 10 or 12 chances in every game . '
+muto says he is still considering a move to chelsea as he wants to join a club where he will ` play and develop '
+chelsea boss jose mourinho had admitted that he is aware of the japan international
+chelsea signed a £ 200million sponsorship deal with japanese tyre manufacturer yokohama rubber in february and jose mourinho has admitted that commercial interests do play a part in the club 's transfer policy .
+asked about muto earlier this month , mourinho said : ` i know a little about him .
+i do n't think it is nice for me to talk about a player who plays for fc tokyo .
+` if a fc tokyo manager talks about my player i would n't be happy.it is not nice for me to speak about other players .
+` in modern football and football is a business , an industry , you have to think about the financial situation , especially a club like chelsea that wants to be in the rules like financial fair play .
+` but we want to win matches and do n't get a player unless he is a good player or a good prospect . '
+
+#reference: 
+naoki ogane claims that chelsea have made a bid for yoshinori muto
+the fc tokyo forward says he is still considering a move to london
+muto 's former manager , ranko popovic , says his potential is ` amazing '
+jose mourinho has admitted that he is aware of the japan international
+
+
+
+#extractive: 
+fc tokyo forward yoshinori muto has admitted that he is still considering whether to join premier league leaders chelsea this summer .
+chelsea have made an offer for muto according to fc tokyo president naoki ogane
+chelsea would look to loan muto to partner club vitesse arnhem next season but the 22-year-old is keen to join a club where he will play regularly and realise his potential .
+
+
+
+#extractive+abstractive: 
+chelsea have made an offer for yoshinori muto according to fc tokyo president naoki ogane
+chelsea would look to loan muto to partner club vitesse arnhem next season
+the 22-year-old is keen to join a club where he will ` play and develop '
+chelsea signed a # 200million sponsorship deal with japanese tyre manufacturer yokohama rubber in february
+

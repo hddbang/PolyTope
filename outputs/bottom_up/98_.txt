@@ -1,0 +1,38 @@
+index: 5216
+
+
+hash: 77f9f36331f0ae647d6b282579c6d3d822edc087
+
+
+#article: 
+a beach-side apartment complex in the hamptons has been obliterated by flames .
+smoked poured over westhampton beach on wednesday at 3 pm as a fire spread through 90 condos before the building eventually collapsed .
+it is not known what started the blaze , which was so intense it melted the paint off nearby buildings .
+ravaged : ninety condos on the beach in westhampton were obliterated by flames on wednesday afternoon
+intense : smoke poured toward the ocean and could be seen from three miles away as 12 fire crews tried to control the flames
+before : this is what the pristine complex looked like before the fire .
+it is used as a holiday home by residents between may and november
+twelve fire teams were deployed in a bid to control the flames but could not get inside any of the summer homes .
+janice sklarek , who owns one of the apartments in the sandpiper complex which is open between may and november , told nbc : ` we saw the big black smoke coming off the ocean and could n't get down here fast enough .
+` flames were coming out of every window .
+` this is something that you think happen to other people , but when it happens to yourself , it 's just unbelievable . '
+` lost everything ' : the building manager who lived and worked in the sandpiper complex was distraught watching the fire
+best efforts : firefighters used cranes to approach the fire which was so strong they could n't get inside the building
+intense : residents said the fire , whic is being investigated , was so intense it melted the paint off buildings nearby
+her partner , building manager rob taber who lived and worked in the building , said he has lost everything .
+a witness , dave rose , told abc 7 : ` you could see flames from about three miles away and you still saw all the flames going up . '
+westhampton fire chief ross donneson told nbc : ` luckily the wind was offshore , so we had good visibility of the front of the structure and we set up our apparatus to combat the fire . '
+he told abc 7 they are investigating claims the fire started near a car parked by the complex .
+the sandpiper complex is open between may and november
+
+#reference: 
+the 90-condo holiday home building in westhampton collapsed at around 3pm on wednesday . 
+ twelve fire teams were deployed to fight the blaze but could only battle it from the outside , it lasted past 8pm . 
+ the fire was so intense it melted the paint off buildings in the vicinity and sent smoke up three miles high . 
+ nobody was hurt in the fire . the sandpiper complex is open between may and november . 
+
+
+#decode: 
+smoked poured over westhampton beach on wednesday at 3pm as a fire spread through 90 condos before the building collapsed . 
+ it is not known what started the blaze , which was so intense it melted the paint off nearby buildings . 
+ it is used as a holiday home by residents between may and november . 

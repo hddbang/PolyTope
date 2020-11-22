@@ -1,0 +1,40 @@
+index: 2000
+
+
+hash: a9c37d00863b1cd45b50338666bbd7b9bc750522
+
+
+#article: 
+a section of arsenal and liverpool fans left their seats empty at the emirates stadium for the first 10 minutes of their lunchtime barclays premier league clash in a protest against ticket prices .
+supporters from both clubs say they are ` disgusted ' at the continuing rise of ticket prices , with the protest coming in the aftermath of the announcement of the premier league 's £ 5.14 billion tv rights deal with banners held up inside and outside the ground .
+with tickets at the sold-out emirates starting from £ 64 for the 12.45 pm kick-off , protesters hope the image of empty seats around the ground will raise awareness of the struggles fans face to meet the rising costs of following their clubs .
+fans inside the emirates stadium display a banner reading : ' £ 5bn and what do we get ?
+the cheapest tickets for the lunchtime kick-off were £ 64 , some of the highest prices in the premier league
+supporters of both sides gathered outside the 60,000-capacity stadium before kick-off to show off banners against the rising costs of modern football .
+a banner inside the stadium , held between the home and away ends , read : ' £ 5bn and what do we get ?
+£ 64 a ticket ' .
+ahead of the game , kelvin meadows of arsenal 's black scarf movement - who organised the event with liverpool 's spirit of shankly and spion kop 1906 fan groups - called ticket prices ` extortionate ' .
+` in the pursuit of money football has sold it 's soul , ' he said .
+` the fans are that soul and no one cares about the match going fans .
+arsenal and liverpool fans unite outside the emirates stadium in a protest against ticket prices
+fans show off a banner reading ` football without fans is nothing ' outside the stadium before kick-off
+` we put up with late fixture changes , unreasonable kick off times and ridiculously high prices .
+we do it ` cos of the love of our team .
+` but the tide is turning .
+old rivalries are being put aside as fans from all clubs come together .
+away fans help make the event but have to pay extortionate prices .
+then we 're told to " sit down , shut up " . '
+roy bentham of spirit of shankly said : ` we want tangible reductions in line with what working class people earn .
+we may lose a generation or more of fans otherwise unless the footballing authorities wake up . '
+further protests are expected after full-time at the emirates .
+
+#reference: 
+arsenal and liverpool fans left seats empty at kick-off as part of a protest
+supporter groups say they are disgusted at premier league ticket prices
+more protests are expected after the lunchtime kick-off at the emirates
+
+
+#decode: 
+a section of arsenal and liverpool fans left their seats empty at the emirates stadium for the first 10 minutes of their lunchtime barclays premier league clash in a protest against ticket prices .
+supporters from both clubs say they are ` disgusted ' at the continuing rise of ticket prices , with the protest coming in the aftermath of the announcement of the premier league 's £ 5.14 billion tv rights deal with banners held up inside and outside the ground .
+the cheapest tickets for the lunchtime kick-off were £ 64 , some of the highest prices in the premier league

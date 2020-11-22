@@ -1,0 +1,52 @@
+index: 10062
+
+
+hash: 04e97afcfddc07753d82a3f21fde2a51e6a0e34f
+
+
+#article: 
+a trend we are just starting to get our heads around is the wide leg trouser .
+be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
+there 's something effortless about a wide leg trouser that really appeals .
+and if like us you are growing tired of the skinny jean and want to try out a new look this could be your answer .
+louise redknapp says that a wide-leg trouser can come as a welcome relief from the skinny jean
+skinny jeans have held court for quite a few years now and while they will never go out of style the wide leg will give you an alternative look .
+it 's not the first time this look has made a comeback since the seventies .
+lou tried the out the trend seven years ago with a stella mccartney flared jean - luckily she kept hold of them !
+the wide leg can be intimidating , especially if you 're on the shorter side .
+but the key is all in the shoe .
+huge amounts of fabric is hard to look flattering but if you keep your heels high and your top half simple you can pull it off with confidence .
+a high heeled shoe with an exposed top of foot will elongate the leg , a must when wearing a cropped voluminous trouser .
+louise and emma say to avoid being drowned by too much fabric try a high heeled shoe
+louise recommends pairing a wide-leg with a simple knit to keep the outfit in proportion
+if going for a longer length go high-waisted and very long to give extra leg length .
+proportion is everything , team with a simple knit , shirt or tee to keep the look current and cool , not costume .
+denim is the easiest way to nail the trend - gucci revisited the seventies with a collection filled with flared jeans in vintage washes .
+the stylish pair agree that denim is the easiest way to achieve the trend
+the wide-leg trouser made an appearance on several catwalks including on the runway of gucci ss15 who showcased a denim take on the trend , for a high street take try the topshop miller jean ( right )
+celine showcased colourful billowing bottoms on their ss15 runway
+topshop meanwhile have been quick to follow suit with their version - the miller - a 1970s-style wide leg flare .
+celine and stella mccartney kept it classy with a dressier-style pant , perfect for an evening look .
+try new online label finery london for a similar style with a lower price tag .
+a wide billowing trouser silhouette will update your wardrobe this season and the bonus is it 's one spring trend you do n't need nice weather for .
+to shop our looks and for more wide-leg trouser inspiration head to astylealbum.com .
+poppy delevingne channeled the trend at the aw15 chloe show in paris
+
+#reference: 
+louise redknapp and stylist emma thatcher try the wide-leg trouser
+they say it makes a good replacement for ever-popular skinny jeans
+
+
+
+#extractive: 
+louise redknapp says that a wide-leg trouser can come as a welcome relief from the skinny jean
+be it denim , cropped , printed or striped , the wide leg trouser is at the forefront of ss15 trends .
+the wide-leg trouser made an appearance on several catwalks including on the runway of gucci ss15 who showcased a denim take on the trend , for a high street take try the topshop miller jean ( right )
+
+
+
+#extractive+abstractive: 
+the wide leg trouser is at the forefront of ss15 trends
+it 's not the first time this look has made a comeback since the seventies
+louise and emma say to avoid being drowned by too much fabric try a high heeled shoe
+

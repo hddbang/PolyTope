@@ -1,0 +1,28 @@
+index: 4337
+
+
+hash: 08bb7c7ff906c3b469fde692008e48fcba025e0a
+
+
+#article: 
+dani alves looks set to leave barcelona this summer after his representative confirmed the brazilian right-back had rejected the club 's final contract offer . alves has enjoyed seven successful years at barcelona , winning four spanish titles and the champions league twice . but the 31-year-old has been unable to agree a new deal with the catalan club and will leave the nou camp this summer . dani alves keeps a close eye on almeria midfielder edgar mendez ( right ) during barca 's game on wednesday . alves has been unable to agree a new deal with the catalan club and will leave the nou camp this summer . dinorah santana , the player 's agent and ex-wife , said at a press conference on thursday that her client had rejected the offer of a three-year contract extension , which was dependent on the player taking part in 60 per cent of matches for the club . ' the negotiations are over , ' she said . ' if they say this is the final offer , then they ( negotiations ) are over . ' it does n't make sense . it 's very hard that we get to april and barcelona have n't thought about renewing dani 's contract . ' dani is sad . ' dinorah santana , alves 's agent and ex-wife , confirmed that the right-back had rejected a three-year deal . the news that alves is to leave is likely to spark a scramble for the defender 's signature . the former sevilla full-back has been linked with manchester united and manchester city , as well as paris st germain . santana said alves has two offers on the table at the moment , but has not yet been approached by big-spending psg . ' he has had conversations with future candidates , ' santana said . ' psg have not made an offer , but we have two offers of three years . ' alves has been linked with a number of clubs including manchester united and manchester city . 
+
+#reference: 
+dani alves has spent seven seasons with the catalan giants .
+alves has four spanish titles to his name with barcelona .
+the brazil defender has also won the champions league twice with barca .
+
+#baseline: 
+dani alves has been unable to agree a new deal with barcelona .
+the defender has been unable to agree a new deal with the catalan club .
+alves has been unable to agree a new deal with the catalan club .
+
+#pointer-generator: 
+dani alves keeps a close eye on almeria midfielder edgar mendez .
+the 31-year-old has been unable to agree a new deal with the catalan club .
+alves has been unable to agree a new deal with the catalan club .
+
+#pointer-gen-coverage: 
+dani alves keeps a close eye on almeria midfielder edgar mendez during barca 's game on wednesday .
+alves has been unable to agree a new deal with the catalan club and will leave the nou camp this summer .
+alves has been linked with manchester united and manchester city .

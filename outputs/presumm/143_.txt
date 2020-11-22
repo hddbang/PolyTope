@@ -1,0 +1,45 @@
+index: 10186
+
+
+hash: ae134b1a956e7c025d4aa623c06af0cd206bef18
+
+
+#article: 
+chinese parents are passionate about raising child prodigies - whether they are 10-year-old university entrants or four-year-old michael jackson dance-alikes .
+now a new basketball superstar is on the rise .
+a viral video is making the rounds in china , which shows a small boy displaying a dazzling array of basketball skills that would put to shame many professional players .
+the five-year-old child is called mai zizhuo and he has been shooting hoops since he was two and a half years old , reported the people 's daily online .
+the video starts off with the pint-sized player scoring a succession of hoops before running around dribbling two basketballs .
+his eyes are focused on the camera while handling two basketballs at the same time and still he did n't lose rhythm once .
+his incredible skills have won him legions of fans across basketball-mad china .
+the country 's biggest basketball star so far has been shanghai-born yao ming , who played for nba 's houston rockets from 2002 to 2011 .
+talented : five-year-old mai zizhuo shows his outstanding basketball skills in a viral video
+skilful : the pint-sized player scored a succession of hoops before running around dribbling two basketballs
+praised : his incredible skills have won him legions of fans across china
+stunned by mai 's potential , netizens in china leave comments by the thousands .
+lakers fan ` siu720 ' said : ` i ca n't believe it ... ... .
+it must be special effects ! '
+` nickwooster ' from fujian simply asking : ` who is his father ? '
+others feel ashamed of their own basketball skills in comparison to the kid .
+` cubex ' from hunan posted : ` i want to reincarnate and start over again !
+what have i been doing for the past 32 years ? '
+
+#reference: 
+mai zizhou has been trained to play basketball since 2.5 years old
+video shows him shooting the hoops and dribbling two basketballs
+his incredible skills have won him legions of fans around china
+
+
+
+#extractive: 
+the five-year-old child is called mai zizhuo and he has been shooting hoops since he was two and a half years old , reported the people 's daily online .
+a viral video is making the rounds in china , which shows a small boy displaying a dazzling array of basketball skills that would put to shame many professional players .
+his incredible skills have won him legions of fans across basketball-mad china .
+
+
+
+#extractive+abstractive: 
+the five-year-old child is called mai zizhuo and he has been shooting hoops since he was two and a half years old
+his incredible skills have won him legion of fans across china
+the country 's biggest basketball star so far has been shanghai-born yao ming , who played for nba 's houston rockets from 2002 to 2011
+

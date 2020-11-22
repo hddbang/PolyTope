@@ -1,0 +1,31 @@
+index: 10091
+
+
+hash: d521c95a08b12492e4d49337c5f46db3bb9aae86
+
+
+#article: 
+congratulations to australia for seeing sense and dropping the ridiculous policy of not selecting their best players if they are playing overseas . it leaves england looking old-fashioned and they need to react . stuart lancaster must be free to pick his best players , no matter where in the world they ply their trade . if roy hodgson’s star names moved to bayern munich or barcelona , would the fa tell him not to pick them ? absolutely not . the same needs to apply to rugby . matt giteau 's stellar displays for toulon have put him back on the wallabies radar ahead of the world cup . the game is changing and australia have realised that . matt giteau and drew mitchell , for example , are top-class performers for toulon and if england lose to australia with those two playing out of their skins , you know exactly what the headlines will be . the world cup is simply about the world’s best coming together and ridiculous rules like this demean it . toulon’s steffon armitage came off the bench against leinster on sunday and turned the game on its head . his turnover work and ball-carrying are second to none and since he upped sticks to france his game has constantly improved . toulon 's steffon armitage takes on the leinster defence during the champions cup semi-final in marseille . i don’t think armitage would be playing this well if he was still at london irish . he took a big risk and it paid off , he shouldn’t be penalised for it . if one or two england back-rowers wouldn’t want to see armitage in the squad , then that confirms he should be ! nick abendanon has also become better since he crossed the channel . it’s simply wrong to say england are best served by players at english clubs . if someone is going to be happier , healthier and a better player overseas , he should be supported . jonny wilkinson moved to france and became even better than when he played for england , so that completes the argument for me . would i have picked jonny if he was playing in france ? of course i would . nick abendanon 's game has drastically improved since the former bath full back made the move to france . as england coach you will be judged on your world cup performance , even more so as the home team . that’s where you have to deliver the results and selecting your best starting xv is the first thing you have to get right , without exception . when it comes to the big games , the other england players will want to have the best possible squad available . every player , fan and englishman wants england to win the world cup and it starts with picking your best team . when it comes to a home world cup , you don’t want to be left talking about ‘ what ifs’ . england head coach stuart lancaster has remained steadfast in his policy not to select overseas players . england players deserve to go on to the field knowing they have been given the best chance of winning . do the squad truly believe this when such talented players are not considered ? they shouldn’t be left to doubt they are playing only because of their home address . this isn’t about being disloyal to the clubs . they benefit from a winning england team , especially in a world cup year . you simply can’t let the rfu or premier rugby tie your hands behind your back and dictate who you can or can’t pick . at toulon , they’ve got bryan habana playing for south africa and leigh halfpenny playing for wales . they’re among the best players in the world . it’s just crazy and misguided not to make any englishman available for selection . well done , australia . bryan habana plays for toulon but the springboks have continued to select the winger for test matches .
+
+#reference: 
+australia have seen sense by revamping their overseas selection policy .
+it leaves england looking old-fashioned and they need to react .
+matt giteau and drew mitchell are top-class performers for toulon .
+steffon armitage and nick abendanon should come into the selection mix .
+england need the best squad possible for the forthcoming world cup .
+
+#baseline: 
+england face australia in the world cup final on sunday .
+stuart lancaster 's side are changing their trade in the world cup .
+england are currently on the verge of the world cup .
+the world cup has drastically improved since the world cup .
+
+#pointer-generator: 
+matt giteau 's stellar displays for toulon have put him back on the wallabies radar ahead of the world cup .
+matt giteau 's turnover work and ball-carrying are second to none and since he upped sticks to france his game has constantly improved .
+toulon 's steffon armitage takes on the leinster defence during the champions cup semi-final in marseille .
+
+#pointer-gen-coverage: 
+stuart lancaster must be free to pick his best players , no matter where in the world they are playing overseas .
+the world cup is simply about the world’s best coming together and ridiculous rules like this demean it .
+toulon’s steffon armitage came off the bench against leinster on sunday .

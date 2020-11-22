@@ -1,0 +1,31 @@
+index: 9735
+
+
+hash: 6a8597bb5ab89d1f344819422b354685ba22af77
+
+
+#article: 
+a bus driver who was caught reading a newspaper while driving has been slammed by his boss as a ` complete idiot ' .
+a passenger filmed the driver on a bus in auckland , new zealand , and sent the video to bus company ritchies coachlines along with a complaint .
+in the footage the driver can be seen flicking through pages of the newspaper while the bus is in motion .
+a bus driver was caught reading a newspaper while driving in auckland , new zealand
+as the bus slows to a stop at a set of traffic lights he moves his head to get a good look at one of the pages .
+ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions .
+` i am absolutely amazed by how absolutely stupid the guy is .
+bloody irresponsible behaviour to the first degree , i ca n't believe it , ' mr ritchie told the new zealand herald .
+` the people on that bus put their trust in him .
+he was n't even trying to hide it , he was holding the whole newspaper open , over the steering wheel . '
+mr ritchie said the driver would be disciplined , but would not go into detail .
+a passenger filmed the driver and sent the video to bus company ritchies coachlines along with a complaint
+ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions
+
+#reference: 
+a passenger caught a driver reading the paper on a bus in auckland , nz
+he sent the video to bus company ritchies coachlines with a complaint
+his boss said he was embarrassed by the ` idiot ' driver 's actions
+
+
+#decode: 
+a passenger filmed the driver on a bus in auckland , new zealand , and sent the video to bus company ritchies coachlines along with a complaint .
+a bus driver was caught reading a newspaper while driving in auckland , new zealand
+ritchies coachlines boss andrew ritchie said he was embarrassed by the ` idiot ' driver 's actions

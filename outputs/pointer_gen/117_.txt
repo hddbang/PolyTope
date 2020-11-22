@@ -1,0 +1,26 @@
+index: 10840
+
+
+hash: 10a8fad111e5b9c58f04c711aa06df48b08bec23
+
+
+#article: 
+as kate and william prepare for the arrival of the second child , the british public are keeping their fingers crossed that they will opt for a traditional name . a new poll has revealed that diana is the favourite option for baby if it is a girl . according to the yougov survey for the sunday times , 12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales . kate and william leaving the lindo wing of st mary 's hospital in london , with their newborn son , prince george in 2013 . brits are hoping for a baby princess this time and favour the name diana . alice and charlotte were next in terms of preference , getting nine per cent of the vote each . alice is the name of the queen 's aunt , who passed away in 2004 aged 102 , while charlotte is favoured as a nod to william 's father charles . according to the newspaper , if the child is a boy then 13 per cent of people would like him to be called james , with the second favourite name being alexander . many people are hoping for a girl though - of the 2,200 people polled , a quarter said they wanted the duke and duchess of cambridge to have a female baby , with only three percent hoping for a younger brother for george . diana is the favourite name for the second royal baby , name after williams mother - the late princess of wales . the choices were echoed on social media today , with many twitter users claiming they would be delighted if kate and william decided to name the baby after his mother . one user called danielle o'donoghue wrote : ' if kate middleton has a baby girl and does n't name her diana i 'll be so upset . another said : ' if the new royal baby is a girl and is called diana , either first name or middle name . i will be 90 % more emotional . ' the poll also revealed that the majority of brits are backing william 's decision to take six weeks paternity leave form his pilot job , with 68 per cent of people giving the move a thumbs up .
+
+#reference: 
+in a new poll , diana was the favourite name for the second royal baby .
+alice and charlotte were the second favourite names if it 's a girl .
+if it 's a boy , then the favourite name is james , followed by alexander .
+
+#baseline: 
+a new poll reveals that diana is the favourite option for baby if it is a girl .
+a new poll has revealed that diana is the favourite option for baby if it is a girl .
+
+#pointer-generator: 
+new poll reveals diana is the favourite option for baby if it is a girl .
+alice is the name of the queen 's aunt , who passed away in 2004 aged 102 .
+alice is the name of the queen 's aunt , who passed away in 2004 aged 102 .
+
+#pointer-gen-coverage: 
+12 per cent of people questioned thought that the child should be named after william 's mother - diana the princess of wales .
+alice is the name of the queen 's aunt , who passed away in 2004 aged 102 , while charlotte is favoured as a nod to william 's father charles .

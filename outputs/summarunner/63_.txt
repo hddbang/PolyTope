@@ -1,0 +1,65 @@
+index: 7275
+
+
+hash: 3d22ef0b1871118bd6fce6a8e62c6fc3f6f25edc
+
+
+#article: 
+the largest single high-definition map of mysterious dark matter has been produced .
+it is the first in a series of maps of the cosmos that will eventually allow a 3d view of dark matter across one eighth of the night sky .
+and the map should allow astronomers to study how galaxies formed in the universe .
+university of manchester researchers have revealed an hd dark matter map ( shown ) .
+it shows clumps of mystery particles across 0.4 per cent of the sky .
+the goal is to eventually map 12.5 per cent over five years .
+red here shows more dark matter , and blue shows less .
+the moon is shown top left for scale
+a team from the university of manchester , led by dr sarah bridle , has spent the past two years measuring the shapes of galaxies used to construct the map .
+and the map was released today at the april meeting of the american physical society in baltimore , maryland .
+it was created using data captured by the dark energy camera , a 570-megapixel imaging device that is the primary instrument for the dark energy survey ( des ) led by fermilab in the us .
+the survey uses the 13ft ( four metres ) victor m. blanco telescope located at the cerro tololo inter-american observatory ( ctio ) in chile .
+when physicists study the dynamics of galaxies and the movement of stars , they are confronted with a mystery .
+if they only take visible matter into account , their equations simply do n't add up ; the elements that can be observed are not sufficient to explain the rotation of objects and the existing gravitational forces .
+from this they deduced that there must be an invisible kind of matter that does not interact with light but does , as a whole , interact by means of the gravitational force .
+called ` dark matter ' , this substance appears to make up at least 80 per cent of the matter in the known universe .
+and the project is run overall as part of the five-year dark energy survey ( des ) , and is the largest map of this detail .
+of course , we ca n't actually directly observe dark matter yet - so the survey instead looks for its noticeable effect on galaxies .
+studying this enables the predicted amounts of dark matter in a given area to be mapped , based on its gravitational effects .
+` dark matter could equally be called " transparent matter " , because we see things behind it that gets distorted by gravity , ' dr bridle told mailonline .
+in the map she explained we 're seeing about 150 times the area of the full moon , which is about 0.4 per cent of the whole sky .
+the goal of the des is to map 12.5 per cent of the entire sky , creating a 3d map of dark matter - and dark energy .
+` it is amazing to see a map of the dark matter over such a large region of the sky , and the full dark energy survey mass map will be more than 30 times bigger still , ' dr bridle said in a separate statement .
+` analysis of the clumpiness of the dark matter in the maps will also allow us to probe the nature of the mysterious dark energy , believed to be causing the expansion of the universe to speed up . '
+this mosaic image shows the different telescope shots that were combined to make the dark matter map .
+the survey has just completed its second year .
+as scientists expand their search they 'll be able to better test current cosmological theories by comparing the amounts of dark and visible matter
+the survey has just completed its second year .
+as scientists expand their search , they 'll be able to better test current cosmological theories by comparing the amounts of dark and visible matter .
+those theories suggest that , since there is much more dark matter in the universe than visible matter , galaxies will form where there are large concentrations of dark matter ( and hence stronger gravity ) present .
+so far , the des analysis backs this up .
+the maps show large filaments of matter along which visible galaxies and galaxy clusters lie and cosmic voids where very few galaxies reside .
+follow-up studies of some of the enormous filaments and voids , and the enormous volume of data , collected throughout the survey will reveal more about this interplay of mass and light .
+these maps show how the amount of dark matter corresponds to the formation rate of galaxies .
+on the left , galaxies can be seen near dark matter clumps ( in red ) , and further away from sparse regions ( blue ) .
+the image on the right shows some of the regions of sky that were studied
+the team at manchester analysed 130 million separate telescope images of galaxies to make the map .
+the process of measuring the galaxies is so complex and time consuming that some of the world 's largest supercomputers are needed to do it .
+each time a new catalogue is made it takes about as much computing power as running 500 ordinary desktop computers for two weeks .
+` we have to measure the shape of each galaxy - how distorted it is - with extremely high precision , about one part in 1000 , ' said dr joe zuntz , also of the university of manchester , who has been making the measurements .
+the survey uses the 13ft ( four metres ) victor m. blanco telescope ( middle ) located at the cerro tololo inter-american observatory ( ctio ) in chile , outfitted with a newly designed , state-of-the-art dark energy camera ( decam ) .
+it will be completed by 2018 , mapping dark matter of an eighth of the sky in the process
+dark matter , the mysterious substance that makes up 85 per cent of all matter in the universe , is invisible to even the most sensitive astronomical instruments because it does not emit or block light .
+but its effects can be seen using a technique called gravitational lensing - studying the distortion that occurs when the gravitational pull of dark matter bends light around distant galaxies .
+understanding how the clumpiness of dark matter changes with time will reveal the nature of the enigmatic dark energy , which is the ultimate goal of the survey .
+the dark matter map released makes use of early des observations and covers only about three percent of the area of sky des will document over its five-year mission .
+
+#reference: 
+university of manchester researchers reveal hd dark matter map
+it shows clumps of mystery particles across 0.4 per cent of the sky
+the goal is to eventually map 12.5 per cent over five years
+results could help reveal how galaxies form in the universe
+
+
+#decode: 
+university of manchester researchers have revealed an hd dark matter map ( shown ) .
+it shows clumps of mystery particles across 0.4 per cent of the sky .
+the goal is to eventually map 12.5 per cent over five years .

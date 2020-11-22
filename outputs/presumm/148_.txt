@@ -1,0 +1,80 @@
+index: 2332
+
+
+hash: 16eed6bfefe9d4813e41530ebe2e9401a604337b
+
+
+#article: 
+one man has curated a spooky collection of nine old dolls , which which he claims each have their own personalities .
+ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
+since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
+ian rogers owns nine haunted dolls all of which he says contain their own personality
+ian 's favourite doll is annabel , who he thinks is haunted by a seven-year-old girl who drowned
+ian , who is single , and a vehicle image inspector , from leicester , says that his obsession with the supernatural began at a very young age .
+` it started when i was a kid and i was looking into the loch ness monster and ghosts .
+` i went on a couple of ghost walks and then went on a hunt .
+it got me hooked . '
+the £ 50 haunted dolls , which ian gets from jayne harris , a professional in paranormal activity , are said to contain the spirits of people who have passed on .
+jayne keeps the dolls for around six months to get an idea of their personalities before selling them on .
+ian says that he always goes to jayne for the dolls because that way he can be sure of their authenticity .
+` i know that i can trust her , ' he says .
+` if i bought them from ebay then there 's no guarantee that they 're actually haunted and i could just be being ripped off .
+` jayne is able to give me a bit of background about the dolls but i enjoy learning about them myself .
+ian , who is single , became interested in the supernatural as a child and now is hooked on haunted dolls
+ian will often take his dolls to events and get people to guess their back stories .
+pictured : left - hubert an old man who likes to play games .
+right - esme , a lady in her seventies who died of natural causes
+ian used to share his collection with his sister but she found the dolls too mischievous
+ian is pictured with the puppet , little is known about him other than he likes jazz and may be from belgium
+although he is fond of his whole collection ian definitely has a favourite : annabel , a doll who he believes is haunted by the spirit of a seven-year-old girl who drowned while playing with her brother .
+ian says that each of his dolls has their own story and he often asks others to try and figure out what might have happened to them .
+ian said : ` i take the dolls with me to events that i host and get people to guess their stories .
+` if someone guesses three things that we already know correctly then they get some money off .
+` one lady said she could sense an ` annie ' so i went to get annabel .
+she said she 'd died and felt trapped .
+` as soon as she picked up the doll she said she felt soaking wet , and that she knew annabel had drowned . '
+ian holds sessions with the dolls where guests interested in the paranormal can undertake a variety of activities .
+ian also holds sessions with his dolls where guests can undertake different paranormal experiences .
+pictured : simon , who committed suicide after the death of his own mother
+ian avoids buying his dolls on ebay as he says there is no guarantee that they would be haunted .
+pictured : harriet who is said to be a 17-year-old girl who is angry , but not vicious and committed suicide
+the dolls were previously shared between ian and his sister , but his sister wanted to get rid of them after they started causing her too much mischief , for example hiding her keys .
+however ian says that he has n't been put off in the slightest and is even looking at investing in other supernatural souvenirs .
+` i would love to get more haunted dolls , and i 'm looking into other items .
+i would love to get a haunted mirror . '
+ian hopes his next paranormal purchase will be a haunted mirror
+annabel : a seven-year-old girl who drowned while playing with her brother .
+a happy child usually wearing a floral dress .
+jocelyn : a five-year-old french girl who was abducted from a market when shopping with her mother .
+ian gets the smell of coffee from her .
+harriet : a 17-year-old girl who is angry , but not vicious .
+hubert : an old man who does not give too much away .
+he likes to play games .
+sarah : a middle-aged school governess who died in a fire while trying to save children .
+esme : a lady in her seventies who passed away from natural causes .
+she likes to be in the kitchen and had a husband that died of tb .
+max : an raf pilot who died in the second world war .
+he had a little girl who was five who he misses very much .
+he gave up his life to care for his sick mother , but when she passed away he took his own life .
+the puppet : not a lot is known about the puppet , but he likes jazz and is possibly from belgium .
+
+#reference: 
+ian rogers has spent hundreds of pounds on his collection of nine dolls
+the dolls are said to be haunted with the spirits of dead people
+he says each doll has their own unique story
+he used to share them with his sister but she found them too mischievous
+
+
+
+#extractive: 
+ian rogers owns nine haunted dolls all of which he says contain their own personality
+ian rogers , 36 , became hooked on all things paranormal as a child and took part in his first ghost hunt in the year 2000 .
+since then he has spent hundreds of pounds on the creepy collection ... and he 's on the hunt for more to add .
+
+
+
+#extractive+abstractive: 
+ian rogers , 36 , became hooked on all things paranormal as a child
+took part in his first ghost hunt in the year 2000 and has spent hundreds of pounds on the dolls
+his favourite doll is annabel , who he thinks is haunted by a seven-year-old girl who drowned while playing games
+

@@ -1,0 +1,32 @@
+index: 10992
+
+
+hash: cc9c4d4e8458cdbc7d29325674e5371fd810549f
+
+
+#article: 
+an oregon woman who came home and beat her boyfriend 's former girlfriend with a crowbar after finding her getting high on heroin in her bathroom will no longer face prosecution . elena curtin of portland was seven-months pregnant when she was charged with second-degree assault after she struck her boyfriend 's ex in the head and arm with a crowbar in november 2014 . she was set to go to trial in multnomah county circuit court this week , but prosecutors dropped the charge on monday because curtin , 23 , was ' completely justified in her outrage ' . elena curtin of portland , oregon , was seven-months pregnant when she was charged with second-degree assault after she struck her boyfriend 's ex in the head and arm with a crowbar in november 2014 . curtin gave birth in january . when curtin came home , she found her boyfriend 's ex-girlfriend shooting heroin while sitting on her toilet , oregonian/oregonlive reported . when she asked her to leave and the woman refused , curtin beat her with a crowbar . oregon law allows for use of physical force against an intruder who wo n't leave a resident 's home . curtin 's defense attorney , casey kovacic , said the ex-girlfriend was ' jealous and bitter ' that the boyfriend was in a relationship with his client . the boyfriend , who is the father of curtin 's child , struggled with heroin in the past . the ex and the boyfriend had gotten high at the apartment before and they have a five-year-old child . they have since reconciled and curtin is now living with her parents . the boyfriend has not been a part of his new child 's life . kovacic wrote in an email : ' in the two years leading up to this incident , [ the ex ] made it her personal mission to make elena 's life miserable . ' she routinely harassed and threatened to hurt elena , stole from her , and cruelly plotted to drag [ the boyfriend ] back into addiction . ' that 's one silver lining - she 's [ curtin ] been able to examine how bad ( her relationship ) was and move on with her life . ' if she had gone to trial and been convicted , curtin would have faced received a mandatory prison sentence of almost six years . curtin was charged after coming home and finding her boyfriend 's ex-girlfriend shooting heroin in her bathroom .
+
+#reference: 
+elena curtin was seven-months pregnant during portland , oregon , incident .
+boyfriend 's ex was injecting drugs in her bathroom when she came home .
+curtin , 23 , was scheduled to go to trial on second-degree assault charge .
+she hit boyfriend 's ex on head and arm but prosecutors dropped charge .
+oregon law allows for physical force against an intruder who wo n't leave .
+conviction would have resulted in mandatory six-year prison sentence .
+
+#baseline: 
+elena mckinley , oregon , was UNK pregnant when she was charged with second-degree assault .
+she was charged with second-degree assault after she struck her boyfriend 's ex in the head and arm with a crowbar in november 2014 .
+
+#pointer-generator: 
+elena curtin of portland , oregon , was charged with second-degree assault after she struck her boyfriend 's ex in the head and arm with a crowbar in november 2014 .
+when curtin came home , she found her boyfriend 's ex-girlfriend shooting heroin while sitting on her toilet , oregonian/oregonlive reported .
+when curtin came home , she found her boyfriend 's ex-girlfriend shooting heroin while sitting on her toilet , oregonian/oregonlive reported .
+when curtin came home , she found her boyfriend 's ex-girlfriend shooting heroin while sitting on her toilet , oregonian/oregonlive reported .
+curtin 's defense attorney , casey kovacic , said the ex-girlfriend was ' completely justified in her outrage ' .
+
+#pointer-gen-coverage: 
+elena curtin of portland , oregon , was charged with second-degree assault after she struck her boyfriend 's ex in the head and arm with a crowbar in november 2014 .
+she was set to go to trial in multnomah county circuit court this week .
+prosecutors dropped the charge on monday because curtin , 23 , was ' completely justified in her outrage ' .

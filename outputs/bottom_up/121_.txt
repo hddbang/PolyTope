@@ -1,0 +1,75 @@
+index: 1551
+
+
+hash: 49b00cde1ee02c39e298a96b394051241078ce94
+
+
+#article: 
+residents of new south wales who are already reeling from last week 's wild weather are being warned to brace for more floods and damage , with another storm predicted to hit later this week .
+meteorologists say early indicators show that an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit the region , with heavy rain possible from thursday .
+the state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed .
+ses spokeswoman stephanie wills says the organisation is concerned that more storms will these hamper clean-up efforts .
+meteorologists say early indicators show an east coast low -- the same weather system that lashed the state 's east coast for three days last week -- could hit again bringing heavy rain from thursday through to saturday
+locals survey the damage and destruction caused by flooding in dungog in the nsw hunter region
+residents who have been hit by wild weather across new south wales are being warned to brace for more floods and damage with another storm predicted to hit this week
+people struggle against the heavy rain and strong wind on the streets in the sydney cbd last week
+` any weather that strikes up north is of concern to us , especially considering the devastation from the storm that hit last week , ' ms wills told daily mail australia .
+` any water is going to hit that saturated ground and raise flood levels again , and any wind is going to knock over the trees that are uprooted . '
+ms wills said the ses was particularly worried about the effect more wild weather would have on the hunter region , which suffered through flooding and high winds in the last storm .
+` that 's our focus - the hunter region - because they 've been smashed , ' she said .
+` we really are quite concerned about that particular area .
+` we are urging the community to prepare themselves , prepare their homes and prepare their families to prevent further loss and devastation . '
+weatherzone meteorologist kim westcott said a trough of low pressure was forming along the coast , and would hit heaviest in the far northern parts of the state .
+this picture has shows western sydney blanketed by floodwaters and hail on saturday
+the ses warned flood levels could be raised again with more rain
+ses spokeswoman stephanie wills said the organisation is concerned that more storms would hamper clean-up efforts , with 4,409 of 24,196 jobs still needing to be completed
+ms wills said the ses was particularly worried about the effect more wild weather would have on the hard-hit hunter region ( pictured : damage in dungog )
+sydney was hit by more wild weather on the weekend - with a freak hail storm coming down on saturday
+a sydney backyard is flooded and covered in hail stones on anzac day
+sydney - max 20 degrees , mostly sunny
+newcastle - max 19 degrees , mostly sunny
+gosford - max 20 degrees , mostly sunny
+wollongong - max 19 degrees , partly cloudy
+sydney - min 13 to max 20 degrees , possible late shower
+newcastle - min 13 to max 19 degrees , shower or two
+gosford - min 11 to max 20 degrees , possible late shower
+wollongong - min 12 to max 18 degrees , possible late shower
+sydney - min 14 to max 20 degrees , shower or two
+newcastle - min 13 to max 19 degrees , showers
+gosford - min 12 to max 19 degrees , shower or two
+wollongong - min 13 to max 18 degrees , shower or two
+sydney - min 14 to max 19 degrees , showers
+newcastle - min 14 to max 18 degrees , showers
+gosford - min 13 to max 19 degrees , showers
+wollongong - min 14 to max 19 degrees , showers
+sydney - min 15 to max 20 degrees , showers
+newcastle - min 16 to max 19 degrees , showers
+gosford - min 14 to max 19 degrees , showers
+wollongong - min 15 to max 19 degrees , showers
+sydney - min 15 to max 20 degrees , showers
+newcastle - min 15 to max 22 degrees , showers easing
+gosford - min 13 to max 22 degrees , showers easing
+wollongong - min 15 to max 20 degrees , showers
+` it looks like we could get an east coast low later on this week , but it is certainly a different kettle of fish than we 've seen last week , ' ms westcott said .
+` the difference is that it is a little bit further away from the coast and it is in a different area - so the heavy rain is probably not going to be over sydney . '
+ms westcott said the weather system appeared to be moving quickly .
+` we might get two days of rain but it 's not likely to be the same three days of wind and rain we saw last week , ' she said .
+damage and destruction caused by flooding in stroud in the nsw hunter region
+bureau of meteorology nsw regional director barry hanstrum said : ` early indications suggest the main impacts of intense rainfall and strong winds will be on coastal areas in the states north east including the northern rivers and mid north coasts , with heavy falls also likely for southeast queensland .
+` current guidance suggests that rain will increase this week , and peak between thursday and saturday .
+` further rainfall is likely for catchments that have already experienced flooding during last week 's severe weather event . '
+the bureau of meteorology said it was too early to tell how severe the weather system would be .
+ms wills said the ses would spend the next few days trying to complete as many jobs as possible , as well as warning people to prepare their homes should another severe storm hit .
+` obviously we 're trying to get through has many as we can before next system hits , ' she said .
+ms wills said there were over 1000 personnel in the field across nsw , including 200 from other states such as queensland , victoria , the act and south australia .
+
+#reference: 
+another east coast low predicted to hit new south wales from thursday . 
+ the ses says it is concerned about the impact this will have on communities hard hit by last week 's storms - particularly in the hunter . 
+ residents urged to prepare their homes to prevent more damage . 
+
+
+#decode: 
+residents of new south wales are being warned to brace for more floods and damage , with heavy rain possible from thursday . 
+ state emergency service was deluged with calls for assistance last week and has more than 4,000 jobs from the 24,196 requests still to be completed . 
+ the same weather system that lashed the state 's east coast for three days last week could hit the region . 

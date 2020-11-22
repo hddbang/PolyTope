@@ -1,0 +1,53 @@
+index: 11406
+
+
+hash: 651a710c33c3db4ebd08dc3ed241550f93ccf1a5
+
+
+#article: 
+a burlesque performer is attempting to eradicate all negativity surrounding the word ` fat ' -- by embracing it as an honest , body-positive description of her own physique .
+during a recent ted talk , lillian bustle , from new jersey , revealed that she also calls herself ` short ' , because she is 5 ' 3 " , and ` wife ' , because she is married , noting that each of these words is just an honest description of what she is .
+and ` fat ' is just another self-descriptor for her , who insists that the word does n't have to be used as a synonym for ` ugly ' .
+` we as women are programmed to tell each other that we 're not fat , because to many people - both men and women - fat is the worst thing that you can be , ' she said during her talk , which took place earlier this month .
+not-so-tiny dancer : burlesque performer lillian bustle explained in her ted talk that ` fat ' is just another word - and using it does n't have to be an insult
+beauty comes in bigger packages , too : during her lecture , lillian explained that ` fat ' should n't mean the same thing as ugly
+unfortunately , lillian added , her worldview is n't held by everyone , and she pointed to a statistic that shows that size discrimination in the workplace has risen 66 per cent in the past 30 years .
+and those negative perceptions of bigger people start young : the top ` magic wish ' for girls 11 to 17 , according to a study , is to be thinner .
+lillian explained that , according to other studies , ` the more we 're exposed to body diversity , the more we tolerate , accept , and yes , even prefer , different body types ' .
+that promising fact is something that encourages the dancer to perform burlesque , which enables her to expose her audiences to a ` fat ' body in a positive , glamorous way .
+changing minds : studies show that the more people are exposed to different body types , the more they like them ; lillian hopes exposing her audience to a fuller figure will change their perceptions
+lillian also quoted another performer named beelzebabe , who has spoken out in the past about the fact that the body diversity of burlesque performers ` challenges us to rethink the narrow confines that society has given us for what 's desirable ' .
+it certainly challenged lillian , who weighs in at 240 lbs .
+she admits she was in awe at the first burlesque show she ever saw , immediately resolving to try it herself .
+she began performing in 2012 , and says the experience has been both empowering and incredibly body-positive .
+while the first time she performed she was nervous about people seeing her arms jiggle , once she did it , she felt like she could ` walk through fire ' .
+now , whenever she 's feeling insecure , she can think back to that first performance ; lillian recommends other people find a similar ` courage reference ' - a moment you felt brave that you can think back to at times when you feel more insecure and afraid .
+self-esteem boost : lillian said she was nervous before her first performance because of how her arms looked , but now she feels great about her body
+plump crowd-pleaser : while a few people have left nasty comments on the youtube page for her ted talk , lillian said the response has been mostly positive
+though lillian gave her ted talk in 2014 , it was only posted on youtube three weeks ago .
+since then , the clip has generated nearly 38,000 views - and plenty of positive feedback .
+` i 've never been so happy in all my life , ' she wrote for xojane .
+` i 've had this stupid grin on my face for a week straight . '
+besides a few ` trolls ' posting vicious negative comments , lillian received a slew of positive messages , including letters of thanks , personal stories , and an email from a teenage girl who watched the video with her younger sister and said it made them reevaluate the way they viewed their bodies .
+` i really think we - and by " we " i mean nice people and body-positivity - are winning , ' she said .
+
+#reference: 
+at 240lbs , lillian bustle says she 's not being negative when she calls herself ` fat ' - she is just being factual
+she says she likes performing burlesque because it helps open people up to liking different body types
+the dancer says she 's thrilled at the positive reception her ted talk has received , adding that she believes it means ` body-positivity ' is working
+
+
+
+#extractive: 
+not-so-tiny dancer : burlesque performer lillian bustle explained in her ted talk that ` fat ' is just another word - and using it does n't have to be an insult
+during a recent ted talk , lillian bustle , from new jersey , revealed that she also calls herself ` short ' , because she is 5 ' 3 " , and ` wife ' , because she is married , noting that each of these words is just an honest description of what she is .
+unfortunately , lillian added , her worldview is n't held by everyone , and she pointed to a statistic that shows that size discrimination in the workplace has risen 66 per cent in the past 30 years .
+
+
+
+#extractive+abstractive: 
+lillian bustle , from new jersey , said that ` fat ' is just another word - and using it does n't have to be an insult
+she also called herself ` short ' , because she is 5 ' 3 " , and ` wife ' , as she is married
+lillian also said that she calls herself short , because of her physique because she 's 5 '3 "
+she said that the more people are exposed to body diversity , the more they accept , accept , and yes , even prefer , different body types
+

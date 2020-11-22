@@ -1,0 +1,44 @@
+index: 8255
+
+
+hash: 95e782a2b0715ce652972b92546be1859f95b614
+
+
+#article: 
+it used to be as much a part of a sunday routine as eating a roast dinner or reading the papers .
+but new figures show that the art of washing your own car appears to be dying out in britain with a thrid of men admitting they have never picked up a bucket or chamois leather to clean their own motor .
+the study also reveals that three-quarters of women never wash their own car with drivers more likely to take it to a car wash on a local forecourt .
+a new study has revealed that a third of men have never picked up a bucket and a chamois leather to wash their own car ( file pic )
+the survey of 1,100 adults by vehicle leasing firm osv , found that 31 per cent of men have never washed their own car , with only 12 per cent of those that do saying they do it regularly .
+meanwhile only five per cent of those surveyed said that had ever asked their children to wash the car , as a way for them to earn extra pocket money .
+factors behind the decline vary from shops now opening on a sunday and more live football on tv , meaning more people put off the chore at the weekend .
+the rise of hand car washes has been blamed for a decrease in drivers washing their own cars ( file pic )
+other reasons given for not washing cars include the rise of hand car washes and the fact that 4x4 and off-road vehicles are too large to clean .
+brits are more likely to wash their own car during the holidays as the recent easter break saw an estimated 15 million cars cleaned by their owners .
+however , one in four said they only did it as an excuse to get out of the house .
+cars are most likely to be washed by their owners every week in birmingham , chelmsford and sheffield and least likely in oxford , bath and edinburgh .
+audis , toyotas and bmws are most likely to be washed by their owners and range rovers , peugeots and mercedes least often .
+osv spokesman andrew kirkley said : ` a lot of us remember seeing our streets full of men cleaning their cars every sunday .
+it was a national tradition .
+` but let 's face it , we do n't have as much time any more , the cars are bigger and even the kids do n't seem to want to earn a bit of extra money doing it for us either .
+` on top of that , there is now plenty of choice out there if you want to put the car through an automated machine or get a gang of enthusiastic guys to do it for you fairly cheaply . '
+
+#reference: 
+31 per cent of british men say they have never washed their own car
+only 12 per cent that have cleaned their own car say they do it regularly
+rise in hand car washes on local forecourts blamed for art dying out
+
+
+
+#extractive: 
+a new study has revealed that a third of men have never picked up a bucket and a chamois leather to wash their own car ( file pic )
+meanwhile only five per cent of those surveyed said that had ever asked their children to wash the car , as a way for them to earn extra pocket money .
+other reasons given for not washing cars include the rise of hand car washes and the fact that 4x4 and off-road vehicles are too large to clean .
+
+
+
+#extractive+abstractive: 
+three-quarters of women never wash their own car with drivers more likely to take it to a car wash on a forecourt
+survey of 1,100 adults by vehicle leasing firm osv found 31 % of men have never washed their own vehicle
+only 12 % of those surveyed said that had ever asked their children to wash the car , as a way for them to earn extra pocket money
+

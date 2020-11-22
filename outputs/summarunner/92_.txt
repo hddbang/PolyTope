@@ -1,0 +1,22 @@
+index: 10299
+
+
+hash: ab94dcfeb47452db8f9d6762a42e6ef7b855e28a
+
+
+#article: 
+( cnn ) french customs officers say they have seized more than 2 tons of cocaine aboard a sailboat that was falsely flying an american flag in the caribbean .
+the drugs , whose value is estimated at more than $ 105 million , are the biggest cocaine seizure ever carried out by french authorities , said michael lachaux , director of customs operations in martinique .
+officers arrested one venezuelan and two spanish citizens who were on board the vessel off the coast of martinique on wednesday , lachaux said in an interview with the radio station france info on saturday .
+martinique is an overseas department of france .
+in november , french customs officials seized nearly 250 kilograms ( 550 pounds ) of cocaine on a vessel that was also off the coast of martinique , according to authorities .
+
+#reference: 
+the value of the drugs is estimated at more than $ 105 million
+officers arrested one venezuelan and two spanish citizens on board the vessel
+
+
+#decode: 
+( cnn ) french customs officers say they have seized more than 2 tons of cocaine aboard a sailboat that was falsely flying an american flag in the caribbean .
+the drugs , whose value is estimated at more than $ 105 million , are the biggest cocaine seizure ever carried out by french authorities , said michael lachaux , director of customs operations in martinique .
+in november , french customs officials seized nearly 250 kilograms ( 550 pounds ) of cocaine on a vessel that was also off the coast of martinique , according to authorities .

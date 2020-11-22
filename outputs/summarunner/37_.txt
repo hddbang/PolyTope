@@ -1,0 +1,78 @@
+index: 4653
+
+
+hash: 0e128eb71fc968e226f2264ed77cf239b1dddddb
+
+
+#article: 
+jurgen klopp put england 's top clubs on alert on wednesday by confirming that he will leave borussia dortmund at the end of the season after seven years in charge .
+klopp was immediately installed as the bookmakers ' favourite to replace manuel pellegrini at manchester city , although it is understood that the struggling premier league champions have no plans to make such a move .
+the colourful 47-year-old coach has been linked with several other english teams in the past , including liverpool and arsenal , and has a long-standing interest in working here .
+jurgen klopp confirmed in a press conference he is to leave borussia dortmund this summer
+an emotional klopp said he believed dortmund need a change of manager next season
+klopp will officially cease to be dortmund manager on june 30 as he looks for a fresh start elsewhere
+klopp has enjoyed seven largely successful years in charge at the westfalenstadion
+the emotion was clear to see as klopp announced he was leaving the club on wednesday
+klopp leaves the press conference after confirming his departure as dortmund boss in the summer
+klopp was alongside chief executive hans-joachim watzke ( left ) and sporting director michael zorc ( right )
+after the press conference , klopp joined the dortmund squad for a training session
+klopp speaks to the players in training , shortly after making the announcement he would be leaving the club
+dortmund are preparing for their home bundesliga match with paderborn at the weekend
+klopp issues instructions to his defender mats hummels during wednesday 's training session
+klopp , wearing a club tracksuit and baseball cap , cuts a lonely figure on the training ground
+a downcast klopp during dortmund 's 3-1 loss to borussia monchengladbach at the weekend
+man city -- the premier league champions are unlikely to deviate from their top target pep guardiola as speculation continues to surround manuel pellegrini 's future -- 3/10
+liverpool -- klopp has been linked with the anfield job on previous occasions but brendan rodgers has come through a difficult spell and appears to be safe -- 5/10
+arsenal -- with the gunners on course for second place and the chance to retain the fa cup , it would be a surprise if they looked to replace arsene wenger now -- 4/10
+bayern munich -- klopp has appeared on bayern 's radar before and could do so again despite their intense rivalry with dortmund -- 6/10
+real madrid -- carlo ancelotti is on thin ice at the bernabeu but klopp has said he wants to work at a club where he speaks the language -- 6/10
+he is among the most highly-rated managers in european football after winning two bundesliga titles and the german cup at the westfalenstadion , as well as leading dortmund to the champions league final in 2013 .
+klopp insisted that he has not had any contact with other clubs but confirmed that he is open to offers , denying reports that he will take a sabbatical after a difficult season in which dortmund have struggled towards the bottom of the table .
+` i am sure that the decision is absolutely right , ' he said at an emotional press conference .
+` this team deserves to have the absolutely one hundred per cent right coach .
+i believe that borussia dortmund actually needs a change .
+as long as i 'm here , we are always considering the successes of the past .
+` what i have always said in the last few years is that in that moment when i feel i wo n't be the perfect manager for this incredible club then i would say it .
+` i have of course every now and then thought about the topic in past years because it is always important to question yourself .
+i have though in the last weeks and days asked myself if i 'm still the right manager .
+i was n't sure but i could n't answer with a yes .
+` i have had no contact with others clubs , either in england or elsewhere , but i am not planning a sabbatical .
+` i do n't think of it as a load off my shoulders .
+i 'm not tired , even though i look like this . '
+manuel pellegrini is under pressure at manchester city but klopp is unlikely to replace him at the etihad
+dejected dortmund players neven subotic , mats hummels , sokratis and ciro immobile after saturday 's loss
+the season has been one of struggle for dortmund , who flirted with relegation from the bundesliga
+april 18 paderborn ( h )
+april 25 eintracht frankfurt ( h )
+april 28 bayern munich ( a )
+may 2 hoffenheim ( a )
+may 9 hertha berlin ( h )
+may 16 wolfsburg ( a )
+may 23 werder bremen ( h )
+sources in germany have not ruled out klopp making a controversial move to rivals bayern munich if pep guardiola fails to win the champions league this season , despite a mutual dislike of the club 's sporting director matthias sammer and the risk of tarnishing his reputation with dortmund supporters .
+that would free up city 's top target guardiola to move to the etihad and take over from pellegrini whose future remains uncertain following a disappointing second season in english football .
+neither will there be any shortage of top european clubs hoping to lure klopp away from germany where he has built an exciting team to challenge bayern 's dominance .
+having lost mario gotze and robert lewandowski to their rivals , however , more key players are set to leave this summer including mats hummels and ilkay gundogan who have been linked with a move to manchester united .
+klopp shakes hands with arsenal manager arsene wenger before their champions league tie in november
+the news about klopp 's future will place a number of premier league clubs on alert
+german manager of the year 2011 , 2012
+pld 309 w 175 d 67 l 67 win % 56.63
+klopp was under contract until 2018 but his relationship with his squad is believed to have gone stale after so long in charge and only the timing of wednesday 's announcement was unexpected .
+` i believe this is the right decision at the right time , ' he added .
+` i just wanted to make my decision known now so that the club can plan for the future .
+in the last few years , some player decisions were made late and there was no time to react . '
+thomas tuchel , klopp 's former youth-team coach at mainz , is set to succeed him at dortmund after he was overlooked for the managerial vacancy at hamburg on wednesday in favour of bruno labbadia .
+
+#reference: 
+jurgen klopp will leave borussia dortmund after seven years in charge
+he has denied that he wants to take a break because of exhaustion
+premier league clubs could make a move for klopp this summer
+but he is unlikely to replace manuel pellegrini at manchester city
+klopp has won two bundesliga titles and the german cup at dortmund
+he has admitted that he is no longer the perfect manager for the club
+
+
+#decode: 
+jurgen klopp put england 's top clubs on alert on wednesday by confirming that he will leave borussia dortmund at the end of the season after seven years in charge .
+klopp was immediately installed as the bookmakers ' favourite to replace manuel pellegrini at manchester city , although it is understood that the struggling premier league champions have no plans to make such a move .
+jurgen klopp confirmed in a press conference he is to leave borussia dortmund this summer

@@ -1,0 +1,73 @@
+index: 3437
+
+
+hash: 90de020a8c992ae4f39928895a33e885164cdf5b
+
+
+#article: 
+have you ever panicked about whether you locked the front door , been woken by a facebook notification or desperately needed a phone charger ?
+to deal with these sorts of everyday emergencies , one company has designed a range of prototype products .
+you can vote on which one is your favourite - and the winner will be made into an actual product , funded through a kickstarter campaign .
+leeds-based direct line is running a competition called #everydayfix .
+they asked groups to design products to deal with common problems .
+these include forgetting to lock the door , which one company hopes to solve with their forget me lock prototype , shown
+the products were designed as part of the direct line everyday fix design makeathon .
+they asked people to pick their top ten ` everyday emergencies ' - things that caused them an undue amount of stress in their daily lives .
+groups from london-based design company makerversity were then asked to design products that could alleviate certain emergencies - and three were picked for a shortlist .
+not being able to sleep ( 46 per cent * )
+losing your keys ( 37 per cent )
+being stuck in traffic when already late ( 35 per cent )
+losing an important paper or document ( 33 per cent )
+nowhere to park ( 32 per cent )
+printer not working when you need to print something ( 31 per cent )
+running out of battery on your phone whilst out ( 31 per cent )
+discovering you are out of toilet roll whilst on the loo ( 30 per cent )
+dealing with machine operated customer service ( 26 per cent )
+forgetting your bank card when paying for an item ( 25 per cent )
+* how many people thought this was a problem
+in the survey of 2,000 people , the top emergency was not being able to sleep .
+so a group called instruments designed a product called ` snooze ' , an alarm clock which connects with your phone and silences any notifications to ensure a good night 's sleep .
+to deal with not remembering if you had locked your door , onn studio created the forget me lock - a device to reassure you that you have locked the front door .
+it fastens on the key and swivels green to show the door is open , and red to signify it 's locked .
+this means that even when out or about , you can find out if your door is locked or not .
+another group designed nipper - the world 's smallest mobile phone charger according to its creators , impulse .
+any household battery can be used as its energy source , with two terminals attaching either side and then connecting to your phone to provide a boost .
+direct line is running a competition on twitter where you can vote for your favourite of these three products by retweeting tweets about snooze , forget me lock or nipper .
+the forget me lock is coloured green and red and fastens on a key .
+when the key is turned in a lock it swivels green to show the door is open , and red to signify it 's locked .
+another group designed nipper - the world 's smallest mobile phone charger according to its creators , impulse .
+any household battery can be used as its energy source , with two terminals attaching either side and then connecting to your phone to provide a boost
+the nipper device ( shown ) is designed to help people who run out of battery while they are out and about
+in the survey of 2,000 people , the top emergency was not being able to sleep .
+so a group called instruments designed a product called snooze , shown , an alarm clock which connects with your phone and silences any notifications to ensure a good night 's sleep
+whichever tweet has the most retweets , with the #everydayfix hashtag , by 23 april will go into a kickstarter fundraising campaign and ultimately into development .
+` we 've seen the great british designers of tomorrow create smart and simple solutions to real life everyday emergencies , ' said paul smyth , co-founder of makerversity .
+` through the direct line everyday fix event , we 've been able to extend our role as " fixers " and work with some unique creative talent to produce a fantastic shortlist of exciting prototypes that start to solve the nation 's everyday emergencies , ' added john shaw , head of r&d and innovation at direct line .
+of the products that did n't make the cut , one was a helmet with ` bone conduction headphones ' that gave you directions while cycling without impairing your ability to hear the environment around you .
+another was a parking pin that you could leave in a space , which would then alert you when the space was free , if you could n't find somewhere to park .
+and as another solution to your phone running out of battery , one team designed an app that lets you nominate people to receive your messages when your phone dies .
+products that did n't make the final shortlist included the parking pin , shown .
+you could leave this in a parking space , and it will alert you when the space is free , so you can park your car
+the relay app , shown , would let you nominate people to receive your messages when your phone dies
+and the ` hat nav ' was a smart helmet that used ` bone conduction headphones ' to give you directions while cycling without impairing your ability to hear the environment around you
+
+#reference: 
+leeds-based direct line is running a competition called #everydayfix
+they asked groups to design products to deal with common problems
+these include forgetting to lock the door and running out of battery
+you can vote for your favourite design and the winner will be crowdfunded
+
+
+
+#extractive: 
+leeds-based direct line is running a competition called #everydayfix .
+the products were designed as part of the direct line everyday fix design makeathon .
+these include forgetting to lock the door , which one company hopes to solve with their forget me lock prototype , shown
+
+
+
+#extractive+abstractive: 
+leeds-based direct line is running a competition called #everydayfix
+they asked groups to design products to deal with common problems
+these include forgetting to lock the door , which one company hopes to solve with their forget me lock prototype
+

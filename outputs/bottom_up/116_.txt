@@ -1,0 +1,47 @@
+index: 2463
+
+
+hash: 9cd2035d32750d5952590694012de18362377bf0
+
+
+#article: 
+a new zealand couple needed a home upon returning home after living in the uk , so they built one on the back of an old flatbed truck .
+hannah and alex purchased a 1986 hino flatbed and undertook their year and a half labor of love .
+the result was a solar-powered two-bedroom , wood and steel home that now allows them to live almost self-sufficiently in nelson , new zealand .
+how a truck becomes a home : a new zealand couple built this country home on the bed of a flatbed truck
+making do : alex ( left ) and hannah ( right ) wanted a home that was cozy and all their own , but could n't afford to buy a full-sized lot
+` we came back to new zealand from the uk in 2009 , ' alex told smoking tire .
+` we knew we could n't afford to buy property at that point .
+we did n't have money . '
+so , the couple started building .
+after a year and a half of taking the project one step at a time , the project took shape .
+though , to hear hannah tell it , they just slapped up the place in a weekend .
+' [ we ] welded a frame , put the wood on and built this house , ' the modest kiwi told smoking tire 's matt farah .
+once they finished , the couple drove their truck home out to a lot they 'd purchased in nelson , new zealand .
+now the couple and their cat live surrounded by nature : aromatic cypress wood inside the home and majestic trees and a babbling brook outside their door .
+ingenuity : the couple started with a steel frame and slowly , project by project , built a home in about a year and a half
+gorgeous : hannah and alex now have a gorgeous , wood-lined home in a lot surrounded by trees and a babbling brook
+details : the couple has a wood-fired stove to keep out the cold , stained glass windows and other creature comforts
+they 're nearly self-sufficient , too .
+the home is powered mostly by solar panels .
+alex said their first power bill was just $ 25 .
+the stove and hot water are gas-powered and water comes from a nearby spring .
+` i did n't want to live inside a plastic box , ' alex said .
+` not because i 'm a hippie but because it feels nicer and is just a nicer place to be . '
+all told , the project cost hannah and alex about $ 25,000 .
+and the couple even plans to build another one like one day .
+` it 's really , really nice , ' hannah said .
+` we love it . '
+two bedrooms : the home has a bedroom for the couple as well as a loft that doubles as a spare room where the cat sleeps
+green : water comes from a nearby spring and most of the electricity comes from solar panels
+
+#reference: 
+hannah and alex needed a place to live after they moved back to new zealand from the uk in 2009 . 
+ so , they purchased a 1986 hino flatbed truck and started building a home on the back of it over the course of about a year and a half . 
+ they then purchased a secluded piece of property and drove their nearly self-sufficient $ 25,000 home there . 
+
+
+#decode: 
+hannah and alex purchased a solar-powered two-bedroom , wood and steel home that now allows them to live almost self-sufficiently in nelson , new zealand . 
+ a new zealand couple built this country home on the bed of a flatbed truck . 
+ the couple built a home in about a year and a half . 

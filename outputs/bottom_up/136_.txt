@@ -1,0 +1,31 @@
+index: 3743
+
+
+hash: 4a12d9c81c1e71cf1c3197074e2f08606a8637df
+
+
+#article: 
+amazing pictures have emerged of blue fluorescent algae lighting up australia 's east coast .
+the images were taken in jervis bay , the south coast of nsw , as the neon glow illuminated one of australia 's popular beaches .
+photographer andy hutchinson described the sight as a ` beautiful supernatural scene ' caused by millions of plankton omitting light .
+a similar display was shown in sydney 's manly beach back in august 2014 where an oceanography expert told daily mail australia there was no need to be concerned about the algae .
+` the glow is caused by noctiluca scintillans , which is a single celled phytoplankton - the algae of the sea - which blossoms in the spring and the autumn and in 90 per cent of occasions occurs due to natural causes , ' iain suthers , of university of new south wales , said .
+mr suthers explained that the bizarre carnivorous cell , which preys on another type of algae called diatoms , gives off the luminous glow as a defence mechanism .
+incredible pictures have emerged of blue fluorescent algae lighting up australia 's east coast
+the amazing images were taken in jervis bay which is in the south coast of new south wales
+photograher andy hutchinson captured trhe neon glow illuminating one of australia 's popular beaches
+mr hutchinson described the sight as a ` beautiful supernatural scene ' caused by millions of plankton omitting light
+a similar display - like the one in jervis bay ( pictured ) - was shown in sydney 's manly beach back in august 2014
+iain suthers , of university of new south wales , says the algae blossoms in the spring and the autumn
+
+#reference: 
+photos are were taken at one of australia 's popular beaches jervis bay , which is in the south coast of nsw . 
+ the fluorescent glow is caused by millions of plankton omitting light , says photographer andy hutchinson . 
+ a similar display was shown in sydney 's manly beach back in august 2014 . 
+ iain suthers , of university of new south wales , says the algae blossoms in the spring and the autumn . 
+
+
+#decode: 
+the images were taken in jervis bay , the south coast of nsw . 
+ a similar display was shown in sydney 's manly beach back in august 2014 . 
+ photographer andy hutchinson described the sight as a ` beautiful supernatural scene ' caused by millions of plankton . 

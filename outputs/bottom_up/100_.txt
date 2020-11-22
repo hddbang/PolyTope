@@ -1,0 +1,49 @@
+index: 2631
+
+
+hash: 3d9637bba602385a7a6817c271ae91956cdf14a2
+
+
+#article: 
+she might be approaching her 89th birthday but nothing was going to stop the queen from enjoying a ride in the spring sunshine this morning .
+the monarch , 88 , was spotted trotting through windsor great park aboard her faithful black fell pony , carltonlima emma .
+joined by a groom on another of her fell ponies , the queen cut a relaxed figure as she enjoyed her ride but , as is her wont , eschewed a helmet in favour of one of her silk scarves .
+enjoying the sunshine : the queen enjoys a ride on her fell pony carltonlima emma
+the queen , who has never worn riding helmets , has been encouraged to wear the safety hats in the past but is reportedly reluctant to wear one because of her hair .
+speaking in an interview last year , her racing trainer ian balding recalled the moment he asked why the monarch never wears a riding hat .
+the queen is said to have replied : ` i never have and you do n't have to have your hair done like i do . '
+her majesty is famous for her love of horses and first found herself in the saddle at the age of four after being presented with a shetland pony , named peggy , aged four .
+since then , the royal stables have been home to a succession of steeds , among them betsy , a black farm-bred horse who was her mount of choice in the 50 's , and surprise , a grey gelding whom the queen famously galloped down the course at ascot in 1961 .
+equine enthusiast : her majesty adores the ponies and breeds them at hampton court
+no helmet : the queen never wears a riding helmet , preferring instead to ride in a silk headscarf
+cutting back : she has ridden less in recent years as a result of a niggling knee injury
+long term love : the queen has ridden all her life and continues to breed several breeds of horse and pony
+recent years have seen her cut down on the amount of time she spends in the saddle - the result of a niggling knee injury that also forced her to give up presiding over trooping the colour on horseback .
+nevertheless , the queen remains an enthusiastic equestrienne and , according to sources , is a familiar sight at her windsor stables .
+she is also said to take a keen interest in all her horses and ponies , some of whom are now ridden by her grandchildren , notably prince edward 's children , lady louise and james , viscount severn .
+along with her thoroughbred race horses , the queen also breeds fell ponies and has a stud specialising in highland ponies at balmoral .
+first love : the queen 's first pony was a tiny shetland named peggy who was given to her at the age of four
+familiar sight : the queen riding her much-loved horse burmese during trooping the colour
+seal of approval : a fell pony foal similar to those being bred by the queen at hampton court
+one of the oldest equine breeds on the planet , fell ponies like the queen 's mount carltonlima emma , have roamed the moors of cumbria since the neolithic period .
+docile , hardy and thick-set , the majority of fell ponies are black , grey or bay and measure between 13 and 14hh .
+highly prized by the carvetii , the iron age tribe who occupied the region more than two millennia ago , the ponies later caught the eye of the invading romans and were used as trade goods all over the empire .
+the romans also helped develop the breed into the relatively large animal it is today .
+originally thought to have stood around 12hh tall ( similar to dartmoor and exmoor ponies ) , by the end of the roman period , the average fell was more than a hand higher .
+another invader to fall in love with the fell pony was the vikings , who used the animals as pack ponies ; a use continued by the normans .
+by the 13th century , the fell 's usefulness as a pack animal was well-established and the pony played an important role in british trade until the end of the 18th century .
+following the industrial revolution , fells were used to transport iron ore and coal from mine to town , as well as underground when the height of the shaft allowed .
+although previously used in trotting races , the fell pony really came into its as a riding horse in the 1950s , when its gentle nature and pretty looks made it the pony of choice for families .
+today , the pony remains a popular choice for riders of all ages , among them the queen who breeds fell ponies at her hampton court stud .
+source : the fell pony society
+
+#reference: 
+the queen was spotted enjoying a ride in windsor great park today . 
+ rode her favourite fell pony , a mare named carltonlima emma . 
+ left hard hats at home and opted for one of her favourite scarves instead . 
+
+
+#decode: 
+the monarch , 88 , was spotted trotting through windsor great park aboard her faithful black fell pony , carltonlima emma . 
+ the queen is reportedly reluctant to wear one because of her hair . 
+ the queen has been encouraged to wear the safety hats . 

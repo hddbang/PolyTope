@@ -1,0 +1,28 @@
+index: 11440
+
+
+hash: 5e1c17d26cd7efcea210e6bb8ff5fe2564b80ab2
+
+
+#article: 
+a police crime commissioner is facing investigation after awarding more than half a million pounds of taxpayers ' money to the charity she runs alongside the force 's chief . vera baird donated £500,000 to victims first northumbria , a charity which supports crime victims in her area and of which she is a director . sitting alongside her on the organisation 's top table is sue sim , northumbria 's chief constable , records revealed . the pair now face a ministry of justice probe as critics accuse them of concocting ' a soap opera ' within the force . vera baird , the police and crime commissioner for northumbria , faces a ministry of justice investigation after allocating more than £500,00 of public money to a charity of which she is the director . sitting alongside ms baird on victims first northumbria 's top table is chief constable sue sim . the pair are pictured together , above . it comes after the home secretary implemented a rule allowing pccs to commission services for victims of crime . last month ms baird boasted of the securing of funds for the charity in an article on its website . ' from april 1 , i become responsible for some victims’ services after funding was devolved by the ministry of justice to pccs , ' she wrote . a northumbria police spokesman said the funds would be allocated ' in the same manner that victim support were directly funded by the moj ' . but critics have described her selection of charity as ' inappropriate ' and a conflict of interest . keith vaz , the labour chairman of the home affairs committee , said : ' northumbria police appears to have developed its own soap opera . ' it is totally inappropriate for a pcc to set up any organisation in which they have an interest of whatever kind using public money . ' in an article on the charity 's website , ms baird boasted of securing the funds from the public purse last month . mrs sim shot to prominence within the force over her handling of the hunt for raoul moat in 2010 . she is pictured above with deputy chief superintendent neil adamson at a press conference following his death . adding the fact that chief constable sue sim was ' wrong ' , mr vaz said commissioners should never have been given the ability to allocate public funds to charity . ' the home secretary should never have given these powers . ' ms baird stood by her decision today , telling mailonline : ' all ministry of justice procedures and protocols were adhered to . keith vaz accused the force of creating its own ' soap opera ' . ' i am confident the team of coordinators will show that the decisions taken to create victims first northumbria were the right ones . ' mrs sim has already announced that she will be retiring from the force in june . she was previously accused of bullying staff and faced an investigation that was spearheaded by ms baird , her co-director at victims first northumbria . a ministry of justice spokesman confirmed it would investigate the circumstances to conclude whether any conflict of interest rules had been broken . ' the moj requires pccs not to be subject to conflicts of interest when providing victims services and has the power to investigate any possible conflict of interest and to cease funding if such a conflict is established . ' victims first northumbria was established after the number of people contacting its predecessor , victim support , plummeted . but sources say many may be reluctant to confide in a service that is partly run by mrs sim who faced misconduct proceedings over alleged workplace bullying before announcing her retirement last week . the police chief who shot to prominence after her handling of the raoul moat manhunt in 2010 , said she was stepping down to spend more time with her family . ms baird praised her ' passion and enthusiasm ' , adding : ' sue and i have worked well together over the two-and-a-half years since i became police and crime commissioner . ' 
+
+#reference: 
+vera baird has allocated £500,000 to be given to victims first northumbria .
+police and crime commissioner is a director at the newly set-up charity .
+chief constable sue sim is also on the organisation 's board of directors .
+critics have accused northumbria police of creating ' its own soap opera ' .
+
+#baseline: 
+vera baird donated £500,000 to victims first northumbria , a charity which supports crime victims in her area and of which she is a director .
+the pair now face a ministry of justice investigation .
+
+#pointer-generator: 
+vera baird donated £500,000 to victims first northumbria , a charity which supports crime victims in her area and of which she is a director .
+sitting alongside her on the organisation 's top table is sue sim .
+sitting alongside her on the organisation 's top table is sue sim .
+
+#pointer-gen-coverage: 
+vera baird donated £500,000 to victims first northumbria , a charity which supports crime victims in her area .
+the pair now face a ministry of justice probe as critics accuse them of concocting ' a soap opera ' within the force .
+critics have described her selection of charity as ' inappropriate ' and a conflict of interest .

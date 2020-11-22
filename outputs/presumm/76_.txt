@@ -1,0 +1,67 @@
+index: 6940
+
+
+hash: ecc58ff3ca0a337afcc77cd9fc0c05a74ee63d65
+
+
+#article: 
+pablo mandado and ilze zebolde have no plans , no agenda , no cause to fight for and they are certainly in no hurry -- the couple simply has a dream to ` discover different parts of this planet a pedal at a time . '
+and , after quitting their restaurant jobs in manchester , the intrepid cyclists are doing it as cheaply as they possibly can .
+spanish pablo , 27 , and latvian ilze , 31 , who met in riga in 2011 , are off to a flying start as they approach their first year of their open-ended odyssey on the road .
+in 356 days so far they 've covered almost 7,000 miles ( 11,131.92 km by their measurements ) and been through 16 countries .
+ilze zebolde , 31 , takes in her surrounds as she and pablo mandado take a break in their cycle journey around the world
+pablo , 27 , and ilze , 31 , stop for a picture in bosnia , one of the 16 countries they 've been through since leaving london last year
+latvian ilze sets up camp , the most common means of accommodation for her and pablo , on the stunning lake bled in slovenia
+ilze points at the winding road that she and pablo had climb in spain 's sierra nevada with their 130 kg of gear ( including bicycles )
+with no plans or agenda , ilze and pablo are happy to stop and take in stunning views , such as this from a roadside in the french alps
+in that time they have been astonishingly living on less than three euros each a day , or by their meticulous calculations 10 euro cents per kilometre .
+they keep costs down by relying on free accommodation , along with not needing a budget for transport -- their legs have that covered .
+usually they pitch a tent under the stars and camp ( 161 nights of the 256 ) but also use hosting websites such as couchsurfing ( 66 nights ) and warmshowers ( 44 nights ) .
+sometimes , they get a good night 's sleep courtesy of the kindness of strangers .
+showers are ` sometimes daily , sometimes weekly , ' admits pablo .
+this leaves food as their only major expense , and that takes up just 2.74 euros each per day of their 2.99 total outlay .
+ilze often stars in their images with pablo the designated photographer , but she does n't seem to mind after another hill climb
+pablo gives up his camera for a moment , though , as latvian ilze captures her spanish boyfriend taking a rest on the road
+while they often pitch their tent in stunning settings , this pedestrian tunnel during their journey through turkey is n't one of them
+rolling green hills and a shimmering lake greeted the duo in the alps as their open-ended odyssey continued
+when asked on their blog , thecrazytravel , how they can possibly live like this , pablo answered simply .
+` pasta , bread , rice , eggs , milk , seasonal fruits and vegetables .
+often we get invited for a meal , or for some free veggies or fruits , ' he said .
+` we pick up wild fruits occasionally as well , and dumpster diving was an option in western countries where half of the food production end up in the bin . '
+pablo and ilze started in london before heading south-east and working their way through france , first down the west coast and then the south after a loop through spain and portugal .
+pedal power then took them through the north of italy , slovenia , croatia , bosnia and herzegovina , montenegro , albania , macedonia , greece and into turkey .
+ilze walks with her bike while pablo trails behind to capture a snowy landscape in turkey , which they traversed the entire north of
+pablo and ilze 's tent in a field in bosnia - this is their usual means of accommodation although they often use hosting websites
+pabo and ilze take a break in an italian mountain town as they work their way from france towards eastern europe
+pablo rides along the waterside in thessaloniki , greece , one of more than 200 stops they 've made in their journey so far
+all landscapes and settings are greeting pablo and ilze , including moody forests in france as they rode along both coasts
+ilze rides into the clouds as pedal power takes her and pablo through eastern europe and towards asia , their next continent
+the view from pablo and ilze 's tent as they awake to another day in the saddle as they live out their dream
+pablo shows off the huge amount of gear he and ilze need to carry as they work their way around the world
+` cycling over the bridge at the border between greece and turkey was symbolic , ' pablo says .
+` riding away from europe , finally crossing into a different continent .
+finally going further away and into the unknown . '
+they traversed the entire northern coast of turkey , before riding through georgia and their latest destination , armenia , and they plan to ` continue into asia , across the pacific with the idea to cycle all the length of the american continent . '
+` we are going to be on the road for the following years , ' they say .
+
+#reference: 
+pablo mandado and ilze zebolde left london last year on a quest to explore the world on bicycles
+they camp or stay with couchsurfing and warmshowers hosts and spent an average $ 2.99 per day
+pablo , from spain , and ilze , from latvia , moved to manchester together after meeting in riga in 2011
+they saved up for their travels , which they share on their website , while working in english restaurants
+
+
+
+#extractive: 
+spanish pablo , 27 , and latvian ilze , 31 , who met in riga in 2011 , are off to a flying start as they approach their first year of their open-ended odyssey on the road .
+in 356 days so far they 've covered almost 7,000 miles ( 11,131.92 km by their measurements ) and been through 16 countries .
+pablo mandado and ilze zebolde have no plans , no agenda , no cause to fight for and they are certainly in no hurry -- the couple simply has a dream to ` discover different parts of this planet a pedal at a time . '
+
+
+
+#extractive+abstractive: 
+spanish pablo , 27 , and latvian ilze zebolde , 31 , are off to a flying start as they approach their first year of their open-ended odyssey on the road
+in 356 days they 've covered almost 7,000 miles ( 11,131.92 km by their measurements ) and been through 16 countries
+ilze points at the winding road that she and pablo had climb in spain 's sierra nevada with their 130kg of gear
+in that time they have been astonishingly living on less than three euros each day , or by their meticulous calculations 10 euro cents per kilometre
+

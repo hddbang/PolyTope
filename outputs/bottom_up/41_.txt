@@ -1,0 +1,28 @@
+index: 9094
+
+
+hash: ffd4fd3ed5e3d498d6135fc93ae6c9170d10611c
+
+
+#article: 
+an axe-wielding robber has been jailed after his attempt to rob a store was foiled when he was jumped on by the shopkeeper and hit by his wife with a baseball bat .
+ex-juvenile offender shaun andrew mckerry , dubbed boomerang boy or homing pigeon boy in his youth , burst into shildon post office and stores , county durham , at 8 pm on march 15 .
+the masked 31-year-old waved an axe as he demanded cash from terrified assistant andrea brighty , but he did not see owner sab dhillon 's rugby tackle which dropped him to the floor , sending shelves and produce tumbling .
+as the men wrestled , sab dhillon 's wife sam helped by hitting mckerry with a baseball bat
+she struck him twice , helping to disarm him while her husband twisted him around to reveal his face to the cameras
+as the men wrestled , and with mckerry still holding the axe , mr dhillon 's wife sam helped , hitting him twice with a baseball bat to make him drop the weapon .
+blood can be seen coming from the would-be robber 's nose as mr dhillon gestures to his wife to drop the bat .
+minutes later the police arrived and arrested mckerry .
+he previously pleaded guilty at durham crown court to attempted robbery and court officials confirmed he had been jailed for six years after the hearing today .
+mckerry , from coundon near bishop auckland , earned the nicknames boomerang boy or homing pigeon boy as he always returned home after committing a crime .
+he started shoplifting at the age of 12 and by 15 he had been arrested 80 times , and had convictions for aggravated vehicle-taking , sending indecent letters , and burglary .
+mckerry once stole 22 charity boxes while dressed as a woman , and locals dubbed him a one-man crime wave .
+his earned his moniker in the 1990s after he was arrested 80 times in 1995 and 45 times during the 36 weeks he managed to stay out of prison in 1998 .
+mckerry ( pictured aged 15 ) was dubbed ` boomerang boy ' in the 1990s because he always returned home after his crimes
+mr dhillon said mckerry was waving the axe around when he jumped on him and wrestled him to the floor
+
+#reference: 
+an axe-wielding robber has been jailed for attempting to rob a corner shop .  but he failed after he was held and hit with a baseball bat by shopkeepers .  he was later revealed to be a juvenile offender nicknamed boomerang boy .  shaun andrew mckerry , 31 , had been arrested 80 times by the age of 15 . 
+
+#decode: 
+boomerang boy or homing pigeon boy burst into shildon post office and stores , county durham , at 8pm on march 15 .  masked 31-year-old waved an axe as he demanded cash from terrified assistant andrea brighty , but did not see owner sab dhillon 's rugby tackle .  mr dhillon 's wife sam helped to make him drop the weapon . 

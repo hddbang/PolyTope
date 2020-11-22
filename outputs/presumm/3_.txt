@@ -1,0 +1,53 @@
+index: 5213
+
+
+hash: 1405c3bd23f11bc92f120c9d295364fa1e961ee6
+
+
+#article: 
+( cnn ) an oklahoma reserve sheriff 's deputy accused of fatally shooting a man he says he meant to subdue with a taser pleaded not guilty tuesday to a charge of second-degree manslaughter .
+at the hearing , the judge granted robert bates permission to go to the bahamas for a family vacation .
+that decision prompted a response from the family of eric harris , the man bates killed .
+
+
+" we are not surprised that mr. bates pled not guilty .
+we are , however , surprised that mr. bates would choose to go on a vacation to the bahamas during this tumultuous time .
+whether intended or not , mr. bates ' vacationing in the bahamas at this time sends a message of apathy with respect to the shooting and eric 's life .
+at a time when we are still mourning the death of a loved one that he shot down in the street , mr. bates will be relaxing and enjoying his wealth and privilege . "
+bates ' preliminary hearing is scheduled for 10 a.m. july 2 .
+" this will give us an opportunity to deal with the facts in the courtroom instead of the media and we 're looking very much forward to that , " said clark brewster , one of his lawyers , after the hearing .
+
+
+bates , 73 , was working as a reserve deputy for the tulsa county sheriff 's office on april 2 when he was involved the arrest of eric harris in a weapons sting operation .
+bates claims he meant to stun harris with a taser after harris fled from officers , but mistakenly shot harris with a gun instead .
+bates has said the shooting was accidental .
+he has apologized to the harris family , as has sheriff stanley glanz .
+
+
+the lawyer for the family of the man who was killed claims that bates was n't qualified to be on the force , but received preferential treatment because he 'd made donations to the agency and was a friend of the sheriff .
+the tulsa world newspaper reported some supervisors in the tulsa county sheriff 's office were told to forge bates ' records and were reassigned when they refused .
+the tulsa county sheriff 's office has denied these allegations .
+over the weekend , one of bates ' lawyers released most of his training documents and said they prove bates had proper law enforcement training .
+two deputies involved in arrest of harris have been reassigned because of threats against them and their families , glanz said monday in a news conference .
+lawyer releases training records for tulsa deputy charged in killing
+cnn 's jason morris and ed lavandera contributed to this report .
+
+#reference: 
+robert bates said he meant to subdue a suspect with a taser but accidentally shot him
+the preliminary hearing is scheduled for july 2
+the judge said bates was free to travel to the bahamas for a family vacation
+
+
+
+#extractive: 
+( cnn ) an oklahoma reserve sheriff 's deputy accused of fatally shooting a man he says he meant to subdue with a taser pleaded not guilty tuesday to a charge of second-degree manslaughter .
+at the hearing , the judge granted robert bates permission to go to the bahamas for a family vacation .
+bates , 73 , was working as a reserve deputy for the tulsa county sheriff 's office on april 2 when he was involved the arrest of eric harris in a weapons sting operation .
+
+
+
+#extractive+abstractive: 
+robert bates pleads not guilty to charge of second-degree manslaughter
+bates says he meant to stun eric harris with a taser after harris fled from officers , but mistakenly shot him with a gun
+the tulsa county sheriff 's office denies these allegations
+

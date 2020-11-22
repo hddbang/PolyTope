@@ -1,0 +1,28 @@
+index: 4131
+
+
+hash: b1f23bd961484edaa46eafe48b1fcc3f4bf02a4e
+
+
+#article: 
+veteran actor robert hardy is selling his enormous collection of antiques in a £100,000 auction after deciding to downsize his home . the star , known for appearing in all creatures great and small and playing winston churchill several times , is auctioning off more than 200 items he has collected over his career . mr hardy , 89 , is a keen military historian who studied english with j.r.r . tolkien and is now an expert on the medieval longbow . sale : actor robert hardy is selling off his collection of antiques including a diorama of the battle of agincourt . cabinets : a pair of early victorian items of furniture made by gillows of lancaster which are set to fetch up to £4,000 at the auction on saturday . portrait : a painting of mr hardy holding a longbow , reflecting his interest in medieval history . one of the most unusual items featured in the auction of his possessions is a hand-painted limewood diorama depicted the progress of the battle of agincourt in 3d . the piece was created by artist l.m . rendall in the 1960s after being commissioned by mr hardy himself , and has an estimate of £4,000 to £6,000 . there is also a longbow made from yew with a mother-of-pearl handle , as well as a portrait of mr hardy holding the bow , which is set to sell for up to £2,000 . the actor is also selling paintings , furniture , swords , flintlock rifles , silverware and a fine collection of crystal chandeliers . diorama : the 3d model was commissioned specially by mr hardy from artist l.m . rendall in the 1960s . close-up : the piece was rendered in amazing detail showing the progress of the battle in 1415 . luxurious : a view of many of the items of furniture and other antiques which are being sold . dozens of books , some dating back to the 17th century , are included in the auction which is set to take place this saturday . a total of 238 lots are being sold by dominic winter auctioneers at its saleroom in south cerney , gloucestershire . mr hardy , who lives in the cotswolds , said that he was sad to sell his collection . ' downsizing and losing a great part of a treasured library makes for sadness , ' he said . ' entrusting it all to dominic winter and co has taken away much of the pain , and through them i wish anyone who comes to possess anything that was mine as much joy and pleasure as it has given me through the years . ' historical : an early 20th-century painting of alfred the great rebuilding london , by frank owen salisbury . auction : the objects are being sold at dominic winter in gloucestershire on saturday . pride : mr hardy pictured in 2012 with the longbow and other objects from his collection . he has built up the haul of antiques thanks to his interest in classic literature and military history . mr hardy was taught by tolkien and c.s . lewis when he studied english at magdalen college , oxford , and he has published two books on the history of the longbow . he was also consulted as an expert during the raising of the tudor shipwreck the mary rose . mr hardy , a close friend of richard burton , worked with top actors including laurence olivier , john gielgud and judi dench during his early days as a shakespearean specialist . he found national fame playing vet siegfried farnon in all creatures great and small , the hit bbc drama which aired between 1978 and 1990 and also starred lynda bellingham . star : mr hardy , left , is known for his role as vet siegriein the bbc 's all creatures great and small . role : he has frequently played winston churchill in a series of television dramas . new generation : mr hardy appeared as minister for magic cornelius fudge in the harry potter films . the actor is well known for portraying winston churchill in a number of television performances , and has also played churchill 's fellow second world war leader franklin d. roosevelt . more recently , he introduced himself to a younger generation of viewers with an appearance in the harry potter films , where he played cornelius fudge , the minister for magic . mr hardy was forced to retire from stage acting two years ago , when he suffered a fall while playing churchill again in the audience , a west end play about the queen which starred helen mirren . however , he has insisted that he will continue to do television work despite his advanced age .
+
+#reference: 
+robert hardy , 89 , is a military enthusiast who studied english literature under j.r.r . tolkien .
+he is selling off a huge collection of books , artwork and furniture .
+among the objects which have gone up for auction are a huge 3d diorama of the battle of agincourt .
+
+#baseline: 
+actor robert hardy is selling his prized collection of antiques .
+he is selling his collection of antiques including a UNK of the battle of UNK .
+he is selling his collection of antiques including a UNK of the battle .
+
+#pointer-generator: 
+robert hardy , 89 , is a keen military historian who studied english with j.r.r .
+the star , known for appearing in all creatures great and small and playing winston churchill several times , is auctioning off more than 200 items .
+mr hardy is a keen military historian who studied english with j.r.r .
+
+#pointer-gen-coverage: 
+robert hardy is selling off his collection of antiques including a diorama of the battle of agincourt .
+the star , known for appearing in all creatures great and playing winston churchill several times , is auctioning off more than 200 items he has collected over his career .
+tolkien and is now an expert on the longbow .

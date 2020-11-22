@@ -1,0 +1,47 @@
+index: 2770
+
+
+hash: fbc36fefe7ef363b84a11f9fa3257ec3395486b9
+
+
+#article: 
+manuel pellegrini has admitted he is disappointed in yaya toure but vowed to back the manchester city midfielder -- at least until the end of the season .
+sportsmail revealed city would listen to offers for the ivorian as they look to overhaul an ageing squad at the end of a faltering campaign .
+toure is determined not to be forced out but the chilean , speaking ahead of sunday 's visit of west ham , acknowledged the midfielder had underperformed and dismissed claims he should be given a rest .
+manchester city midfielder yaya toure has come in for criticism for his performances this season
+manuel pellegrini has admitted he has been disappointed by the ivory coast midfielder 's level
+` i do n't think he 's happy with his performance this year -- and nor am i , ' said pellegrini .
+` he does n't need a break . '
+toure , who has two years left on a £ 220,000-a-week deal , has come in for criticism amid the collapse of city 's premier league defence .
+but pellegrini , who faces questions over his own future , said the 31-year-old would be backed .
+` he 's a very important player and he will have my support until the end of the season , ' he said .
+city , who have taken just 18 points from the last available 39 , take on sam allardyce 's side knowing that defeat will leave fifth-placed liverpool with the chance to close the gap to one point with victory at west brom next weekend .
+city will also face the hammers without captain vincent kompany , who could miss the rest of the campaign with a muscle injury .
+with his manager in the firing line , city goalkeeper joe hart insisted the players should take responsibility .
+` people have been disappointed in their own performances , ' said the england no 1 .
+` we 've let the manager down a few times and we 've baffled ourselves because we feel like we 've got the quality to beat anyone and that 's not been the case . '
+city boss pellegrini has vowed to support toure until at least the end of the season
+sportsmail revealed that manchester city will listen to offers for toure in the summer
+hart added that pellegrini retained the backing of the dressing room .
+` he 's been great , ' hart said .
+` he 's hard , he kind of says it how it is and you ca n't ask for much more than that from a manager . '
+pellegrini , however , said : ` the players have responsibility but i choose the players . '
+meanwhile sam allardyce has warned aaron cresswell not to make the same mistake as others amid interest from chelsea and manchester city .
+manchester city want to sign west ham left back aaron cresswell in the summer
+sam allardyce has warned cresswell not to make same mistake as other english players by moving to city
+allardyce believes the 25-year-old is an attractive prospect after a fine season at west ham and because he can help clubs fill homegrown player quotas .
+` jack rodwell and scott sinclair spent time at city but did not play a great deal , ' allardyce wrote in his evening standard column .
+` the decision for a player like sinclair is would he be willing to join another club in a permanent deal if it meant less money ? '
+
+#reference: 
+sportsmail revealed manchester city would listen to offers for yaya toure
+manuel pellegrini admitted he was not happy about toure 's performances
+but the city boss has vowed to support him until the end of the season
+manchester city face west ham at upton park on sunday
+sam allardyce has warned aaron cresswell about joining manchester city
+
+
+#decode: 
+manuel pellegrini has admitted he is disappointed in yaya toure but vowed to back the manchester city midfielder -- at least until the end of the season .
+manuel pellegrini has admitted he has been disappointed by the ivory coast midfielder 's level
+city boss pellegrini has vowed to support toure until at least the end of the season

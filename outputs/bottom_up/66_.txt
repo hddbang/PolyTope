@@ -1,0 +1,51 @@
+index: 7539
+
+
+hash: 3319b6c88181b08026a45d9c1755e0958ff53bc6
+
+
+#article: 
+it was good while it lasted .
+starbucks announced late friday night that a computer outage that affected registers at 8,000 stores in the us and canada , prompting baristas to give away free drinks , has now been resolved .
+the global coffeehouse chain said in an update on its site that stores are expected to open for ` business as usual ' saturday .
+the company said earlier the outage affected 7,000 stores in the us and 1,000 in canada .
+it did not explain exactly what caused the outage , which began in the early evening on the east coast and in the late afternoon on the west coast .
+no coffee here : a starbucks store closes friday in phoenix because of computer issues .
+starbucks says a sales register computer glitch has disrupted sales at company-operated stores in the us and canada
+a nationwide shutdown of starbucks ' computer system friday evening prompted baristas to give away free coffee
+excited twitter users spread the word about the giveaway , sharing photos of the free-of-charge drinks
+happy customer : user joshua decker praised the fine service at a starbucks store in redmond , washington while posing with his free beverages
+store no. 1 : there were plenty of satisfied customers at starbucks ' first-ever store in seattle
+the company offered free drinks and baked goods to customers before saying stores that had not already closed for the evening friday were closing early .
+earlier in the day , a young barrista named jaleel working at a starbucks coffeehouse on 8th street in manhattan told daily mail their system went down at around 7.30 pm .
+the computer glitch prevented staff from accepting credit cards or ringing up sales , but starbucks workers at the east village location were still accepting cash .
+some people who were standing in line at around 8.30 pm had their wallets in hand .
+at one point , jaleel walked up to a middle-age man waiting to get his coffee and let him know that their system was down and they were unable to take credit cards .
+in response , the customer flashed several folded banknotes .
+starbucks released a statement on its website saying the company is aware of the point-of-sale register outage in the us and canada .
+greed is good : this giddy starbucks patron took full advantage of friday 's one-of-a-kind giveaway
+get it while it 's free : for some fans of the popular coffeehouse chain , the joy proved short-lived .
+according to twitter users , many starbucks locations around the country closed their doors so as not to give away free products during the shutdown
+` we are actively working to resolve the outage and our stores will remain open and continue to serve our customers , ' the statement read .
+` the outage was caused by a failure during a daily system refresh .
+we apologize to our customers for any inconvenience or confusion and will update this statement once systems are back online .
+this outage also affects our evolution fresh and teavana stores . '
+twitter immediately lit up with messages from giddy starbucks customers spreading the word about the impromptu coffee giveaway and sharing photos of their free-of-charge frappuccinos , venti mochas and soy lattes .
+` got myself a breakfast sandwich & iced tea at #starbucks for free just now to be fair , i did pay for a drink earlier this afternoon , ' boasted user karen chu , from los angeles .
+another la resident by the moniker @octopuscandy bragged : ` starbucks systems are down so i got my drink for free .
+seems like all starbucks are doing this .
+be sure to tip the barista ! '
+twitter user iamgrant quipped : ` who wants to go to starbucks with me tonight ?
+but for some fans of the popular coffeehouse chain , the joy proved short-lived .
+fans of the global coffeehouse chain expressed their gratitude for friday 's freebies on social media
+seattle tv reporter alison morrow took this photo of a throng of tourists swarming the pike place starbucks location
+according to reports from around the country , many starbucks locations in places like florida , tennessee and arizona closed their doors so as not to give away free products during the shutdown .
+the potentially costly tech snafu comes just one day after the seattle-based global coffeehouse chain , which had 21,366 locations in 65 countries last year , posted record quarterly earnings with net revenues of $ 4.6 billion .
+on friday , starbucks shares gained 4.4 pe rcent to $ 51.50 following the impressive quarterly results .
+good news , bad news : the tech snafu comes just one day after the seattle-based global coffeehouse chain , led by ceo howard schultz ( pictured ) , posted record quarterly earnings with net revenues of $ 4.6 billion
+
+#reference: 
+point-of-sale shutdown is effecting 8,000 starbucks locations in us and canada .  company said in statement glitch was caused by a failure during a daily system refresh .  glitch also affected starbucks ' evolution fresh and teavana stores .  many starbucks locations closed their doors so as not to give away free drinks .  coffeehouse chain said in update on its site stores are expected to open for ` business as usual ' saturday . 
+
+#decode: 
+the global coffeehouse chain said in an update on its site that stores are expected to open for ` business as usual '  starbucks says a sales register computer glitch has disrupted sales at company-operated stores in the us and canada .  it did not explain exactly what caused the outage , which began in the early evening on the east coast and in the late afternoon .  the company offered free drinks and baked goods to customers at starbucks ' first-ever store in seattle . 

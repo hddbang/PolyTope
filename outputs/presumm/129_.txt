@@ -1,0 +1,38 @@
+index: 8342
+
+
+hash: 599bf6f13bc8477d50aa7599baf53123a6e57708
+
+
+#article: 
+hong kong ( cnn ) six people were hurt after an explosion at a controversial chemical plant in china 's southeastern fujian province sparked a huge fire , provincial authorities told state media .
+the plant , located in zhangzhou city , produces paraxylene ( px ) , a reportedly carcinogenic chemical used in the production of polyester films and fabrics .
+the blast occurred at an oil storage facility monday night after an oil leak , though local media has not reported any toxic chemical spill .
+five out of six people were injured by broken glass and have been sent to the hospital for treatment , xinhua news agency reported .
+more than 600 firefighters were sent to battle the blaze and the fire is now under control , the zhangzhou fire department wrote on their official microblogging account tuesday morning .
+residents living close to the plant had heard the explosion and took to weibo to post photos of the fire .
+one user wrote that he heard a loud blast and felt slight tremors .
+the plant was hit by another explosion in july 2013 , although there were no reports of casualties or toxic leaks at the time .
+though demonstrations are illegal in china , the construction of px plants has sparked protests , which have occasionally turned violent , in several cities in recent years .
+the zhangzhou plant was slated for xiamen -- a densely populated city in the southeast of the country .
+however , it provoked an angry backlash in 2007 due to pollution concerns and prompted the local government to relocate the factory to its current , more remote location .
+
+#reference: 
+a blast rocks a chemical plant in china 's southeastern fujian province for the second time in two years
+six were injured after the explosion and are being hospitalized
+the explosion was triggered by an oil leak , though local media has not reported any toxic chemical spills
+
+
+
+#extractive: 
+hong kong ( cnn ) six people were hurt after an explosion at a controversial chemical plant in china 's southeastern fujian province sparked a huge fire , provincial authorities told state media .
+the plant , located in zhangzhou city , produces paraxylene ( px ) , a reportedly carcinogenic chemical used in the production of polyester films and fabrics .
+the blast occurred at an oil storage facility monday night after an oil leak , though local media has not reported any toxic chemical spill .
+
+
+
+#extractive+abstractive: 
+an explosion at a controversial chemical plant in china 's fujian province sparked a huge fire
+the plant produces paraxylene ( px ) , a carcinogenic chemical used in the production of polyester films and fabrics
+five out of six people were injured by broken glass and have been sent to the hospital for treatment
+

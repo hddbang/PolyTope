@@ -1,0 +1,48 @@
+index: 7895
+
+
+hash: 627b10527ee809c796f006bcfc8b604126ca79f9
+
+
+#article: 
+floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
+here , sportsmail takes a look at the two men 's achievements , in and out of the ring , ahead of their $ 300m mega-fight on may 2
+wbc super-featherweight , wbc lightweight , wbc light-welterweight , ibf welterweight , wbc welterweight , wbc light-middleweight , wba light-middleweight
+$ 440 million ( £ 295m )
+mayweather does not earn any money from endorsements , although companies such as at&t and corona have sponsored his fights .
+since leaving top rank in 2006 , mayweather has looked after his own interests and negotiated a 60-40 split in his favour for his fight against pacquiao .
+be it private jets , million-pound super cars or expensive jewellery , mayweather is not afraid to show off his spending habits on social media .
+he switched his ring moniker from pretty boy to money .
+outside the ring , mayweather focuses on his business interests and has invested large sums of money in real estate .
+it is predicted he will retire with as much as $ 100m ( £ 67m ) in the bank .
+mayweather has been dating doralie medina since last year .
+she has worked for his company since being recruited as a massage therapist in 2011 .
+mayweather is currently trained by his uncle roger ( above ) and his father floyd snr .
+mayweather counts justin bieber ( above ) and lil wayne among his celebrity fans .
+wbc flyweight , ibf super-bantamweight , ibf featherweight , wbc super-featherweight , wbc lightweight , wbo welterweight , wbc light-middleweight
+oscar de la hoya - dec 2008
+$ 340 million ( £ 228m )
+$ 5 million ( £ 3.4 m ) , including nike and nestle
+pacquiao purchased a mansion in beverly hills as a retreat during his training camp but is not one to flash his money .
+instead , he helps various charities through the official manny pacquiao foundation
+pacquiao is a politician in the philippines having been elected as a congressman in 2010 .
+he has ambitions to become his country 's president .
+he is also deeply religious and has released several albums and starred in a number of films .
+pacquiao also owns a basketball team and played several games in their debut season this year .
+pacquiao has been married to jinkeee for 15 years and has five children : michael , israel , emmanuel , princess and queen elizabeth
+pacquiao has been trained by freddie roach since 2001 .
+pacquiao is promoted by bob arum 's top rank company .
+actor mark wahlberg is a big fan of pacquiao .
+
+#reference: 
+floyd mayweather takes on manny pacquiao in las vegas on may 2
+the two men will split a $ 300m purse , with mayweather taking 60 per cent
+the fight has been five years in the making and was agreed in february
+it pits the two pound-for-pound boxers in the world against each other
+mayweather-pacquiao is 11 days away ... why are there no tickets on sale ?
+
+
+#decode: 
+floyd mayweather and manny pacquiao are less than two weeks away from playing their part in the richest fight in boxing history .
+since leaving top rank in 2006 , mayweather has looked after his own interests and negotiated a 60-40 split in his favour for his fight against pacquiao .
+it is predicted he will retire with as much as $ 100m ( £ 67m ) in the bank .

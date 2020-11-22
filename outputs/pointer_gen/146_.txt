@@ -1,0 +1,29 @@
+index: 7190
+
+
+hash: 0bb1f7f0f98331540f54f28416feff3ca5f259fb
+
+
+#article: 
+a woman was arrested in china after apparently dumping her newborn baby in a rubbish bin in a fast-food restaurant . staff heard the baby girl crying in the ladies ' toilet of a burger bar in chengdu , sichuan province , reports people 's daily online . workers who found the baby , who was wrapped in a shirt but was still attached to the umbilical cord and placenta , called the police and ambulance . a baby girl was found in the bin inside the ladies ' toilet at a chinese burger bar . a woman who had been seen visiting the toilet was established to be the mother and was arrested . staff at the restaurant said they saw the woman going into the toilet and noticed that she 'd stayed there for a long time . after she came out , she went back to her seat , sitting there without speaking a word . ' after we discovered the baby girl , we checked the cctv footage , we found this woman likely to be the mother of the baby , so we called the ambulance as well as the police , ' one worker said . the woman , yuan yen , 34 , was found to have blood on her when she was approached . she refused to look at her baby or talk to police , who discovered her identity by looking through her purse . workers at the restaurant said yuan yen had returned to her table and sat ' in a trance ' . she was arrested after receiving medical attention and faces charges of neglect . police insisted she have emergency treatment and took her to the same hospital as her daughter , where she refused to see doctors . a worker at the fast food outlet said : ' the mother was in shock herself and was just sitting there in a trance . ' there was blood all over her shirt and she had her head bowed in shame . i think she was just traumatised . ' cops tried to locate her relatives but were unable to contact anybody as her phone had no credit and she had no local addresses on her . she was later transferred to the police station where she is facing charges of neglect . the infant , weighing 2.6kg ( 5.7lb ) , was declared to be healthy after being checked over by doctors .   
+
+#reference: 
+staff at restaurant in chengdu heard crying and found a newborn baby .
+the tot still had the umbilical cord and placenta attached but was otherwise fine .
+woman who had been in toilet returned to her table ' like she was in trance ' .
+she was arrested after cctv showed her visiting the restroom .
+
+#baseline: 
+the baby girl was found in a toilet in a restaurant in chengdu , china .
+staff at the restaurant said they saw the woman going into the toilet .
+she was arrested after receiving medical attention and faces charges of neglect .
+
+#pointer-generator: 
+a woman was arrested in china after apparently dumping her baby in a rubbish bin .
+workers who found the baby , who was wrapped in a shirt but was still attached to the umbilical cord and placenta .
+workers at the restaurant said they saw the woman going into the toilet and noticed that she 'd stayed there for a long time .
+
+#pointer-gen-coverage: 
+staff heard the baby crying in the ladies ' toilet at a chinese burger bar .
+workers who found the baby , who was wrapped in a shirt , was still attached to the umbilical cord and placenta .
+she was arrested after receiving medical attention and faces charges of neglect .

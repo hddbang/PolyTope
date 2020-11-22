@@ -1,0 +1,34 @@
+index: 5476
+
+
+hash: 5d0dcb9a68e584e66dd8a555a38b30081de5c63f
+
+
+#article: 
+( cnn ) bobbi kristina brown , the daughter of bobby brown and whitney houston , has " global and irreversible brain damage , " according to her grandmother .
+though the 22-year-old is no longer in a medically induced coma , she remains unresponsive , cissy houston said in a statement monday after visiting her granddaughter .
+" meeting with the doctors and understanding that she can live in this condition for a lifetime truly saddens me , " houston said .
+" we can only trust in god for a miracle at this time . "
+houston 's statement matched that from a source with knowledge of brown 's condition , who told cnn on monday that she remained in the same neurological state she has been in for nearly three months .
+she does not respond to visitors or familiar voices , and her eyes do not follow a person around the room , the source told cnn .
+she also has a tracheostomy in her throat , the source said .
+the reports come two days after brown 's father , bobby brown , said his daughter 's condition had improved .
+" i can say today , bobbi is awake .
+she 's watching me , " brown told the audience at dallas ' verizon theatre .
+in a statement monday , an attorney for the brown family said that bobbi kristina brown 's condition has improved but that the kind of life she will lead remains to be seen .
+" doctors have indicated that she will have a long life , " attorney christopher brown said .
+" however , bobbi kristina is presently embarking on a rehabilitation process , and the quality of her life will not be known for years to come . "
+who 's who in the bobbi kristina brown case ?
+bobby brown was in an " emotional state " on stage when he made the remarks about his daughter being awake , according to the statement .
+" she has made it out of icu , opened her eyes and started a rehabilitation that will be long and hard , " said bobby brown 's wife , alicia etheredge-brown .
+
+#reference: 
+bobbi kristina brown has " global and irreversible " brain damage , her grandmother says
+" we can only trust in god for a miracle at this time , " cissy houston says
+bobby brown , her father , had said at a concert that she was " awake "
+
+
+#decode: 
+( cnn ) bobbi kristina brown , the daughter of bobby brown and whitney houston , has " global and irreversible brain damage , " according to her grandmother .
+houston 's statement matched that from a source with knowledge of brown 's condition , who told cnn on monday that she remained in the same neurological state she has been in for nearly three months .
+in a statement monday , an attorney for the brown family said that bobbi kristina brown 's condition has improved but that the kind of life she will lead remains to be seen .

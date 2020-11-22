@@ -1,0 +1,34 @@
+index: 2638
+
+
+hash: 2e4a2ba2e44cfa422a7f3f65cc5c30916944a361
+
+
+#article: 
+an off-duty secret service agent was arrested this morning in washington d.c. after allegedly attempting to break into a house at midnight .
+agent arthur baldwin was taken into custody at 12:30 am on friday on a residential street in south-eastern d.c. by the metropolitan police .
+he has been hit with a felony charge of attempted burglary and another of destruction of property .
+residential : baldwin was arrested here , on the 3200 block of d street se , not long after midnight friday
+the metropolitan police department told dailymail.com that baldwin was arrested by officers returning to the scene of the alleged crime , on the 3200 block of d street se .
+the agency revoked baldwin 's security clearance and put him on leave in light of the arrest .
+he was posted with the foreign missions branch of the service , which works with
+the agency revoked his security clearance and put baldwin on leave when the arrest emerged .
+agent baldwin is posted to the foreign missions branch , which is attached to the state department and deals with the united states ' diplomatic activities .
+court records show baldwin was to be arraigned friday afternoon .
+the records do not list an attorney for baldwin and a telephone number could not be located .
+baldwin 's arrest comes two days after a high-ranking supervisor was also put on leave after he was accused of misconduct in a case that is also being investigated by police .
+the homeland security department 's inspector general is investigating the allegations of misconduct by the supervisor .
+baldwin 's arrest and the earlier allegation of misconduct are the latest black eyes for the agency responsible for protecting the president and his family .
+the inspector general is already investigating a march 4 incident in which two high-ranking agency officials are accused of driving into a secure area at the white house after a night of drinking .
+
+#reference: 
+agent arthur baldwin arrested in south-east washington at 12:30 am friday
+charged with a felony charge of first-degree attempted burglary
+agent baldwin , posted to foreign missions branch , was placed on leave
+secret service bosses also suspended his security clearance
+
+
+#decode: 
+agent arthur baldwin was taken into custody at 12:30 am on friday on a residential street in south-eastern d.c. by the metropolitan police .
+he has been hit with a felony charge of attempted burglary and another of destruction of property .
+the agency revoked baldwin 's security clearance and put him on leave in light of the arrest .

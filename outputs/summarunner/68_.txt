@@ -1,0 +1,33 @@
+index: 9740
+
+
+hash: 316493557aaa8fa9204133dd6fbf3b10cb1aa394
+
+
+#article: 
+doctors are putting the health of women and their babies at risk by performing caesarean sections too readily , un officials warn
+doctors are putting the health of women and their babies at risk by performing caesarean sections too readily , un officials warn .
+they say the procedure should only be carried out when ` medically necessary ' because it can lead to infections and even death .
+just over a quarter of women giving birth in england now have a caesarean and the rate has more than doubled since the early 1990s .
+this includes a growing number of women opting to have planned caesareans because they are very anxious about giving birth naturally .
+but last night experts from the world health organisation , the un 's public health agency , said this figure should ideally be between just 10 per cent and 15 per cent , due to the dangers and costs involved .
+in a statement , they said : ` although it can save lives , caesarean section is often performed without medical need , putting women and their babies at risk of short - and long-term health problems . '
+they added that the procedure can lead to ` significant complications , disability or death ' and diverts precious money away from the needs of other patients .
+a planned caesarean costs the nhs an average of £ 2,369 , compared to a natural birth at £ 1,665 .
+the who statement sharply contradicts current nhs guidelines , which say the procedure should be offered to women even when there is no medical justification .
+the watchdog nice issued revised recommendations in 2011 allowing women to have the operation if they were very anxious about childbirth , a condition known as tokophobia .
+just over a quarter of women giving birth in england now have a caesarean and the rate has more than doubled since the early 1990s
+women are also advised to have planned caesareans if they have had a previous complicated birth , are over 40 or have a medical condition such as asthma , diabetes or depression .
+but the who said that doctors were carrying them out too often , and underestimating the risks .
+previous research has found that as many as one in ten caesareans cause infections .
+
+#reference: 
+un officials say procedure should only be done when ` medically necessary '
+over a quarter of women in england now have a a caesarean birth
+the rate , which includes voluntary mothers , has doubled since early 1990s
+
+
+#decode: 
+they say the procedure should only be carried out when ` medically necessary ' because it can lead to infections and even death .
+just over a quarter of women giving birth in england now have a caesarean and the rate has more than doubled since the early 1990s .
+just over a quarter of women giving birth in england now have a caesarean and the rate has more than doubled since the early 1990s

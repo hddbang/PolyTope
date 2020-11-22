@@ -1,0 +1,31 @@
+index: 7915
+
+
+hash: b45921d582facd006e0610fa872767b30fbb3b5c
+
+
+#article: 
+a taxi driver has been ordered to pay compensation to a passenger who was left with severe brain injuries after he jumped out of the moving car . kristopher hicks , now 27 , was on his way home from a night out in bath , somerset , with his girlfriend in a taxi driven by michael young , 56 , five years ago . mr young , a former soldier , had mistakenly believed mr hicks was planning to ' do a runner ' and decided to drive him back to the rank in a bid to teach him a lesson . but when mr hicks objected , the driver continued on for almost a mile , leading him to jump from the vehicle while it was travelling at more than 20mph . he suffered devastating brain injuries , developed epilepsy and now requires round-the-clock care from his mother . mr hicks ' family , from bath , took driver mr young to the high court ( pictured ) , where a judge ruled he had unlawfully imprisoned his passenger . mr hicks ' family , from bath , took mr young to the high court . there , mr justice edis ruled the driver had unlawfully imprisoned mr hicks , who was therefore entitled to damages . the exact amount of compensation is yet to be decided - but is set to be around 50 per cent of what the family had requested and thought to be ' hundreds of thousands of pounds ' . speaking on behalf of the family , lawyer james davies said : ' this was a terrible incident in which kristopher suffered a very severe brain injury leaving him needing care for the rest of his life . ' the latest judgement agrees that kristopher is entitled to a settlement to provide specialist rehabilitation and care which will help maximise his progress . ' mr hicks , who was 23 at the time of the incident , had gotten into the taxi with his girlfriend abigail noad at orange grove taxi rank in bath to his home in the foxhill area , according to high court documents . in a police interview , mr young said he had become suspicious after hearing ms noad joke that the couple were not going to ' do a runner ' . deciding the issue of liability , the judge said mr young mistakenly decided mr hicks was not going to pay the fare on november 2 in 2010 , adding there was no basis for him to think so . the driver had decided to take mr hicks back to the rank to cause him as much inconvenience as possible . mr hicks , who found himself being unlawfully driven off by a stranger into the night , decided he should try to escape . mr justice edis said : ' the end result is that the claimant decided to jump out of the taxi at a dangerous speed . i do not know why he did this . ' it may have been that he misjudged the speed and thought it was safe to do so , but the true motive will never be known . ' he said had mr hicks jumped out when it was stationary at lights there would be no permanent damage . mr hicks had gotten into the taxi at the orange grove rank in bath ( pictured ) in 2010 with his girlfriend . ' i have broadly accepted the evidence of the defendant and therefore find that his intention was not to do anything other than to return him to the rank where he would be released , ' he added . ' this is the kind of conduct which creates a significant risk to life and limb as this case demonstrates . ' the judge said it was a ' stark and unattractive choice ' to decide between the two - and concluded there should be a 50 per cent reduction in the damages payable to mr hicks . he was also entitled to a further £250 for unlawful imprisonment . lawyers representing mr hicks said the incident left him with ' devastating ' brain injuries and he is now being cared for by his mother gill . speaking at the time the claim was lodged with the high court , james davies , said : ' whilst he has undergone extensive treatment and rehabilitation , he has developed post-traumatic epilepsy , headaches , fatigue , suffers social and behavioural problems and has no sense of taste or smell . ' he is reliant on 24-hour care from his mum and is unable to work . ' both sides were given permission to appeal and a further hearing will determine the amount which mr young will have to pay . 
+
+#reference: 
+driver michael young , 56 , thought passenger was planning to ' do a runner ' .
+so he decided to take passenger kristopher hicks him back to the taxi rank .
+mr hicks jumped out , sustaining head injuries , and now needs 24-hour care .
+judge rules mr hicks was unlawfully imprisoned and will now get damages .
+
+#baseline: 
+UNK hicks , now 27 , was on his way home from a night out in bath .
+he suffered severe brain injury and is now required round-the-clock care .
+he suffered brain injury and needs round-the-clock care from his mother .
+
+#pointer-generator: 
+kristopher hicks , 27 , was on his way home from a night out in bath , somerset .
+he suffered devastating brain injuries , developed epilepsy and now requires round-the-clock care from his mother .
+mr young , a former soldier , had mistakenly believed mr hicks was planning to ' do a runner ' .
+he suffered devastating brain injuries , developed epilepsy and now requires round-the-clock care from his mother .
+mr hicks ' family , from bath , took mr young to the high court .
+
+#pointer-gen-coverage: 
+kristopher hicks , now 27 , was on his way home from a night out in bath , somerset , with his girlfriend in a taxi driven by michael young , 56 , five years ago .
+mr young , a former soldier , had mistakenly believed mr hicks was planning to ' do a runner ' and decided to drive him back to the rank in a bid to teach him a lesson .
+but when mr hicks objected , the driver continued on for almost a mile , leading him to jump from the vehicle while it was travelling at more than 20mph .

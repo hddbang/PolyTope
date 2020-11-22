@@ -1,0 +1,32 @@
+index: 2530
+
+
+hash: 98c659ed98e4710ac601270c36ecc8f509d63045
+
+
+#article: 
+there was no special treatment for lewis ferguson at paul nicholls 's yard on thursday morning .
+the 18-year-old was mucking out the stables as usual , just a cut on the nose to show for the fall which has made him an internet sensation .
+ferguson 's spectacular double somersault fall from the favourite merrion square in the 4.20 pm at wincanton has been watched hundreds of thousands of times online .
+but he was back riding out and is undeterred from getting back in the saddle .
+amateur jockey lee lewis ferguson has just a cut on his nose to show for his ordeal
+teenager ferguson was flung from his horse in spectacular fashion at wincanton
+` it was just a blur , ' he said .
+` i could n't work out what had happened until i got back to the weighing room and watched the replay .
+all the other jockeys asked me if i was all right and stuff , they all watched with me and looked away in horror .
+it 's about the most impressive fall i 've seen .
+` there was nothing i could do to avoid it , you just have to let it take its course and hope it 's not a bad one .
+i 've been very lucky .
+i got a bit of abuse from the lads and picked up a few hundred twitter followers but it 's all good banter .
+` given the somersaults , maybe i 'll look at having a gymnastics career after finishing racing . '
+
+#reference: 
+lewis ferguson was mucking out the stables as usual on thursday
+favourite merrion square threw jockey in a freak fall on wednesday
+his spectacular double somersault fall made him internet sensation
+
+
+#decode: 
+there was no special treatment for lewis ferguson at paul nicholls 's yard on thursday morning .
+amateur jockey lee lewis ferguson has just a cut on his nose to show for his ordeal
+teenager ferguson was flung from his horse in spectacular fashion at wincanton

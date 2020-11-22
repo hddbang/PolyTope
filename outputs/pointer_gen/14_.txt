@@ -1,0 +1,29 @@
+index: 7291
+
+
+hash: b3f8b7e16fda8b8f76d95d6b9cb6917ea42a52c0
+
+
+#article: 
+the us body that regulates internet addresses is looking to crack down on a canadian company using the new '.sucks ' domain name to extract exorbitant sums from celebrities such as kevin spacey and companies looking to protect their reputations . so far , purchased names include youtube.sucks , bing.sucks , visa.sucks , bankofamerica.sucks , yahoo.sucks , telusmobility.sucks and other major brand names . kevin spacey has reportedly paid have his his '.sucks ' domain taken down . kevin spacey is reportedly among celebrities paying out to have their name removed from one of the '.sucks ' domains which opened on 30 march . taylor swift has also had to spend defensively in the past to remove her name from '.porn ' and '.adult ' domains attacking her , cnbc reported . the internet corporation for assigned names and numbers , or ' icann , ' sent a letter on thursday to the u.s. federal trade commission and canada 's office of consumer affairs to see if the actions of company vox populi registry ltd. were illegal . icann initially approved of the so-called top-level domain name , among nearly 600 it has added recently to expand beyond common names such as '.com , ' '.org ' and '.us . ' but it is backtracking after an advisory panel made up of industry groups and companies like microsoft , verizon and ebay complained last month . vox populi began accepting registrations using '.sucks ' on march 30 from trademark holders and celebrities before it is released to public applicants . taylor swift has also had to spend defensively in the past to remove her name from '.porn ' and '.adult ' domains . it has recommended charging $ 2,499 a year for the privilege , and according to vox populi ceo john berard , most of the names have been sold by resellers for around $ 2,000 a year . berard has said the domain name is meant to create destinations for companies to interact with their critics and called his company 's business ' well within the lines of icann rules and the law . ' two weeks ago , the advisory body called the intellectual property constituency representing major companies and industry groups asked icann in a letter to halt the rollout of '.sucks , ' calling it a ' shakedown scheme ' and ' predatory . ' companies like godaddy.com register some domain names for just $ 1 a year , and vox populi will offer consumers the right to secure a '.sucks ' address for just $ 10 a year starting in september . the advisory body says that the threat of opening a '.sucks ' site to the average consumer later is ' an essential element of vox populi 's coercive scheme . ' icann said in its letter that if canadian or u.s. regulators find vox populi 's actions are illegal , it could declare the company in breach of its contract and seek to change the registry 's behavior . it said it is also seeking other remedies within its agreement with the company . the advisory body says that the threat of opening a '.sucks ' site to the average consumer later is ' an essential element of vox populi 's coercive scheme .
+
+#reference: 
+kevin spacey among celebrities who 've paid to get the domains removed .
+youtube , bing , visa , bank of america and yahoo among others targeted .
+us regulator will see if the actions of vox populi registry ltd. were illegal .
+owners recommended to resell '.sucks ' domains for around $ 2,499 a year .
+
+#baseline: 
+kevin spacey is reportedly among celebrities paying out to have their name removed from one of the UNK ' domains which opened on 30 march .
+UNK , UNK , UNK , UNK , UNK , UNK , UNK , UNK , UNK , UNK , UNK .
+
+#pointer-generator: 
+kevin spacey is reportedly among celebrities paying out to have their name removed from one of the '.sucks ' domains which opened on 30 march .
+kevin spacey is reportedly among celebrities paying out to have their name removed from one of the '.sucks ' domains which opened on 30 march .
+taylor swift has also had to spend defensively in the past to remove her name from '.porn ' and '.adult ' domains .
+
+#pointer-gen-coverage: 
+the internet corporation for assigned names and numbers , or ' icann , ' sent a letter on thursday to the u.s. federal trade commission and canada 's office of consumer affairs .
+kevin spacey is reportedly among celebrities paying out to have their name removed from one of the '.sucks ' domains which opened on 30 march .
+taylor swift has also had to spend defensively in the past to remove her name from '.porn ' and '.adult ' domains .
+it has recommended charging $ 2,499 a year for the privilege .

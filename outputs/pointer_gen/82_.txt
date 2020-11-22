@@ -1,0 +1,26 @@
+index: 5080
+
+
+hash: 3958b6ff47a112bb2000a2ef90db19c4fea49b55
+
+
+#article: 
+smartphone use may be to blame for a drop in the number of times couples are having sex each month , a leading expert has suggested . research has revealed that the frequency with which britons are having sex has been in decline since the emergence of the internet . it comes after professor david spiegelhalter , a statistician at cambridge university , revealed in a new book how a typical heterosexual couple was now having sex three times a month . research has revealed that the frequency with which britons are having sex has been in decline since the emergence of the internet ( file picture ) . this was compared to four times a month in 2000 and five times a month in 1990 , according to research published in prof spiegelhalter 's book sex by numbers . according to the daily telegraph he told bbc radio 4 's woman 's hour programme : ' we used to have a very big separation between our public lives and our private lives - now they are so mixed up and integrated . ' people are checking their emails all the time , you do not have the same sort of quiet empty time that there used to be . ' in his book , prof spiegelhalter pointed to a number of possible factors for the decline in sexual activity with one possible explanation being that more people are living on their own . passion killed : people are check their emails ' all the time ' , according to professor david spiegelhalter , a statistician at cambridge university ( file picture ) . but he added : ' a more realistic explanation is that as we’ve become better connected technologically , our lives have become busier with the boundaries eroded between home , work and the outside world . this has squeezed out time we would have spent with our other halves . the statistician quotes catherine mercer , a researcher on the british national survey , as saying : ‘ with an increasing number of competing demands on our time , sex just falls down our list of priorities . ’ she adds that dealing with work emails late in the evening can mean that ‘ come bedtime , we’re just still too connected with everyone and everything out there to be able to focus just on our partner . ’
+
+#reference: 
+typical heterosexual couples in britain are having sex three times a month .
+the figure in 2000 was four times a month and five times a month in 1990 .
+leading statistician says couples are checking their emails ' all the time ' .
+
+#baseline: 
+professor david UNK revealed in new book sex by numbers .
+suggests britons are having sex with a ' very big split ' between public lives .
+suggests britons are having sex has been in decline since emergence of the internet .
+
+#pointer-generator: 
+research has revealed that the frequency with which britons are having sex has been in decline since the emergence of the internet .
+this was compared to four times a month in 2000 and five times a month in 2000 and five times a month in 1990 .
+
+#pointer-gen-coverage: 
+research has revealed that the frequency with britons are having sex has been in decline since the emergence of the internet .
+it comes after professor david spiegelhalter , a statistician at cambridge university , revealed in a new book how a typical heterosexual couple was now having sex three times a month .

@@ -1,0 +1,30 @@
+index: 11143
+
+
+hash: 6e85fc71b06949f9305d646e9a21f32fbc4b0b9d
+
+
+#article: 
+a model who appeared in the video for ricky martin 's hit song la vida loco has told followers she did not try to take her own life and was instead treated in hospital after she collapsed due to ' low blood pressure ' . nina moric , 38 , posted several photographs of heavy bruising on her arms on her instagram account which has more than 40,000 users . italian media reported that ms moric tried to take her own life and was found by her mother in the luxury apartment she shares with her boyfriend in milan . nina moric , pictured , took to instagram to deny claims that she tried to take her own life over the weekend . ms moric , pictured , posted photographs on her instagram account showing her injuries . ms moric told her fans that she was recovering at home after being treated in hospital on saturday night . italian media reported ms moric 's boyfriend luigi mario favoloso suggest : ' yes , it is true . nina has tried to commit suicide . she is a victim of some people that want to do bad by her . ' however , ms moric told her fans that she was well and had no intention to end her own life . she wrote : ' what has been written is reported by newspapers and websites is not entirely correct . she said her boyfriend was in naples at the time of the accident . she explained : ' saturday night i was taken to the hospital due to a domestic accident . i fell banging my head and i hurt everywhere because of low blood pressure . ' ms moric told her fans that she was ' shocked ' by the suicide claims . she added : ' luckily i 'm fine now nothing serious i need only a bit of rest . but now i made a fine breakfast . italian media claimed ms moric had tried to take her own life in 2009 after taking an overdose . the croatian-born model , pictured , claimed she collapsed at home due to ' low blood pressure ' . italian media claimed ms moric , pictured , was found in her apartment by her mother on saturday night . ms moric , pictured , reassured her many fans she only needed some time to recover from her fall . she was once married to famous paparazzi snapper fabrizio corona , 41 , who ended up in jail and the pair have a son together , carlos maria , who was born in 2002 . corona , the ' king ' of italy 's paparazzi , was jailed for blackmailing celebs with compromising photographs . corona 's scoops helped fuel the celebrity tv culture driven by former prime minister silvio berlusconi 's channels and publications . he claimed he never blackmailed celebrities he snapped , merely offering them first option to buy the photos at the rate he would have sold them to publications . but police tapping his phone during an investigation heard him tell his then wife nina : ' yes , it 's true , i ruin lives , i am a piece of s*** and i do n't even feel guilty any more . '
+
+#reference: 
+nina moric , 38 , claims she collapsed at her apartment in milan on saturday .
+she told followers on instagram her fall was due to ' low blood pressure ' .
+italian media claimed the croatian-born model tried to take her own life .
+moric told her 40,000 followers ' i fell banging my head and hurt everwhere ' .
+
+#baseline: 
+nina UNK , 38 , posted several pictures of heavy bruises on her instagram account .
+she was found by her mother in the luxury apartment she shares with her boyfriend in milan .
+ms UNK said she was ' shocked ' by the suicide claims .
+
+#pointer-generator: 
+nina moric , 38 , posted photographs of heavy bruising on her arms on her instagram account which has more than 40,000 users .
+italian media reported that ms moric tried to take her own life and was found by her mother in the luxury apartment she shares with her boyfriend .
+italian media reported ms moric tried to take her own life and was found by her mother in the luxury apartment she shares with her boyfriend .
+ms moric told her fans that she was well and had no intention to end her own life .
+
+#pointer-gen-coverage: 
+nina moric , 38 , posted photographs on her instagram account which has more than 40,000 users .
+italian media reported that ms moric tried to take her own life and was found by her mother in the luxury apartment she shares with her boyfriend in milan .
+ms moric told her fans she was well and had no intention to end her own life .

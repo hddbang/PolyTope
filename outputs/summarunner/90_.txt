@@ -1,0 +1,23 @@
+index: 10164
+
+
+hash: d96dd3d10e1d1b4e349690b70644fd884ea18e35
+
+
+#article: 
+kilmarnock interim manager gary locke has been given the role on a permanent basis after signing a three-year deal .
+the former hearts boss joined the club as assistant boss to allan johnston last summer but took control of the team when his ex-tynecastle team-mate quit at the start of february .
+the 39-year-old - who will speak at a press conference on friday morning - has lost just once in seven games since taking over at rugby park .
+gary locke has been given the job at kilmarnock on a permanent basis after a successful interim spell
+locke shakes hands with chairman jim mann after signing a three-year deal at the club
+
+#reference: 
+gary locke has been interim manager since start of february
+locke has won two and drawn four of his seven games in charge
+the 37-year-old took over when allan johnston quit
+
+
+#decode: 
+kilmarnock interim manager gary locke has been given the role on a permanent basis after signing a three-year deal .
+the 39-year-old - who will speak at a press conference on friday morning - has lost just once in seven games since taking over at rugby park .
+gary locke has been given the job at kilmarnock on a permanent basis after a successful interim spell

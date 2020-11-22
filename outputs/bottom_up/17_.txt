@@ -1,0 +1,54 @@
+index: 10508
+
+
+hash: cd9570de58e27edd519723c6debcfc7f9862925d
+
+
+#article: 
+manchester united manager louis van gaal says he has been dreaming of beating rivals city in sunday 's derby at old trafford but will have to do so without robin van persie .
+van persie said he was fit to feature in the game against city on sunday after ankle trouble but van gaal has ruled him out .
+` most of the players are fit but being fit for me is different , ' van gaal said .
+robin van persie will not return to the fray for manchester united against manchester city on sunday
+louis van gaal explained at his press conference on friday that van persie is not yet fit enough to play
+united players train in the sunshine ahead of their game against local rivals city on sunday
+` robin is not fit enough to play . '
+with city rocking after defeat at crystal palace on monday , van gaal and his players have an opportunity to finish as high as second or third and avoid a champions league qualifying fixture later in the summer .
+the united boss wants his side to move towards that target by taking all three points against city .
+van gaal said : ' i dream of it .
+every player should dream of the victory .
+` of course i want to win because it 's a big step up the table also .
+if we win then third place is available .
+van gaal watches on as he prepares his side for his first manchester derby at old trafford
+manager van gaal ( left ) oversees the training while captain wayne rooney runs with the ball
+goalkeeper david de gea ( left ) , winger angel di maria ( centre ) and radamel falcao were in training action
+rooney leads the way in training as he runs through some cones in the sunshine on friday in manchester
+( left to right ) di maria , juan mata , falcao , marcos rojo and ander herrera prepare to take on city
+` a few months ago , nobody would have thought about that , apart from me .
+` if we win then the position in the table is good as we would then almost certainly be qualified for the top four .
+and if we are third it 's better than the goal we set in pre-season . '
+van gaal acknowledged that city will provide a stern challenge to his team and played down the idea he will be motivated by revenge , after losing the away fixture earlier in the campaign .
+` we have lost 1-0 , that is my history , the last game , ' van gaal said .
+` i say always in such games , always , you have to control your aggression .
+` we did not do that at that time .
+so i hope we have learned from that moment .
+i can not say because we lost that game that we have to win this game .
+` in my opinion , you can lose to man city two times .
+the united boss also ruled out a potential return for luke shaw .
+like van persie , van gaal does not yet consider him fit enough to feature .
+` i do n't think shaw is fit enough to play , ' van gaal said .
+` but i can not say they are not fit , but in my opinion they are not fit to play .
+that is a different question . '
+luke shaw is another player yet to be at the standard of match fitness required by van gaal
+( left to right ) rooney , ashley young , goalkeeper anders lindegaard and michael carrick have a breather
+falcao ( left ) and antonio valencia ( second right ) look in high spirits as they prepare for the derby
+herrera will be hoping to continue the fine form that has seen him become one of united 's key players recently
+van gaal admitted he is looking forward to sampling the derby atmosphere at old trafford , as he takes on city with home advantage for the first time since arriving at the club .
+` when i see the fans of man utd , they are supporting us in a marvellous way , i think , ' van gaal said .
+` after matches , i give our fans a big compliment , not because i have to , because then i would n't say it .
+i say it because i feel it . '
+
+#reference: 
+manchester united face manchester city in the premier league on sunday .  robin van persie said he was fit for united after nearly two months out .  but louis van gaal has since revealed he will be without the striker .  van persie declares himself fit , but do manchester united need him ?  click here for all the latest manchester united news . 
+
+#decode: 
+robin van persie said he was fit to feature in the game against manchester city on sunday after ankle trouble but van gaal has ruled him out .  louis van gaal said van persie is not yet fit enough to play .  united boss van persie will not return to manchester united on sunday . 

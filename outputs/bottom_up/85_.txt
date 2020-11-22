@@ -1,0 +1,20 @@
+index: 8276
+
+
+hash: 8dd468a9231947c12b55ec4eaa30789d1bd353e2
+
+
+#article: 
+west ham are discussing a deal for jamaican starlet deshane beckford after he impressed on trial .
+the skilful 17-year-old forward from montego bay united was invited to train with west ham 's academy earlier this month and has impressed coaches after spending two weeks with the club .
+beckford also has offers from clubs in belgium .
+beckford , who has been linked with a host of european clubs , is said to be one of the hottest prospects to emerge from the caribbean .
+premier league outfit west ham are closing in on the signature of jamaican starlet deshane beckford
+meanwhile , west ham have revealed season tickets at the olympic stadium will cost as little as £ 289 .
+the hammers will have the cheapest pricing strategy in the barclays premier league in a bid to fill the 54,000 capacity stadium when they make the switch for the 2016-17 season .
+
+#reference: 
+west ham are keen on concluding a deal for 17-year-old deshane beckford .  jamaican starlet beckford has been linked with a host of european clubs .  read our exclusive : west ham season tickets to cost as little as # 289 . 
+
+#decode: 
+jamaican starlet deshane beckford was invited to train with west ham 's academy earlier this month .  beckford also has offers from clubs in belgium .  west ham have cheapest tickets at the olympic stadium will cost as little . 

@@ -1,0 +1,76 @@
+index: 2217
+
+
+hash: 62dabb06c6e0a01e9ae744ae27e937689a2bcf0e
+
+
+#article: 
+campaigners against the new protein world ` are you beach body ready ? '
+adverts are celebrating today after learning that they are being taken down .
+transport for london ( tfl ) has revealed that the controversial posters around the london underground , featuring a bikini-clad model called renee somerfield are being removed .
+the sight of the 24-year-old 's toned figure towering above train platforms has caused a stir among feminists and body image campaigners - a change.org petition calling for the adverts to be pulled has already attracted more than 50,000 signatures .
+one of the many protein world posters on the london underground that have been defaced
+several of the images have also been defaced by bloggers , angry at the perceived insinuation that only women who look like renee are ready to go to the beach .
+the advertising standards authority has also received more than 200 complaints from people saying that the adverts promote an unhealthy body image .
+but today , tfl confirmed that it was pulling the posters down , because they had come to the end of the three-week advertising period that protein world had paid for .
+the company also said it had taken note of the reaction from customers to the advert and that they would bear it in mind if they received a request to put up posters of a similar nature in future .
+the posters are now being removed from the london underground
+a tfl spokesperson told mailonline : ` this advertisement will begin to be removed from our network as scheduled from tomorrow .
+` we have received one complaint about it and we will be guided by the committee of advertising practice ( cap ) and advertising standards authority ( asa ) if a similar advert were to be submitted again .
+` we have zero tolerance towards graffiti on the network and take action to prevent it and remove it . '
+the removal of the posters comes as a protest organised against protein world in hyde park on may 2 gathers steam - hundreds of people are expected to attend the rally in central london .
+the posters have caused a huge backlash on social media , with thousands of tweets directed at the campaign .
+one user called catrin stewartwrite : ` you clearly know what you 're trying to sell with that offensive , unrealistic and sexist advert . '
+another called livy christophers said : ` you do n't get to tell women what is offensive .
+" are you beach body ready " really means " why do n't you look like this . " '
+online fitness store protein world , who claim that the image is entirely unphotoshopped , have been actively engaging in the furore on social media , strongly defending their campaign with some biting responses to aggrieved tweeters
+online fitness store protein world , who claim that the image is entirely unphotoshopped , have been actively engaging in the furore on social media , strongly defending their campaign with some biting responses to aggrieved tweeters .
+` we are a nation of sympathisers for fatties , ' a spokesperson for protein world tweeted to one user after she signed the change.org petition calling for the removal of the advert .
+` why make your insecurities our problem ? '
+tv presenter susanna reid described the campaign for protein shakes , which features a toned swimwear-clad model alongside the slogan ` are you beach body ready ? '
+, as ` anxiety inducing ' during an interview with the fitness brand 's head of global marketing on monday morning .
+the good morning britain presenter and her co-host ben shephard grilled richard staveley about the uproar surrounding the poster , which has attracted the wrath of many social media users .
+many have been outraged that the advert appears to suggest women can not go on the beach in a bikini unless they look like the slim model in the advert .
+` what if my only goal is to be on a beach ? '
+, susanna asked richard , adding , ` am i irrational by finding that advert a little bit anxiety inducing ? '
+weighing in on the debate : susanna reid revealed she found the controversial protein world advert ` anxiety inducing ' on good morning britain on monday
+security threat : staveley revealed police were investigating a bomb threat made to the company
+the protein world boss defended the campaign , saying : ` that may be but we are a fitness brand , our own aspirations are to make the nation healthier and ask each one of us to set our sights higher , to be fitter , to be healthier and actually have an inner and outer confidence within ourselves . '
+the tv stars also addressed the company 's blunt responses to twitter complaints , including ` why make your insecurities our problem ' and ` grow up ' .
+but staveley believes the reaction is justified , saying , ` there is an irrational minority who have decided to interpret it in that way . '
+susanna , 44 , retorted : ` do you think everybody who objects to it is irrational ?
+am i an irrational extremist ? '
+defending protein world : richard staveley , head of global marketing , insisted the company 's advert was n't meant to offend and was targeted at health-conscious individuals looking to get fit in time for summer
+the company boss revealed protein world has received ` threats on our head office , physical and violent threats ' .
+he added : ` we had a bomb threat ... that 's been reported to the police .
+it 's currently being investigated . '
+staveley concluded his appearance on the itv show by declaring that it had been a ` fantastic campaign ' for the brand and they wo n't changing their advertising methods in future .
+the advertising standards authority ( asa ) said it has received 216 complaints about the advert and is ` carefully assessing ' the complaints to ` establish if there are grounds for further action ' .
+sales of protein powder - which can be priced up to £ 45 per kilogram tub - are rocketing in the uk , growing from £ 73m in 2007 to £ 170m in 2012 .
+they are expected to reach £ 358m by 2017 , according to the market-analyst euromonitor , as gym-going brits add the stuff to post-workout smoothies and drinks in a bid to build muscle .
+meanwhile , katie hopkins came to protein world 's defence , tweeting : ` chubsters , quit vandalising protein world ads and get your arse running on the road .
+feminism is n't an excuse for being fat .
+eat less , move more . '
+and writer samantha brick , who is open about feeling confident about her looks , posted a provocative update on facebook : ` just ordered my size 8 yellow bikini for my beach hols in june .
+i will be bikini ready .
+* that * ad totally worked for me . '
+
+#reference: 
+transport for london are removing ` are you beach body ready ? ' posters
+tfl say protein world has come to end of three-week ad placement period
+a rally has been organised against protein world in hyde park on may 2
+
+
+
+#extractive: 
+transport for london ( tfl ) has revealed that the controversial posters around the london underground , featuring a bikini-clad model called renee somerfield are being removed .
+campaigners against the new protein world ` are you beach body ready ? '
+the advertising standards authority has also received more than 200 complaints from people saying that the adverts promote an unhealthy body image .
+
+
+
+#extractive+abstractive: 
+posters featuring a bikini-clad model called renee somerfield are being removed
+change.org petition calling for the adverts to be removed has already attracted more than 50,000 signatures
+the advertising standards authority has also received more than 200 complaints from people saying that the adverts promote an unhealthy body image
+

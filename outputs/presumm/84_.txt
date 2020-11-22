@@ -1,0 +1,60 @@
+index: 8771
+
+
+hash: 1775f8821d8b1fb7b1781e754e8666facf808981
+
+
+#article: 
+big beauty : tibetan mastiffs can weigh 80 kg
+just a year ago they could command prices of up to £ 1.2 million each .
+but tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses -- and their meat put into cheap hotpots .
+the dogs ' dramatic decline in fortune is being partly blamed on the chinese government 's wide-reaching anti-corruption crackdown .
+previously , wealthy businessmen would give the prized mastiffs to officials in the hope of influencing their decisions .
+luo yi , general manager of china 's largest tibetan mastiff puppy farm , told people 's daily online : ` the anti-corruption drive means people not daring to hand them out as gifts - nor would anyone take one as a gift . '
+it is also thought recent bans on owning dogs of more than 50 kg in several chinese cities - including beijing , zhengzhou , shanghai and tianjin - has had a huge impact on the breed 's popularity .
+tibetan mastiffs -- which were traditionally used in tibet to herd other animals and are known for their loyalty - can weigh up to 80 kg .
+china 's mastiff market collapse was revealed after animal-welfare workers rescued a group of the dogs that were being transported to a slaughterhouse .
+the abattoir they were heading to provides hotpot meat for restaurants .
+the dogs ' skin can also be used for leather belts .
+rescuers said they found the 20 mastiffs in cramped cages .
+a third of the dogs were already dead and none had been given food or water for three days .
+several were suffering from broken bones .
+shocking trade : twenty tibetan mastiffs were recently found crammed into cages on their way to a slaughterhouse like the dogs in this picture - taken on a motorway in the chinese capital beijing in 2009
+it is feared that across china hundreds of the dogs are meeting such a cruel fate .
+mastiffs are also being stolen from the streets by ruthless gangs , who sell them to the slaughterhouses , say animal charities .
+unscrupulous breeders are also offloading their ` imperfect ' specimens to the abattoirs .
+luo yi , whose puppy farm is in tibet , said some of his fellow breeders had damaged the quality of the breed to make more money .
+` driven by profits there was a lot of cross-breeding which resulted in a deterioration of the tibetan mastiff in terms of appearance as well as temperament , ' he explained .
+there was now a glut of poor-quality dogs that ca n't be sold , he added .
+loyal : tibetan mastiffs , like the one here , were originally used by people in tibet to herd other animals
+in their heyday : a visitor plays with one of the dogs at a tibetan mastiff show in shenyang city four years ago
+meanwhile , chen youjun a specialist in tibetan mastiff photography , said : ` the rapid pace of urbanisation across china has made more and more people now realise tibetan mastiffs are not animals well-suited to city living . '
+the breed 's boom began in 2005 and led to the dogs being seen as status symbols .
+just 13 months ago one puppy sold for £ 1.2 million , which is thought to be the highest price ever paid for a dog .
+a property develop bought the golden-haired one-year-old from breeder zhang gengyun in the eastern province of zhejiang .
+mr zhang said of his dogs : ` they have lion 's blood and are top-of-the-range mastiff studs . '
+most expensive dog in the world : the gold-maned tibetan mastiff pup ( left ) sold last year in east china for £ 1.2 million .
+the red pup of the same breed ( right ) fetched nearly £ 600,000 .
+the dogs are seen with a model
+
+#reference: 
+tibetan mastiffs had been status symbols for china 's wealthiest
+they were given as gifts to grateful officials by businessmen
+one puppy was sold for # 1.2 million to a property developer last year
+but an anti-corruption drive means the breed is now shunned
+instead the dogs are sold to abattoirs for their meat and skin
+
+
+
+#extractive: 
+but tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses -- and their meat put into cheap hotpots .
+big beauty : tibetan mastiffs can weigh 80kg
+the dogs ' dramatic decline in fortune is being partly blamed on the chinese government 's wide-reaching anti-corruption crackdown .
+
+
+
+#extractive+abstractive: 
+tibetan mastiffs are now so unpopular in china they are being sent to slaughterhouses - and their meat put into cheap hotpots
+dramatic decline in fortune is partly blamed on the chinese government 's anti-corruption crackdown
+wealthy businessmen would give the prized mastiffs to officials in the hope of influencing their decisions
+

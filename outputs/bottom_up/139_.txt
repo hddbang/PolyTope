@@ -1,0 +1,37 @@
+index: 9215
+
+
+hash: 62844962efc2c29f692606454ac355a40ab445fc
+
+
+#article: 
+there may have been a few disgruntled lap swimmers at bondi on thursday .
+the daily visitors to the iconic icebergs club were forced to take their exercise back to the beach as their beloved pool was drained for the fashion folk .
+the empty pool was used as the unusual catwalk setting for the ten pieces presentation as part of mercedes-benz fashion week australia .
+bondi 's icebergs club pool was drained on thursday to create a unique catwalk for mercedes-benz fashion week australia
+catwalk with a view : crowds gathered to take in the show from the balcony of the iconic club
+walk this way : models paraded through the empty pool and along the break wall in front of a beautiful backdrop of the ocean
+mono : ten pieces produces capsule collection of ten pieces of unisex clothing designed to be worn in 20 ways
+the label had no trouble securing the show-stopping location .
+ten pieces is headed up by icebergs restaurateur maurice terzini and his partner lucy hinckfuss .
+the lifestyle brand produces unisex collections of - you guessed it - ten pieces .
+a presentation of entirely monochrome creations saw models walking through the concrete pool and along the break wall with a backdrop of the ocean .
+the collection of ten is designed to be worn in 20 different ways , and are suitable for day to night wear .
+guests were treated to nibbles by icebergs and drinks from santa vittoria as they took in the minimalist , androgynous designs .
+they were treated to beautiful blue sky and sunshine throughout the show , which took place on an unseasonably warm 28 degrees celcius day .
+worlds collide : beachgoers at bondi stopped and stared as the catwalk show took place
+girls and boys : the androgynous wares are designed to be worn by both sexes
+winter is coming : models wrapped up in scarves and hoodies from the unisex collection
+poolside : guests enjoyed the sunny weather as they waited for the show to commence
+public site : passers-by stopped to watch the show from the road above the pool
+
+#reference: 
+ten pieces collection was presented at the beachside pool during final day of mbfwa . 
+ guests sat in and around the pool to take in the capsule collection of monochrome unisex pieces . 
+ label is owned by icebergs restaurateur maurice terzini and partner lucy hinckfuss . 
+
+
+#decode: 
+ten pieces produces capsule collection of ten pieces of unisex clothing designed to be worn in 20 ways . 
+ empty pool was used as part of mercedes-benz fashion week australia . 
+ ten pieces is worn in ten ways . 
