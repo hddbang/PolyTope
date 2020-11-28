@@ -28,7 +28,7 @@ There are 10 system outputs. For each system, we have 150 trials from the non-an
 <img src="./test_model.png" title="paper logo"/>
 
 * [Outputs](./outputs)
-* [Outputs with human annotation](#)
+* [Outputs with human annotation](./outputs_with_human_annotation)
 
 <a name="tool"></a>
 #### Evaluation Tool
@@ -37,6 +37,7 @@ There are 10 system outputs. For each system, we have 150 trials from the non-an
 * [Decision Tree](./DecosionTree.xlsx)
 * [Guidelines](./GuideLines.xlsx)
 * [Template](./AnnotationTemplate.xlsm)
+    - Click this [link](https://slideslive.com/38938815/what-have-we-achieved-on-text-summarization) to watch the demonstration in the video, from 2:25 to 3:40. Remember to enable macros when using the template.
 
 <a name="bibtex"></a>
 #### Bibtex
